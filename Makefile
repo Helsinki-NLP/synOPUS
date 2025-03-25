@@ -1,6 +1,6 @@
 
 
-URLBASE = https://github.com/Helsinki-NLP/OPUS/blob/main/corpus
+URLBASE = https://github.com/Helsinki-NLP/synOPUS/blob/main/corpus
 
 TSV_FILES = info/RELEASES.tsv \
 	info/RELEASE_LICENSES.tsv \

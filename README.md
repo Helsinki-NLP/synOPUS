@@ -1,15 +1,15 @@
-# ![OPUS](img/opus_small.jpg)
+# ![synOPUS](img/opus_small.jpg)
 
-The Open Parallel Corpus
+The Synthetic Open Parallel Corpus
 
 
-* website: http://opus.nlpl.eu
-* github: https://github.com/Helsinki-NLP/OPUS
+* website: http://opus.nlpl.eu/synthetic
+* github: https://github.com/Helsinki-NLP/synOPUS
 * contact: opus-project AT helsinki DOT fi
 
 
 This repository contains information about the [released parallel corpora](info/RELEASES.md) and derived data
-sets in OPUS, the open collection of parallel corpora. Each sub-directory in `corpus/`
+sets in synOPUS, the open collection of parallel corpora. Each sub-directory in `corpus/`
 corresponds to one specific resource with released versions and data sets
 according to the following format `corpus/name/version`.
 
