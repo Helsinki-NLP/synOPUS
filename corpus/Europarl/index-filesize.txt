@@ -1,0 +1,522 @@
+    17036 v8syn/info-files.tar.gz
+ 24311134 v8syn/mono/bg.txt.gz
+ 33190808 v8syn/mono/cs.txt.gz
+103283480 v8syn/mono/da.txt.gz
+114997855 v8syn/mono/de.txt.gz
+111186993 v8syn/mono/el.txt.gz
+114716531 v8syn/mono/en.txt.gz
+109746377 v8syn/mono/es.txt.gz
+ 30239617 v8syn/mono/et.txt.gz
+ 99010253 v8syn/mono/eu.txt.gz
+102363250 v8syn/mono/fi.txt.gz
+114742151 v8syn/mono/fr.txt.gz
+114961502 v8syn/mono/gd.txt.gz
+ 33434350 v8syn/mono/hu.txt.gz
+121903796 v8syn/mono/is.txt.gz
+109882384 v8syn/mono/it.txt.gz
+168208811 v8syn/mono/ka.txt.gz
+ 30476859 v8syn/mono/lt.txt.gz
+ 30439936 v8syn/mono/lv.txt.gz
+124274090 v8syn/mono/mk.txt.gz
+112298595 v8syn/mono/nl.txt.gz
+ 33610222 v8syn/mono/pl.txt.gz
+112349085 v8syn/mono/pt.txt.gz
+ 20332067 v8syn/mono/ro.txt.gz
+ 32712112 v8syn/mono/sk.txt.gz
+ 28649682 v8syn/mono/sl.txt.gz
+122879522 v8syn/mono/so.txt.gz
+102215373 v8syn/mono/sv.txt.gz
+146418512 v8syn/mono/uk.txt.gz
+      841 v8syn/xml/README
+  2798396 v8syn/xml/bg-eu.xml.gz
+  2793393 v8syn/xml/bg-gd.xml.gz
+  2990372 v8syn/xml/bg-is.xml.gz
+  2993278 v8syn/xml/bg-ka.xml.gz
+  2639619 v8syn/xml/bg-mk.xml.gz
+  2990628 v8syn/xml/bg-so.xml.gz
+  2959420 v8syn/xml/bg-uk.xml.gz
+  4413056 v8syn/xml/cs-eu.xml.gz
+  4448009 v8syn/xml/cs-gd.xml.gz
+  4758843 v8syn/xml/cs-is.xml.gz
+  4764759 v8syn/xml/cs-ka.xml.gz
+  4172695 v8syn/xml/cs-mk.xml.gz
+  4761278 v8syn/xml/cs-so.xml.gz
+  4708190 v8syn/xml/cs-uk.xml.gz
+ 14291836 v8syn/xml/da-eu.xml.gz
+ 14460698 v8syn/xml/da-gd.xml.gz
+ 15687110 v8syn/xml/da-is.xml.gz
+ 15914067 v8syn/xml/da-ka.xml.gz
+ 13618983 v8syn/xml/da-mk.xml.gz
+ 15697071 v8syn/xml/da-so.xml.gz
+ 15629610 v8syn/xml/da-uk.xml.gz
+ 14167277 v8syn/xml/de-eu.xml.gz
+ 14298351 v8syn/xml/de-gd.xml.gz
+ 15501628 v8syn/xml/de-is.xml.gz
+ 15712470 v8syn/xml/de-ka.xml.gz
+ 13564390 v8syn/xml/de-mk.xml.gz
+ 15513757 v8syn/xml/de-so.xml.gz
+ 15449696 v8syn/xml/de-uk.xml.gz
+  9095781 v8syn/xml/el-eu.xml.gz
+  9333394 v8syn/xml/el-gd.xml.gz
+  9960163 v8syn/xml/el-is.xml.gz
+ 10059825 v8syn/xml/el-ka.xml.gz
+  8599992 v8syn/xml/el-mk.xml.gz
+  9968477 v8syn/xml/el-so.xml.gz
+  9905270 v8syn/xml/el-uk.xml.gz
+  9662265 v8syn/xml/en-eu.xml.gz
+  9778327 v8syn/xml/en-gd.xml.gz
+ 10599938 v8syn/xml/en-is.xml.gz
+ 10849988 v8syn/xml/en-ka.xml.gz
+  9177230 v8syn/xml/en-mk.xml.gz
+ 10581176 v8syn/xml/en-so.xml.gz
+ 10598298 v8syn/xml/en-uk.xml.gz
+ 14146379 v8syn/xml/eu-fi.xml.gz
+ 14621693 v8syn/xml/eu-fr.xml.gz
+ 15799796 v8syn/xml/eu-gd.xml.gz
+  4287724 v8syn/xml/eu-hu.xml.gz
+ 16674454 v8syn/xml/eu-is.xml.gz
+ 13966022 v8syn/xml/eu-it.xml.gz
+ 17059565 v8syn/xml/eu-ka.xml.gz
+  4383122 v8syn/xml/eu-lt.xml.gz
+  4371116 v8syn/xml/eu-lv.xml.gz
+ 15250242 v8syn/xml/eu-mk.xml.gz
+ 14807419 v8syn/xml/eu-nl.xml.gz
+  4422363 v8syn/xml/eu-pl.xml.gz
+ 14148163 v8syn/xml/eu-pt.xml.gz
+  2721829 v8syn/xml/eu-ro.xml.gz
+  4384866 v8syn/xml/eu-sk.xml.gz
+  4174020 v8syn/xml/eu-sl.xml.gz
+ 16663579 v8syn/xml/eu-so.xml.gz
+ 13838706 v8syn/xml/eu-sv.xml.gz
+ 16617196 v8syn/xml/eu-uk.xml.gz
+ 14165543 v8syn/xml/fi-gd.xml.gz
+ 15330367 v8syn/xml/fi-is.xml.gz
+ 15553347 v8syn/xml/fi-ka.xml.gz
+ 13402228 v8syn/xml/fi-mk.xml.gz
+ 15340317 v8syn/xml/fi-so.xml.gz
+ 15279907 v8syn/xml/fi-uk.xml.gz
+ 14715780 v8syn/xml/fr-gd.xml.gz
+ 15961671 v8syn/xml/fr-is.xml.gz
+ 16238603 v8syn/xml/fr-ka.xml.gz
+ 13877542 v8syn/xml/fr-mk.xml.gz
+ 15971209 v8syn/xml/fr-so.xml.gz
+ 15913834 v8syn/xml/fr-uk.xml.gz
+  4342080 v8syn/xml/gd-hu.xml.gz
+ 16855743 v8syn/xml/gd-is.xml.gz
+ 14104844 v8syn/xml/gd-it.xml.gz
+ 17262466 v8syn/xml/gd-ka.xml.gz
+  4428706 v8syn/xml/gd-lt.xml.gz
+  4420490 v8syn/xml/gd-lv.xml.gz
+ 14349345 v8syn/xml/gd-mk.xml.gz
+ 14941460 v8syn/xml/gd-nl.xml.gz
+  4468757 v8syn/xml/gd-pl.xml.gz
+ 14256231 v8syn/xml/gd-pt.xml.gz
+  2734650 v8syn/xml/gd-ro.xml.gz
+  4434682 v8syn/xml/gd-sk.xml.gz
+  4234609 v8syn/xml/gd-sl.xml.gz
+ 16846123 v8syn/xml/gd-so.xml.gz
+ 13914675 v8syn/xml/gd-sv.xml.gz
+ 16796966 v8syn/xml/gd-uk.xml.gz
+  4637773 v8syn/xml/hu-is.xml.gz
+  4645595 v8syn/xml/hu-ka.xml.gz
+  4058727 v8syn/xml/hu-mk.xml.gz
+  4641080 v8syn/xml/hu-so.xml.gz
+  4590330 v8syn/xml/hu-uk.xml.gz
+ 15303786 v8syn/xml/is-it.xml.gz
+ 18719927 v8syn/xml/is-ka.xml.gz
+  4729786 v8syn/xml/is-lt.xml.gz
+  4712145 v8syn/xml/is-lv.xml.gz
+ 15768089 v8syn/xml/is-mk.xml.gz
+ 16239187 v8syn/xml/is-nl.xml.gz
+  4769955 v8syn/xml/is-pl.xml.gz
+ 15482457 v8syn/xml/is-pt.xml.gz
+  2908262 v8syn/xml/is-ro.xml.gz
+  4733364 v8syn/xml/is-sk.xml.gz
+  4509560 v8syn/xml/is-sl.xml.gz
+ 18248945 v8syn/xml/is-so.xml.gz
+ 15072176 v8syn/xml/is-sv.xml.gz
+ 18202308 v8syn/xml/is-uk.xml.gz
+ 15539047 v8syn/xml/it-ka.xml.gz
+ 13326517 v8syn/xml/it-mk.xml.gz
+ 15326096 v8syn/xml/it-so.xml.gz
+ 15263999 v8syn/xml/it-uk.xml.gz
+  4719087 v8syn/xml/ka-lt.xml.gz
+  4726616 v8syn/xml/ka-lv.xml.gz
+ 16114962 v8syn/xml/ka-mk.xml.gz
+ 16456027 v8syn/xml/ka-nl.xml.gz
+  4755948 v8syn/xml/ka-pl.xml.gz
+ 15715218 v8syn/xml/ka-pt.xml.gz
+  2920392 v8syn/xml/ka-ro.xml.gz
+  4737517 v8syn/xml/ka-sk.xml.gz
+  4559036 v8syn/xml/ka-sl.xml.gz
+ 18660196 v8syn/xml/ka-so.xml.gz
+ 15255802 v8syn/xml/ka-sv.xml.gz
+ 18627018 v8syn/xml/ka-uk.xml.gz
+  4141268 v8syn/xml/lt-mk.xml.gz
+  4731583 v8syn/xml/lt-so.xml.gz
+  4677349 v8syn/xml/lt-uk.xml.gz
+  4130128 v8syn/xml/lv-mk.xml.gz
+  4728286 v8syn/xml/lv-so.xml.gz
+  4676213 v8syn/xml/lv-uk.xml.gz
+ 14103677 v8syn/xml/mk-nl.xml.gz
+  4181000 v8syn/xml/mk-pl.xml.gz
+ 13461005 v8syn/xml/mk-pt.xml.gz
+  2548467 v8syn/xml/mk-ro.xml.gz
+  4142112 v8syn/xml/mk-sk.xml.gz
+  3942302 v8syn/xml/mk-sl.xml.gz
+ 15767789 v8syn/xml/mk-so.xml.gz
+ 13134117 v8syn/xml/mk-sv.xml.gz
+ 15723279 v8syn/xml/mk-uk.xml.gz
+ 16218508 v8syn/xml/nl-so.xml.gz
+ 16147382 v8syn/xml/nl-uk.xml.gz
+  4775612 v8syn/xml/pl-so.xml.gz
+  4718004 v8syn/xml/pl-uk.xml.gz
+ 15484339 v8syn/xml/pt-so.xml.gz
+ 15423434 v8syn/xml/pt-uk.xml.gz
+  2921813 v8syn/xml/ro-so.xml.gz
+  2892133 v8syn/xml/ro-uk.xml.gz
+  4740332 v8syn/xml/sk-so.xml.gz
+  4686148 v8syn/xml/sk-uk.xml.gz
+  4532920 v8syn/xml/sl-so.xml.gz
+  4489262 v8syn/xml/sl-uk.xml.gz
+ 15082779 v8syn/xml/so-sv.xml.gz
+ 18181986 v8syn/xml/so-uk.xml.gz
+ 14962817 v8syn/xml/sv-uk.xml.gz
+      843 v8syn/moses/README
+ 38786172 v8syn/moses/bg-eu.txt.zip
+ 41230699 v8syn/moses/bg-gd.txt.zip
+ 43618744 v8syn/moses/bg-is.txt.zip
+ 50588155 v8syn/moses/bg-ka.txt.zip
+ 41705972 v8syn/moses/bg-mk.txt.zip
+ 43920431 v8syn/moses/bg-so.txt.zip
+ 47219609 v8syn/moses/bg-uk.txt.zip
+ 55911737 v8syn/moses/cs-eu.txt.zip
+ 60268048 v8syn/moses/cs-gd.txt.zip
+ 63641656 v8syn/moses/cs-is.txt.zip
+ 74832201 v8syn/moses/cs-ka.txt.zip
+ 61066380 v8syn/moses/cs-mk.txt.zip
+ 64083131 v8syn/moses/cs-so.txt.zip
+ 69516552 v8syn/moses/cs-uk.txt.zip
+168768306 v8syn/moses/da-eu.txt.zip
+182599064 v8syn/moses/da-gd.txt.zip
+196580399 v8syn/moses/da-is.txt.zip
+233111049 v8syn/moses/da-ka.txt.zip
+186876623 v8syn/moses/da-mk.txt.zip
+197323198 v8syn/moses/da-so.txt.zip
+217157545 v8syn/moses/da-uk.txt.zip
+178744196 v8syn/moses/de-eu.txt.zip
+192091216 v8syn/moses/de-gd.txt.zip
+206780250 v8syn/moses/de-is.txt.zip
+242300949 v8syn/moses/de-ka.txt.zip
+196917506 v8syn/moses/de-mk.txt.zip
+207498118 v8syn/moses/de-so.txt.zip
+227013744 v8syn/moses/de-uk.txt.zip
+137221153 v8syn/moses/el-eu.txt.zip
+148607749 v8syn/moses/el-gd.txt.zip
+157622084 v8syn/moses/el-is.txt.zip
+181445913 v8syn/moses/el-ka.txt.zip
+146832754 v8syn/moses/el-mk.txt.zip
+158180175 v8syn/moses/el-so.txt.zip
+170763803 v8syn/moses/el-uk.txt.zip
+201800732 v8syn/moses/en-eu.txt.zip
+218504165 v8syn/moses/en-gd.txt.zip
+235017497 v8syn/moses/en-is.txt.zip
+278402517 v8syn/moses/en-ka.txt.zip
+221850987 v8syn/moses/en-mk.txt.zip
+235887617 v8syn/moses/en-so.txt.zip
+259044111 v8syn/moses/en-uk.txt.zip
+169707254 v8syn/moses/eu-fi.txt.zip
+182740510 v8syn/moses/eu-fr.txt.zip
+200042207 v8syn/moses/eu-gd.txt.zip
+ 55138754 v8syn/moses/eu-hu.txt.zip
+209247369 v8syn/moses/eu-is.txt.zip
+176203182 v8syn/moses/eu-it.txt.zip
+248773624 v8syn/moses/eu-ka.txt.zip
+ 52715278 v8syn/moses/eu-lt.txt.zip
+ 53066596 v8syn/moses/eu-lv.txt.zip
+209606561 v8syn/moses/eu-mk.txt.zip
+178767376 v8syn/moses/eu-nl.txt.zip
+ 55528117 v8syn/moses/eu-pl.txt.zip
+178159538 v8syn/moses/eu-pt.txt.zip
+ 34689195 v8syn/moses/eu-ro.txt.zip
+ 55174785 v8syn/moses/eu-sk.txt.zip
+ 50824148 v8syn/moses/eu-sl.txt.zip
+210112442 v8syn/moses/eu-so.txt.zip
+161588443 v8syn/moses/eu-sv.txt.zip
+231250866 v8syn/moses/eu-uk.txt.zip
+182063693 v8syn/moses/fi-gd.txt.zip
+195548867 v8syn/moses/fi-is.txt.zip
+231488891 v8syn/moses/fi-ka.txt.zip
+186842680 v8syn/moses/fi-mk.txt.zip
+196307073 v8syn/moses/fi-so.txt.zip
+215676197 v8syn/moses/fi-uk.txt.zip
+196623243 v8syn/moses/fr-gd.txt.zip
+211768396 v8syn/moses/fr-is.txt.zip
+249195740 v8syn/moses/fr-ka.txt.zip
+200715755 v8syn/moses/fr-mk.txt.zip
+212528740 v8syn/moses/fr-so.txt.zip
+232967377 v8syn/moses/fr-uk.txt.zip
+ 59612888 v8syn/moses/gd-hu.txt.zip
+226027076 v8syn/moses/gd-is.txt.zip
+189915411 v8syn/moses/gd-it.txt.zip
+266167632 v8syn/moses/gd-ka.txt.zip
+ 57109002 v8syn/moses/gd-lt.txt.zip
+ 57505667 v8syn/moses/gd-lv.txt.zip
+209605081 v8syn/moses/gd-mk.txt.zip
+192331095 v8syn/moses/gd-nl.txt.zip
+ 59975109 v8syn/moses/gd-pl.txt.zip
+191516277 v8syn/moses/gd-pt.txt.zip
+ 37395814 v8syn/moses/gd-ro.txt.zip
+ 59694359 v8syn/moses/gd-sk.txt.zip
+ 55222954 v8syn/moses/gd-sl.txt.zip
+226928979 v8syn/moses/gd-so.txt.zip
+173615590 v8syn/moses/gd-sv.txt.zip
+248254085 v8syn/moses/gd-uk.txt.zip
+ 62822190 v8syn/moses/hu-is.txt.zip
+ 73626751 v8syn/moses/hu-ka.txt.zip
+ 60017254 v8syn/moses/hu-mk.txt.zip
+ 63249341 v8syn/moses/hu-so.txt.zip
+ 68497287 v8syn/moses/hu-uk.txt.zip
+204493923 v8syn/moses/is-it.txt.zip
+286551623 v8syn/moses/is-ka.txt.zip
+ 60227448 v8syn/moses/is-lt.txt.zip
+ 60612422 v8syn/moses/is-lv.txt.zip
+228979847 v8syn/moses/is-mk.txt.zip
+207512346 v8syn/moses/is-nl.txt.zip
+ 63219550 v8syn/moses/is-pl.txt.zip
+206471312 v8syn/moses/is-pt.txt.zip
+ 39209427 v8syn/moses/is-ro.txt.zip
+ 62887669 v8syn/moses/is-sk.txt.zip
+ 58158945 v8syn/moses/is-sl.txt.zip
+244105623 v8syn/moses/is-so.txt.zip
+186654585 v8syn/moses/is-sv.txt.zip
+267323763 v8syn/moses/is-uk.txt.zip
+241577077 v8syn/moses/it-ka.txt.zip
+194327747 v8syn/moses/it-mk.txt.zip
+205241605 v8syn/moses/it-so.txt.zip
+225374551 v8syn/moses/it-uk.txt.zip
+ 71257082 v8syn/moses/ka-lt.txt.zip
+ 71700435 v8syn/moses/ka-lv.txt.zip
+266179938 v8syn/moses/ka-mk.txt.zip
+244389796 v8syn/moses/ka-nl.txt.zip
+ 74130831 v8syn/moses/ka-pl.txt.zip
+243090607 v8syn/moses/ka-pt.txt.zip
+ 46127061 v8syn/moses/ka-ro.txt.zip
+ 73959685 v8syn/moses/ka-sk.txt.zip
+ 69025756 v8syn/moses/ka-sl.txt.zip
+287545035 v8syn/moses/ka-so.txt.zip
+220910531 v8syn/moses/ka-sv.txt.zip
+311310140 v8syn/moses/ka-uk.txt.zip
+ 57931559 v8syn/moses/lt-mk.txt.zip
+ 60661750 v8syn/moses/lt-so.txt.zip
+ 66026704 v8syn/moses/lt-uk.txt.zip
+ 58204086 v8syn/moses/lv-mk.txt.zip
+ 61051367 v8syn/moses/lv-so.txt.zip
+ 66435134 v8syn/moses/lv-uk.txt.zip
+196693939 v8syn/moses/mk-nl.txt.zip
+ 60504469 v8syn/moses/mk-pl.txt.zip
+195803676 v8syn/moses/mk-pt.txt.zip
+ 37496233 v8syn/moses/mk-ro.txt.zip
+ 60198521 v8syn/moses/mk-sk.txt.zip
+ 55846609 v8syn/moses/mk-sl.txt.zip
+229782764 v8syn/moses/mk-so.txt.zip
+177977378 v8syn/moses/mk-sv.txt.zip
+250195264 v8syn/moses/mk-uk.txt.zip
+208277311 v8syn/moses/nl-so.txt.zip
+228443182 v8syn/moses/nl-uk.txt.zip
+ 63652450 v8syn/moses/pl-so.txt.zip
+ 68960748 v8syn/moses/pl-uk.txt.zip
+207226075 v8syn/moses/pt-so.txt.zip
+227263429 v8syn/moses/pt-uk.txt.zip
+ 39502889 v8syn/moses/ro-so.txt.zip
+ 42778567 v8syn/moses/ro-uk.txt.zip
+ 63320540 v8syn/moses/sk-so.txt.zip
+ 68704490 v8syn/moses/sk-uk.txt.zip
+ 58578104 v8syn/moses/sl-so.txt.zip
+ 63857444 v8syn/moses/sl-uk.txt.zip
+187394695 v8syn/moses/so-sv.txt.zip
+268309750 v8syn/moses/so-uk.txt.zip
+205907466 v8syn/moses/sv-uk.txt.zip
+      841 v8syn/tmx/README
+ 46099187 v8syn/tmx/bg-eu.tmx.gz
+ 48931451 v8syn/tmx/bg-gd.tmx.gz
+ 51822256 v8syn/tmx/bg-is.tmx.gz
+ 58551855 v8syn/tmx/bg-ka.tmx.gz
+ 44871696 v8syn/tmx/bg-mk.tmx.gz
+ 52207337 v8syn/tmx/bg-so.tmx.gz
+ 53724742 v8syn/tmx/bg-uk.tmx.gz
+ 65800663 v8syn/tmx/cs-eu.tmx.gz
+ 71504508 v8syn/tmx/cs-gd.tmx.gz
+ 75070306 v8syn/tmx/cs-is.tmx.gz
+ 89972380 v8syn/tmx/cs-ka.tmx.gz
+ 73565090 v8syn/tmx/cs-mk.tmx.gz
+ 75747787 v8syn/tmx/cs-so.tmx.gz
+ 83924865 v8syn/tmx/cs-uk.tmx.gz
+196272689 v8syn/tmx/da-eu.tmx.gz
+213918274 v8syn/tmx/da-gd.tmx.gz
+228168599 v8syn/tmx/da-is.tmx.gz
+276283554 v8syn/tmx/da-ka.tmx.gz
+222097592 v8syn/tmx/da-mk.tmx.gz
+230473105 v8syn/tmx/da-so.tmx.gz
+258713270 v8syn/tmx/da-uk.tmx.gz
+207873625 v8syn/tmx/de-eu.tmx.gz
+225116467 v8syn/tmx/de-gd.tmx.gz
+241148773 v8syn/tmx/de-is.tmx.gz
+287873472 v8syn/tmx/de-ka.tmx.gz
+234470254 v8syn/tmx/de-mk.tmx.gz
+242479081 v8syn/tmx/de-so.tmx.gz
+270882895 v8syn/tmx/de-uk.tmx.gz
+161789615 v8syn/tmx/el-eu.tmx.gz
+175064422 v8syn/tmx/el-gd.tmx.gz
+185803306 v8syn/tmx/el-is.tmx.gz
+209744654 v8syn/tmx/el-ka.tmx.gz
+169860195 v8syn/tmx/el-mk.tmx.gz
+186677333 v8syn/tmx/el-so.tmx.gz
+198585693 v8syn/tmx/el-uk.tmx.gz
+233751641 v8syn/tmx/en-eu.tmx.gz
+254382985 v8syn/tmx/en-gd.tmx.gz
+273776435 v8syn/tmx/en-is.tmx.gz
+328852810 v8syn/tmx/en-ka.tmx.gz
+262965306 v8syn/tmx/en-mk.tmx.gz
+273676565 v8syn/tmx/en-so.tmx.gz
+308036328 v8syn/tmx/en-uk.tmx.gz
+197686661 v8syn/tmx/eu-fi.tmx.gz
+213421680 v8syn/tmx/eu-fr.tmx.gz
+234216676 v8syn/tmx/eu-gd.tmx.gz
+ 64841273 v8syn/tmx/eu-hu.tmx.gz
+244533817 v8syn/tmx/eu-is.tmx.gz
+204151310 v8syn/tmx/eu-it.tmx.gz
+294139884 v8syn/tmx/eu-ka.tmx.gz
+ 61770733 v8syn/tmx/eu-lt.tmx.gz
+ 62254131 v8syn/tmx/eu-lv.tmx.gz
+248591798 v8syn/tmx/eu-mk.tmx.gz
+207283811 v8syn/tmx/eu-nl.tmx.gz
+ 65126509 v8syn/tmx/eu-pl.tmx.gz
+207050561 v8syn/tmx/eu-pt.tmx.gz
+ 40494088 v8syn/tmx/eu-ro.tmx.gz
+ 64993392 v8syn/tmx/eu-sk.tmx.gz
+ 59379506 v8syn/tmx/eu-sl.tmx.gz
+245055884 v8syn/tmx/eu-so.tmx.gz
+187511123 v8syn/tmx/eu-sv.tmx.gz
+275005438 v8syn/tmx/eu-uk.tmx.gz
+213307084 v8syn/tmx/fi-gd.tmx.gz
+227921492 v8syn/tmx/fi-is.tmx.gz
+273665352 v8syn/tmx/fi-ka.tmx.gz
+221415176 v8syn/tmx/fi-mk.tmx.gz
+228820705 v8syn/tmx/fi-so.tmx.gz
+256239775 v8syn/tmx/fi-uk.tmx.gz
+230394145 v8syn/tmx/fr-gd.tmx.gz
+248048294 v8syn/tmx/fr-is.tmx.gz
+296074395 v8syn/tmx/fr-ka.tmx.gz
+238924500 v8syn/tmx/fr-mk.tmx.gz
+248904487 v8syn/tmx/fr-so.tmx.gz
+278050635 v8syn/tmx/fr-uk.tmx.gz
+ 70666608 v8syn/tmx/gd-hu.tmx.gz
+264760085 v8syn/tmx/gd-is.tmx.gz
+221796350 v8syn/tmx/gd-it.tmx.gz
+313969569 v8syn/tmx/gd-ka.tmx.gz
+ 67518965 v8syn/tmx/gd-lt.tmx.gz
+ 68006658 v8syn/tmx/gd-lv.tmx.gz
+247924158 v8syn/tmx/gd-mk.tmx.gz
+224503267 v8syn/tmx/gd-nl.tmx.gz
+ 70988584 v8syn/tmx/gd-pl.tmx.gz
+224185855 v8syn/tmx/gd-pt.tmx.gz
+ 44028222 v8syn/tmx/gd-ro.tmx.gz
+ 70938447 v8syn/tmx/gd-sk.tmx.gz
+ 65103563 v8syn/tmx/gd-sl.tmx.gz
+265179634 v8syn/tmx/gd-so.tmx.gz
+203161112 v8syn/tmx/gd-sv.tmx.gz
+294727193 v8syn/tmx/gd-uk.tmx.gz
+ 73888168 v8syn/tmx/hu-is.tmx.gz
+ 88271543 v8syn/tmx/hu-ka.tmx.gz
+ 72049319 v8syn/tmx/hu-mk.tmx.gz
+ 74684796 v8syn/tmx/hu-so.tmx.gz
+ 82432437 v8syn/tmx/hu-uk.tmx.gz
+238611379 v8syn/tmx/is-it.tmx.gz
+339093016 v8syn/tmx/is-ka.tmx.gz
+ 70927323 v8syn/tmx/is-lt.tmx.gz
+ 71443196 v8syn/tmx/is-lv.tmx.gz
+271321254 v8syn/tmx/is-mk.tmx.gz
+241463395 v8syn/tmx/is-nl.tmx.gz
+ 74626383 v8syn/tmx/is-pl.tmx.gz
+241063107 v8syn/tmx/is-pt.tmx.gz
+ 46148283 v8syn/tmx/is-ro.tmx.gz
+ 74190343 v8syn/tmx/is-sk.tmx.gz
+ 68318358 v8syn/tmx/is-sl.tmx.gz
+285161892 v8syn/tmx/is-so.tmx.gz
+216494860 v8syn/tmx/is-sv.tmx.gz
+317587167 v8syn/tmx/is-uk.tmx.gz
+286234493 v8syn/tmx/it-ka.tmx.gz
+230567398 v8syn/tmx/it-mk.tmx.gz
+239245329 v8syn/tmx/it-so.tmx.gz
+268055857 v8syn/tmx/it-uk.tmx.gz
+ 85139742 v8syn/tmx/ka-lt.tmx.gz
+ 85595401 v8syn/tmx/ka-lv.tmx.gz
+305216295 v8syn/tmx/ka-mk.tmx.gz
+288440178 v8syn/tmx/ka-nl.tmx.gz
+ 89010755 v8syn/tmx/ka-pl.tmx.gz
+288635754 v8syn/tmx/ka-pt.tmx.gz
+ 55031262 v8syn/tmx/ka-ro.tmx.gz
+ 89087621 v8syn/tmx/ka-sk.tmx.gz
+ 82254893 v8syn/tmx/ka-sl.tmx.gz
+340217206 v8syn/tmx/ka-so.tmx.gz
+261405672 v8syn/tmx/ka-sv.tmx.gz
+361201635 v8syn/tmx/ka-uk.tmx.gz
+ 69400439 v8syn/tmx/lt-mk.tmx.gz
+ 71448165 v8syn/tmx/lt-so.tmx.gz
+ 79289584 v8syn/tmx/lt-uk.tmx.gz
+ 69622451 v8syn/tmx/lv-mk.tmx.gz
+ 72009428 v8syn/tmx/lv-so.tmx.gz
+ 79694688 v8syn/tmx/lv-uk.tmx.gz
+232862489 v8syn/tmx/mk-nl.tmx.gz
+ 72703547 v8syn/tmx/mk-pl.tmx.gz
+232899250 v8syn/tmx/mk-pt.tmx.gz
+ 44809545 v8syn/tmx/mk-ro.tmx.gz
+ 72572773 v8syn/tmx/mk-sk.tmx.gz
+ 66715748 v8syn/tmx/mk-sl.tmx.gz
+272504338 v8syn/tmx/mk-so.tmx.gz
+211183438 v8syn/tmx/mk-sv.tmx.gz
+283026103 v8syn/tmx/mk-uk.tmx.gz
+242239477 v8syn/tmx/nl-so.tmx.gz
+271250838 v8syn/tmx/nl-uk.tmx.gz
+ 74987637 v8syn/tmx/pl-so.tmx.gz
+ 83058602 v8syn/tmx/pl-uk.tmx.gz
+242324445 v8syn/tmx/pt-so.tmx.gz
+270972600 v8syn/tmx/pt-uk.tmx.gz
+ 46426432 v8syn/tmx/ro-so.tmx.gz
+ 51264009 v8syn/tmx/ro-uk.tmx.gz
+ 74954165 v8syn/tmx/sk-so.tmx.gz
+ 83008444 v8syn/tmx/sk-uk.tmx.gz
+ 68817835 v8syn/tmx/sl-so.tmx.gz
+ 76478345 v8syn/tmx/sl-uk.tmx.gz
+218581883 v8syn/tmx/so-sv.tmx.gz
+319119505 v8syn/tmx/so-uk.tmx.gz
+245064723 v8syn/tmx/sv-uk.tmx.gz
+ 31673977 v8syn/raw/bg.zip
+ 44397077 v8syn/raw/cs.zip
+127920014 v8syn/raw/da.zip
+139761565 v8syn/raw/de.zip
+131764252 v8syn/raw/el.zip
+142174601 v8syn/raw/en.zip
+134178413 v8syn/raw/es.zip
+ 41104924 v8syn/raw/et.zip
+113148488 v8syn/raw/eu.zip
+126432293 v8syn/raw/fi.zip
+140103508 v8syn/raw/fr.zip
+129524073 v8syn/raw/gd.zip
+ 44574870 v8syn/raw/hu.zip
+137559551 v8syn/raw/is.zip
+134455109 v8syn/raw/it.zip
+182081859 v8syn/raw/ka.zip
+ 41426964 v8syn/raw/lt.zip
+ 41367448 v8syn/raw/lv.zip
+136642867 v8syn/raw/mk.zip
+137519794 v8syn/raw/nl.zip
+ 44893762 v8syn/raw/pl.zip
+137151826 v8syn/raw/pt.zip
+ 27448871 v8syn/raw/ro.zip
+ 43890542 v8syn/raw/sk.zip
+ 39066173 v8syn/raw/sl.zip
+138650176 v8syn/raw/so.zip
+126679387 v8syn/raw/sv.zip
+161618421 v8syn/raw/uk.zip

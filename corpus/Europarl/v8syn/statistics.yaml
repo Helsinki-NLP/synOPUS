@@ -1,0 +1,5422 @@
+---
+bitexts:
+  bg-eu:
+    alignments: 360758
+    downloads:
+      alignments:
+        size: 2798396
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/bg-eu.xml.gz
+      source language:
+        size: 31673977
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/bg.zip
+      target language:
+        size: 113148488
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/eu.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 2265
+    source language tokens: 8534742
+    target language tokens: 6566810
+  bg-gd:
+    alignments: 360483
+    downloads:
+      alignments:
+        size: 2793393
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/bg-gd.xml.gz
+      source language:
+        size: 31673977
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/bg.zip
+      target language:
+        size: 129524073
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/gd.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 2284
+    source language tokens: 8538444
+    target language tokens: 10509385
+  bg-is:
+    alignments: 386221
+    downloads:
+      alignments:
+        size: 2990372
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/bg-is.xml.gz
+      source language:
+        size: 31673977
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/bg.zip
+      target language:
+        size: 137559551
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/is.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 2450
+    source language tokens: 9152498
+    target language tokens: 8599368
+  bg-ka:
+    alignments: 375701
+    downloads:
+      alignments:
+        size: 2993278
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/bg-ka.xml.gz
+      source language:
+        size: 31673977
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/bg.zip
+      target language:
+        size: 182081859
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/ka.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 2454
+    source language tokens: 8931773
+    target language tokens: 6583424
+  bg-mk:
+    alignments: 340189
+    downloads:
+      alignments:
+        size: 2639619
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/bg-mk.xml.gz
+      source language:
+        size: 31673977
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/bg.zip
+      target language:
+        size: 136642867
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/mk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 2125
+    source language tokens: 8076805
+    target language tokens: 8006934
+  bg-so:
+    alignments: 386939
+    downloads:
+      alignments:
+        size: 2990628
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/bg-so.xml.gz
+      source language:
+        size: 31673977
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/bg.zip
+      target language:
+        size: 138650176
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/so.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 2446
+    source language tokens: 9156582
+    target language tokens: 9775480
+  bg-uk:
+    alignments: 382090
+    downloads:
+      alignments:
+        size: 2959420
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/bg-uk.xml.gz
+      source language:
+        size: 31673977
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/bg.zip
+      target language:
+        size: 161618421
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 2454
+    source language tokens: 9044836
+    target language tokens: 7675409
+  cs-eu:
+    alignments: 570448
+    downloads:
+      alignments:
+        size: 4413056
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/cs-eu.xml.gz
+      source language:
+        size: 44397077
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/cs.zip
+      target language:
+        size: 113148488
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/eu.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3353
+    source language tokens: 11846460
+    target language tokens: 10332849
+  cs-gd:
+    alignments: 575232
+    downloads:
+      alignments:
+        size: 4448009
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/cs-gd.xml.gz
+      source language:
+        size: 44397077
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/cs.zip
+      target language:
+        size: 129524073
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/gd.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3417
+    source language tokens: 11954223
+    target language tokens: 16670999
+  cs-is:
+    alignments: 615536
+    downloads:
+      alignments:
+        size: 4758843
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/cs-is.xml.gz
+      source language:
+        size: 44397077
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/cs.zip
+      target language:
+        size: 137559551
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/is.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3659
+    source language tokens: 12803711
+    target language tokens: 13636866
+  cs-ka:
+    alignments: 599259
+    downloads:
+      alignments:
+        size: 4764759
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/cs-ka.xml.gz
+      source language:
+        size: 44397077
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/cs.zip
+      target language:
+        size: 182081859
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/ka.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3662
+    source language tokens: 12508257
+    target language tokens: 10433400
+  cs-mk:
+    alignments: 539705
+    downloads:
+      alignments:
+        size: 4172695
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/cs-mk.xml.gz
+      source language:
+        size: 44397077
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/cs.zip
+      target language:
+        size: 136642867
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/mk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3154
+    source language tokens: 11239475
+    target language tokens: 12630092
+  cs-so:
+    alignments: 616784
+    downloads:
+      alignments:
+        size: 4761278
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/cs-so.xml.gz
+      source language:
+        size: 44397077
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/cs.zip
+      target language:
+        size: 138650176
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/so.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3656
+    source language tokens: 12807535
+    target language tokens: 15487579
+  cs-uk:
+    alignments: 609382
+    downloads:
+      alignments:
+        size: 4708190
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/cs-uk.xml.gz
+      source language:
+        size: 44397077
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/cs.zip
+      target language:
+        size: 161618421
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3663
+    source language tokens: 12658251
+    target language tokens: 12179064
+  da-eu:
+    alignments: 1735386
+    downloads:
+      alignments:
+        size: 14291836
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/da-eu.xml.gz
+      source language:
+        size: 127920014
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/da.zip
+      target language:
+        size: 113148488
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/eu.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4431
+    source language tokens: 40867808
+    target language tokens: 31926857
+  da-gd:
+    alignments: 1751270
+    downloads:
+      alignments:
+        size: 14460698
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/da-gd.xml.gz
+      source language:
+        size: 127920014
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/da.zip
+      target language:
+        size: 129524073
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/gd.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4512
+    source language tokens: 41246130
+    target language tokens: 51982740
+  da-is:
+    alignments: 1906244
+    downloads:
+      alignments:
+        size: 15687110
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/da-is.xml.gz
+      source language:
+        size: 127920014
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/da.zip
+      target language:
+        size: 137559551
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/is.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4854
+    source language tokens: 44984376
+    target language tokens: 43326984
+  da-ka:
+    alignments: 1869832
+    downloads:
+      alignments:
+        size: 15914067
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/da-ka.xml.gz
+      source language:
+        size: 127920014
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/da.zip
+      target language:
+        size: 182081859
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/ka.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4857
+    source language tokens: 44187795
+    target language tokens: 33212884
+  da-mk:
+    alignments: 1655917
+    downloads:
+      alignments:
+        size: 13618983
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/da-mk.xml.gz
+      source language:
+        size: 127920014
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/da.zip
+      target language:
+        size: 136642867
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/mk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4176
+    source language tokens: 39055657
+    target language tokens: 39388301
+  da-so:
+    alignments: 1910699
+    downloads:
+      alignments:
+        size: 15697071
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/da-so.xml.gz
+      source language:
+        size: 127920014
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/da.zip
+      target language:
+        size: 138650176
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/so.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4850
+    source language tokens: 44996883
+    target language tokens: 48684417
+  da-uk:
+    alignments: 1904695
+    downloads:
+      alignments:
+        size: 15629610
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/da-uk.xml.gz
+      source language:
+        size: 127920014
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/da.zip
+      target language:
+        size: 161618421
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4858
+    source language tokens: 44839947
+    target language tokens: 38833128
+  de-eu:
+    alignments: 1710178
+    downloads:
+      alignments:
+        size: 14167277
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/de-eu.xml.gz
+      source language:
+        size: 139761565
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/de.zip
+      target language:
+        size: 113148488
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/eu.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4320
+    source language tokens: 40896210
+    target language tokens: 31530667
+  de-gd:
+    alignments: 1721592
+    downloads:
+      alignments:
+        size: 14298351
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/de-gd.xml.gz
+      source language:
+        size: 139761565
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/de.zip
+      target language:
+        size: 129524073
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/gd.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4397
+    source language tokens: 41183135
+    target language tokens: 51234649
+  de-is:
+    alignments: 1872029
+    downloads:
+      alignments:
+        size: 15501628
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/de-is.xml.gz
+      source language:
+        size: 139761565
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/de.zip
+      target language:
+        size: 137559551
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/is.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4726
+    source language tokens: 44870468
+    target language tokens: 42665780
+  de-ka:
+    alignments: 1834806
+    downloads:
+      alignments:
+        size: 15712470
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/de-ka.xml.gz
+      source language:
+        size: 139761565
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/de.zip
+      target language:
+        size: 182081859
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/ka.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4729
+    source language tokens: 44037211
+    target language tokens: 32676437
+  de-mk:
+    alignments: 1638572
+    downloads:
+      alignments:
+        size: 13564390
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/de-mk.xml.gz
+      source language:
+        size: 139761565
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/de.zip
+      target language:
+        size: 136642867
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/mk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4082
+    source language tokens: 39244206
+    target language tokens: 39066389
+  de-so:
+    alignments: 1876539
+    downloads:
+      alignments:
+        size: 15513757
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/de-so.xml.gz
+      source language:
+        size: 139761565
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/de.zip
+      target language:
+        size: 138650176
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/so.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4722
+    source language tokens: 44882446
+    target language tokens: 47926390
+  de-uk:
+    alignments: 1870993
+    downloads:
+      alignments:
+        size: 15449696
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/de-uk.xml.gz
+      source language:
+        size: 139761565
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/de.zip
+      target language:
+        size: 161618421
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4730
+    source language tokens: 44727518
+    target language tokens: 38236441
+  el-eu:
+    alignments: 1117236
+    downloads:
+      alignments:
+        size: 9095781
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/el-eu.xml.gz
+      source language:
+        size: 131764252
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/el.zip
+      target language:
+        size: 113148488
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/eu.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4337
+    source language tokens: 29390960
+    target language tokens: 21052468
+  el-gd:
+    alignments: 1143184
+    downloads:
+      alignments:
+        size: 9333394
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/el-gd.xml.gz
+      source language:
+        size: 131764252
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/el.zip
+      target language:
+        size: 129524073
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/gd.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4417
+    source language tokens: 30078565
+    target language tokens: 34704289
+  el-is:
+    alignments: 1224175
+    downloads:
+      alignments:
+        size: 9960163
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/el-is.xml.gz
+      source language:
+        size: 131764252
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/el.zip
+      target language:
+        size: 137559551
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/is.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4746
+    source language tokens: 32247212
+    target language tokens: 28436047
+  el-ka:
+    alignments: 1203317
+    downloads:
+      alignments:
+        size: 10059825
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/el-ka.xml.gz
+      source language:
+        size: 131764252
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/el.zip
+      target language:
+        size: 182081859
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/ka.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4749
+    source language tokens: 31753313
+    target language tokens: 21852667
+  el-mk:
+    alignments: 1057565
+    downloads:
+      alignments:
+        size: 8599992
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/el-mk.xml.gz
+      source language:
+        size: 131764252
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/el.zip
+      target language:
+        size: 136642867
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/mk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4080
+    source language tokens: 27891072
+    target language tokens: 25783278
+  el-so:
+    alignments: 1227027
+    downloads:
+      alignments:
+        size: 9968477
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/el-so.xml.gz
+      source language:
+        size: 131764252
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/el.zip
+      target language:
+        size: 138650176
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/so.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4742
+    source language tokens: 32253989
+    target language tokens: 32023686
+  el-uk:
+    alignments: 1221565
+    downloads:
+      alignments:
+        size: 9905270
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/el-uk.xml.gz
+      source language:
+        size: 131764252
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/el.zip
+      target language:
+        size: 161618421
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4750
+    source language tokens: 32097877
+    target language tokens: 25477602
+  en-eu:
+    alignments: 2136678
+    downloads:
+      alignments:
+        size: 9662265
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/en-eu.xml.gz
+      source language:
+        size: 142174601
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/en.zip
+      target language:
+        size: 113148488
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/eu.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 5207
+    source language tokens: 53726634
+    target language tokens: 38609568
+  en-gd:
+    alignments: 2156751
+    downloads:
+      alignments:
+        size: 9778327
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/en-gd.xml.gz
+      source language:
+        size: 142174601
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/en.zip
+      target language:
+        size: 129524073
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/gd.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 5308
+    source language tokens: 54271512
+    target language tokens: 62856100
+  en-is:
+    alignments: 2346007
+    downloads:
+      alignments:
+        size: 10599938
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/en-is.xml.gz
+      source language:
+        size: 142174601
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/en.zip
+      target language:
+        size: 137559551
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/is.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 5695
+    source language tokens: 59153196
+    target language tokens: 52357161
+  en-ka:
+    alignments: 2299706
+    downloads:
+      alignments:
+        size: 10849988
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/en-ka.xml.gz
+      source language:
+        size: 142174601
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/en.zip
+      target language:
+        size: 182081859
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/ka.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 5698
+    source language tokens: 58006660
+    target language tokens: 40118888
+  en-mk:
+    alignments: 2026627
+    downloads:
+      alignments:
+        size: 9177230
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/en-mk.xml.gz
+      source language:
+        size: 142174601
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/en.zip
+      target language:
+        size: 136642867
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/mk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4893
+    source language tokens: 51004994
+    target language tokens: 47339014
+  en-so:
+    alignments: 2350618
+    downloads:
+      alignments:
+        size: 10581176
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/en-so.xml.gz
+      source language:
+        size: 142174601
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/en.zip
+      target language:
+        size: 138650176
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/so.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 5689
+    source language tokens: 59112478
+    target language tokens: 58871667
+  en-uk:
+    alignments: 2341706
+    downloads:
+      alignments:
+        size: 10598298
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/en-uk.xml.gz
+      source language:
+        size: 142174601
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/en.zip
+      target language:
+        size: 161618421
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 5699
+    source language tokens: 58854729
+    target language tokens: 46885017
+  eu-fi:
+    alignments: 1727214
+    downloads:
+      alignments:
+        size: 14146379
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/eu-fi.xml.gz
+      source language:
+        size: 113148488
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/eu.zip
+      target language:
+        size: 126432293
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/fi.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4403
+    source language tokens: 31581979
+    target language tokens: 29755900
+  eu-fr:
+    alignments: 1792162
+    downloads:
+      alignments:
+        size: 14621693
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/eu-fr.xml.gz
+      source language:
+        size: 113148488
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/eu.zip
+      target language:
+        size: 140103508
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/fr.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4505
+    source language tokens: 33051618
+    target language tokens: 48066765
+  eu-gd:
+    alignments: 2004305
+    downloads:
+      alignments:
+        size: 15799796
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/eu-gd.xml.gz
+      source language:
+        size: 113148488
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/eu.zip
+      target language:
+        size: 129524073
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/gd.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4947
+    source language tokens: 36300056
+    target language tokens: 58517622
+  eu-hu:
+    alignments: 549903
+    downloads:
+      alignments:
+        size: 4287724
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/eu-hu.xml.gz
+      source language:
+        size: 113148488
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/eu.zip
+      target language:
+        size: 44574870
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/hu.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3278
+    source language tokens: 9963208
+    target language tokens: 11289360
+  eu-is:
+    alignments: 2122006
+    downloads:
+      alignments:
+        size: 16674454
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/eu-is.xml.gz
+      source language:
+        size: 113148488
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/eu.zip
+      target language:
+        size: 137559551
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/is.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 5204
+    source language tokens: 38506016
+    target language tokens: 47416292
+  eu-it:
+    alignments: 1691109
+    downloads:
+      alignments:
+        size: 13966022
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/eu-it.xml.gz
+      source language:
+        size: 113148488
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/eu.zip
+      target language:
+        size: 134455109
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/it.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4533
+    source language tokens: 32505739
+    target language tokens: 43680379
+  eu-ka:
+    alignments: 2073871
+    downloads:
+      alignments:
+        size: 17059565
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/eu-ka.xml.gz
+      source language:
+        size: 113148488
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/eu.zip
+      target language:
+        size: 182081859
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/ka.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 5206
+    source language tokens: 37693858
+    target language tokens: 36270549
+  eu-lt:
+    alignments: 557937
+    downloads:
+      alignments:
+        size: 4383122
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/eu-lt.xml.gz
+      source language:
+        size: 113148488
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/eu.zip
+      target language:
+        size: 41426964
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/lt.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3339
+    source language tokens: 10118400
+    target language tokens: 10349533
+  eu-lv:
+    alignments: 562815
+    downloads:
+      alignments:
+        size: 4371116
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/eu-lv.xml.gz
+      source language:
+        size: 113148488
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/eu.zip
+      target language:
+        size: 41367448
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/lv.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3314
+    source language tokens: 10180198
+    target language tokens: 10881890
+  eu-mk:
+    alignments: 1939157
+    downloads:
+      alignments:
+        size: 15250242
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/eu-mk.xml.gz
+      source language:
+        size: 113148488
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/eu.zip
+      target language:
+        size: 136642867
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/mk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4751
+    source language tokens: 35124445
+    target language tokens: 45360993
+  eu-nl:
+    alignments: 1768465
+    downloads:
+      alignments:
+        size: 14807419
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/eu-nl.xml.gz
+      source language:
+        size: 113148488
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/eu.zip
+      target language:
+        size: 137519794
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/nl.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4488
+    source language tokens: 32548993
+    target language tokens: 46093259
+  eu-pl:
+    alignments: 555613
+    downloads:
+      alignments:
+        size: 4422363
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/eu-pl.xml.gz
+      source language:
+        size: 113148488
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/eu.zip
+      target language:
+        size: 44893762
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/pl.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3344
+    source language tokens: 10090218
+    target language tokens: 11662219
+  eu-pt:
+    alignments: 1746825
+    downloads:
+      alignments:
+        size: 14148163
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/eu-pt.xml.gz
+      source language:
+        size: 113148488
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/eu.zip
+      target language:
+        size: 137151826
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/pt.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4491
+    source language tokens: 32384001
+    target language tokens: 45716437
+  eu-ro:
+    alignments: 353297
+    downloads:
+      alignments:
+        size: 2721829
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/eu-ro.xml.gz
+      source language:
+        size: 113148488
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/eu.zip
+      target language:
+        size: 27448871
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/ro.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 2262
+    source language tokens: 6443789
+    target language tokens: 8823124
+  eu-sk:
+    alignments: 563377
+    downloads:
+      alignments:
+        size: 4384866
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/eu-sk.xml.gz
+      source language:
+        size: 113148488
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/eu.zip
+      target language:
+        size: 43890542
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/sk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3322
+    source language tokens: 10201688
+    target language tokens: 11770798
+  eu-sl:
+    alignments: 549240
+    downloads:
+      alignments:
+        size: 4174020
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/eu-sl.xml.gz
+      source language:
+        size: 113148488
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/eu.zip
+      target language:
+        size: 39066173
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/sl.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3281
+    source language tokens: 9911267
+    target language tokens: 11391522
+  eu-so:
+    alignments: 2126442
+    downloads:
+      alignments:
+        size: 16663579
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/eu-so.xml.gz
+      source language:
+        size: 113148488
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/eu.zip
+      target language:
+        size: 138650176
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/so.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 5198
+    source language tokens: 38489335
+    target language tokens: 53345813
+  eu-sv:
+    alignments: 1657215
+    downloads:
+      alignments:
+        size: 13838706
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/eu-sv.xml.gz
+      source language:
+        size: 113148488
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/eu.zip
+      target language:
+        size: 126679387
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/sv.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4461
+    source language tokens: 30292522
+    target language tokens: 38186581
+  eu-uk:
+    alignments: 2116847
+    downloads:
+      alignments:
+        size: 16617196
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/eu-uk.xml.gz
+      source language:
+        size: 113148488
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/eu.zip
+      target language:
+        size: 161618421
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 5207
+    source language tokens: 38304829
+    target language tokens: 42447696
+  fi-gd:
+    alignments: 1729681
+    downloads:
+      alignments:
+        size: 14165543
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/fi-gd.xml.gz
+      source language:
+        size: 126432293
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/fi.zip
+      target language:
+        size: 129524073
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/gd.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4477
+    source language tokens: 29818376
+    target language tokens: 51033537
+  fi-is:
+    alignments: 1877796
+    downloads:
+      alignments:
+        size: 15330367
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/fi-is.xml.gz
+      source language:
+        size: 126432293
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/fi.zip
+      target language:
+        size: 137559551
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/is.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4816
+    source language tokens: 32430995
+    target language tokens: 42433273
+  fi-ka:
+    alignments: 1843609
+    downloads:
+      alignments:
+        size: 15553347
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/fi-ka.xml.gz
+      source language:
+        size: 126432293
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/fi.zip
+      target language:
+        size: 182081859
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/ka.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4819
+    source language tokens: 31882622
+    target language tokens: 32554757
+  fi-mk:
+    alignments: 1642550
+    downloads:
+      alignments:
+        size: 13402228
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/fi-mk.xml.gz
+      source language:
+        size: 126432293
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/fi.zip
+      target language:
+        size: 136642867
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/mk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4148
+    source language tokens: 28327213
+    target language tokens: 38833089
+  fi-so:
+    alignments: 1882712
+    downloads:
+      alignments:
+        size: 15340317
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/fi-so.xml.gz
+      source language:
+        size: 126432293
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/fi.zip
+      target language:
+        size: 138650176
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/so.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4812
+    source language tokens: 32442465
+    target language tokens: 47685846
+  fi-uk:
+    alignments: 1876672
+    downloads:
+      alignments:
+        size: 15279907
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/fi-uk.xml.gz
+      source language:
+        size: 126432293
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/fi.zip
+      target language:
+        size: 161618421
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4820
+    source language tokens: 32322986
+    target language tokens: 38030879
+  fr-gd:
+    alignments: 1803396
+    downloads:
+      alignments:
+        size: 14715780
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/fr-gd.xml.gz
+      source language:
+        size: 140103508
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/fr.zip
+      target language:
+        size: 129524073
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/gd.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4585
+    source language tokens: 48402305
+    target language tokens: 53673753
+  fr-is:
+    alignments: 1962699
+    downloads:
+      alignments:
+        size: 15961671
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/fr-is.xml.gz
+      source language:
+        size: 140103508
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/fr.zip
+      target language:
+        size: 137559551
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/is.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4932
+    source language tokens: 52768591
+    target language tokens: 44731051
+  fr-ka:
+    alignments: 1923663
+    downloads:
+      alignments:
+        size: 16238603
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/fr-ka.xml.gz
+      source language:
+        size: 140103508
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/fr.zip
+      target language:
+        size: 182081859
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/ka.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4935
+    source language tokens: 51798231
+    target language tokens: 34267699
+  fr-mk:
+    alignments: 1706313
+    downloads:
+      alignments:
+        size: 13877542
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/fr-mk.xml.gz
+      source language:
+        size: 140103508
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/fr.zip
+      target language:
+        size: 136642867
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/mk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4246
+    source language tokens: 45838918
+    target language tokens: 40689674
+  fr-so:
+    alignments: 1967211
+    downloads:
+      alignments:
+        size: 15971209
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/fr-so.xml.gz
+      source language:
+        size: 140103508
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/fr.zip
+      target language:
+        size: 138650176
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/so.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4927
+    source language tokens: 52780472
+    target language tokens: 50251932
+  fr-uk:
+    alignments: 1961080
+    downloads:
+      alignments:
+        size: 15913834
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/fr-uk.xml.gz
+      source language:
+        size: 140103508
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/fr.zip
+      target language:
+        size: 161618421
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4936
+    source language tokens: 52591185
+    target language tokens: 40082460
+  gd-hu:
+    alignments: 556895
+    downloads:
+      alignments:
+        size: 4342080
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/gd-hu.xml.gz
+      source language:
+        size: 129524073
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/gd.zip
+      target language:
+        size: 44574870
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/hu.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3347
+    source language tokens: 16152646
+    target language tokens: 11441084
+  gd-is:
+    alignments: 2141663
+    downloads:
+      alignments:
+        size: 16855743
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/gd-is.xml.gz
+      source language:
+        size: 129524073
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/gd.zip
+      target language:
+        size: 137559551
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/is.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 5305
+    source language tokens: 62686576
+    target language tokens: 47887612
+  gd-it:
+    alignments: 1702114
+    downloads:
+      alignments:
+        size: 14104844
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/gd-it.xml.gz
+      source language:
+        size: 129524073
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/gd.zip
+      target language:
+        size: 134455109
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/it.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4613
+    source language tokens: 52814569
+    target language tokens: 43994421
+  gd-ka:
+    alignments: 2097445
+    downloads:
+      alignments:
+        size: 17262466
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/gd-ka.xml.gz
+      source language:
+        size: 129524073
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/gd.zip
+      target language:
+        size: 182081859
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/ka.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 5307
+    source language tokens: 61486770
+    target language tokens: 36700694
+  gd-lt:
+    alignments: 564026
+    downloads:
+      alignments:
+        size: 4428706
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/gd-lt.xml.gz
+      source language:
+        size: 129524073
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/gd.zip
+      target language:
+        size: 41426964
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/lt.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3402
+    source language tokens: 16369685
+    target language tokens: 10471182
+  gd-lv:
+    alignments: 569039
+    downloads:
+      alignments:
+        size: 4420490
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/gd-lv.xml.gz
+      source language:
+        size: 129524073
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/gd.zip
+      target language:
+        size: 41367448
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/lv.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3380
+    source language tokens: 16475603
+    target language tokens: 11014235
+  gd-mk:
+    alignments: 1822272
+    downloads:
+      alignments:
+        size: 14349345
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/gd-mk.xml.gz
+      source language:
+        size: 129524073
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/gd.zip
+      target language:
+        size: 136642867
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/mk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4502
+    source language tokens: 53248269
+    target language tokens: 42660760
+  gd-nl:
+    alignments: 1779129
+    downloads:
+      alignments:
+        size: 14941460
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/gd-nl.xml.gz
+      source language:
+        size: 129524073
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/gd.zip
+      target language:
+        size: 137519794
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/nl.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4565
+    source language tokens: 52848473
+    target language tokens: 46365623
+  gd-pl:
+    alignments: 561732
+    downloads:
+      alignments:
+        size: 4468757
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/gd-pl.xml.gz
+      source language:
+        size: 129524073
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/gd.zip
+      target language:
+        size: 44893762
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/pl.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3409
+    source language tokens: 16331289
+    target language tokens: 11805948
+  gd-pt:
+    alignments: 1755289
+    downloads:
+      alignments:
+        size: 14256231
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/gd-pt.xml.gz
+      source language:
+        size: 129524073
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/gd.zip
+      target language:
+        size: 137151826
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/pt.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4565
+    source language tokens: 52532970
+    target language tokens: 45966013
+  gd-ro:
+    alignments: 355769
+    downloads:
+      alignments:
+        size: 2734650
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/gd-ro.xml.gz
+      source language:
+        size: 129524073
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/gd.zip
+      target language:
+        size: 27448871
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/ro.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 2288
+    source language tokens: 10397972
+    target language tokens: 8899144
+  gd-sk:
+    alignments: 570001
+    downloads:
+      alignments:
+        size: 4434682
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/gd-sk.xml.gz
+      source language:
+        size: 129524073
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/gd.zip
+      target language:
+        size: 43890542
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/sk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3389
+    source language tokens: 16521392
+    target language tokens: 11927420
+  gd-sl:
+    alignments: 556339
+    downloads:
+      alignments:
+        size: 4234609
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/gd-sl.xml.gz
+      source language:
+        size: 129524073
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/gd.zip
+      target language:
+        size: 39066173
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/sl.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3347
+    source language tokens: 16068958
+    target language tokens: 11550395
+  gd-so:
+    alignments: 2146671
+    downloads:
+      alignments:
+        size: 16846123
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/gd-so.xml.gz
+      source language:
+        size: 129524073
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/gd.zip
+      target language:
+        size: 138650176
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/so.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 5298
+    source language tokens: 62669581
+    target language tokens: 53877644
+  gd-sv:
+    alignments: 1661409
+    downloads:
+      alignments:
+        size: 13914675
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/gd-sv.xml.gz
+      source language:
+        size: 129524073
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/gd.zip
+      target language:
+        size: 126679387
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/sv.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4533
+    source language tokens: 48994811
+    target language tokens: 38297762
+  gd-uk:
+    alignments: 2137304
+    downloads:
+      alignments:
+        size: 16796966
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/gd-uk.xml.gz
+      source language:
+        size: 129524073
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/gd.zip
+      target language:
+        size: 161618421
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 5308
+    source language tokens: 62384363
+    target language tokens: 42885516
+  hu-is:
+    alignments: 594451
+    downloads:
+      alignments:
+        size: 4637773
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/hu-is.xml.gz
+      source language:
+        size: 44574870
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/hu.zip
+      target language:
+        size: 137559551
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/is.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3583
+    source language tokens: 12223038
+    target language tokens: 13178046
+  hu-ka:
+    alignments: 578909
+    downloads:
+      alignments:
+        size: 4645595
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/hu-ka.xml.gz
+      source language:
+        size: 44574870
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/hu.zip
+      target language:
+        size: 182081859
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/ka.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3586
+    source language tokens: 11945081
+    target language tokens: 10085069
+  hu-mk:
+    alignments: 519762
+    downloads:
+      alignments:
+        size: 4058727
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/hu-mk.xml.gz
+      source language:
+        size: 44574870
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/hu.zip
+      target language:
+        size: 136642867
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/mk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3083
+    source language tokens: 10707048
+    target language tokens: 12165294
+  hu-so:
+    alignments: 595629
+    downloads:
+      alignments:
+        size: 4641080
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/hu-so.xml.gz
+      source language:
+        size: 44574870
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/hu.zip
+      target language:
+        size: 138650176
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/so.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3579
+    source language tokens: 12226420
+    target language tokens: 14966499
+  hu-uk:
+    alignments: 588499
+    downloads:
+      alignments:
+        size: 4590330
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/hu-uk.xml.gz
+      source language:
+        size: 44574870
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/hu.zip
+      target language:
+        size: 161618421
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3587
+    source language tokens: 12085457
+    target language tokens: 11767520
+  is-it:
+    alignments: 1853145
+    downloads:
+      alignments:
+        size: 15303786
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/is-it.xml.gz
+      source language:
+        size: 137559551
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/is.zip
+      target language:
+        size: 134455109
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/it.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4961
+    source language tokens: 44019526
+    target language tokens: 47974981
+  is-ka:
+    alignments: 2278282
+    downloads:
+      alignments:
+        size: 18719927
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/is-ka.xml.gz
+      source language:
+        size: 137559551
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/is.zip
+      target language:
+        size: 182081859
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/ka.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 5694
+    source language tokens: 51133956
+    target language tokens: 39949520
+  is-lt:
+    alignments: 602984
+    downloads:
+      alignments:
+        size: 4729786
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/is-lt.xml.gz
+      source language:
+        size: 137559551
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/is.zip
+      target language:
+        size: 41426964
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/lt.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3645
+    source language tokens: 13376409
+    target language tokens: 11204253
+  is-lv:
+    alignments: 608238
+    downloads:
+      alignments:
+        size: 4712145
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/is-lv.xml.gz
+      source language:
+        size: 137559551
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/is.zip
+      target language:
+        size: 41367448
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/lv.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3619
+    source language tokens: 13455255
+    target language tokens: 11776862
+  is-mk:
+    alignments: 2011087
+    downloads:
+      alignments:
+        size: 15768089
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/is-mk.xml.gz
+      source language:
+        size: 137559551
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/is.zip
+      target language:
+        size: 136642867
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/mk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4892
+    source language tokens: 44977455
+    target language tokens: 47167667
+  is-nl:
+    alignments: 1939162
+    downloads:
+      alignments:
+        size: 16239187
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/is-nl.xml.gz
+      source language:
+        size: 137559551
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/is.zip
+      target language:
+        size: 137519794
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/nl.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4913
+    source language tokens: 44121235
+    target language tokens: 50660458
+  is-pl:
+    alignments: 600097
+    downloads:
+      alignments:
+        size: 4769955
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/is-pl.xml.gz
+      source language:
+        size: 137559551
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/is.zip
+      target language:
+        size: 44893762
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/pl.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3651
+    source language tokens: 13330485
+    target language tokens: 12617326
+  is-pt:
+    alignments: 1912203
+    downloads:
+      alignments:
+        size: 15482457
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/is-pt.xml.gz
+      source language:
+        size: 137559551
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/is.zip
+      target language:
+        size: 137151826
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/pt.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4913
+    source language tokens: 43824473
+    target language tokens: 50179605
+  is-ro:
+    alignments: 378550
+    downloads:
+      alignments:
+        size: 2908262
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/is-ro.xml.gz
+      source language:
+        size: 137559551
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/is.zip
+      target language:
+        size: 27448871
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/ro.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 2450
+    source language tokens: 8444038
+    target language tokens: 9465564
+  is-sk:
+    alignments: 608723
+    downloads:
+      alignments:
+        size: 4733364
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/is-sk.xml.gz
+      source language:
+        size: 137559551
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/is.zip
+      target language:
+        size: 43890542
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/sk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3630
+    source language tokens: 13480953
+    target language tokens: 12739859
+  is-sl:
+    alignments: 594233
+    downloads:
+      alignments:
+        size: 4509560
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/is-sl.xml.gz
+      source language:
+        size: 137559551
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/is.zip
+      target language:
+        size: 39066173
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/sl.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3583
+    source language tokens: 13115283
+    target language tokens: 12344708
+  is-so:
+    alignments: 2335007
+    downloads:
+      alignments:
+        size: 18248945
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/is-so.xml.gz
+      source language:
+        size: 137559551
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/is.zip
+      target language:
+        size: 138650176
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/so.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 5687
+    source language tokens: 52178865
+    target language tokens: 58728864
+  is-sv:
+    alignments: 1805884
+    downloads:
+      alignments:
+        size: 15072176
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/is-sv.xml.gz
+      source language:
+        size: 137559551
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/is.zip
+      target language:
+        size: 126679387
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/sv.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4878
+    source language tokens: 40769338
+    target language tokens: 41717210
+  is-uk:
+    alignments: 2324437
+    downloads:
+      alignments:
+        size: 18202308
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/is-uk.xml.gz
+      source language:
+        size: 137559551
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/is.zip
+      target language:
+        size: 161618421
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 5695
+    source language tokens: 51933065
+    target language tokens: 46734342
+  it-ka:
+    alignments: 1818762
+    downloads:
+      alignments:
+        size: 15539047
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/it-ka.xml.gz
+      source language:
+        size: 134455109
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/it.zip
+      target language:
+        size: 182081859
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/ka.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4964
+    source language tokens: 47135523
+    target language tokens: 33745242
+  it-mk:
+    alignments: 1613542
+    downloads:
+      alignments:
+        size: 13326517
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/it-mk.xml.gz
+      source language:
+        size: 134455109
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/it.zip
+      target language:
+        size: 136642867
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/mk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4268
+    source language tokens: 41713915
+    target language tokens: 40087399
+  it-so:
+    alignments: 1857891
+    downloads:
+      alignments:
+        size: 15326096
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/it-so.xml.gz
+      source language:
+        size: 134455109
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/it.zip
+      target language:
+        size: 138650176
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/so.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4957
+    source language tokens: 47985846
+    target language tokens: 49459707
+  it-uk:
+    alignments: 1852079
+    downloads:
+      alignments:
+        size: 15263999
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/it-uk.xml.gz
+      source language:
+        size: 134455109
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/it.zip
+      target language:
+        size: 161618421
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4965
+    source language tokens: 47815791
+    target language tokens: 39444677
+  ka-lt:
+    alignments: 587097
+    downloads:
+      alignments:
+        size: 4719087
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/ka-lt.xml.gz
+      source language:
+        size: 182081859
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/ka.zip
+      target language:
+        size: 41426964
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/lt.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3648
+    source language tokens: 10234561
+    target language tokens: 10946977
+  ka-lv:
+    alignments: 592120
+    downloads:
+      alignments:
+        size: 4726616
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/ka-lv.xml.gz
+      source language:
+        size: 182081859
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/ka.zip
+      target language:
+        size: 41367448
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/lv.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3622
+    source language tokens: 10293612
+    target language tokens: 11504377
+  ka-mk:
+    alignments: 1967946
+    downloads:
+      alignments:
+        size: 16114962
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/ka-mk.xml.gz
+      source language:
+        size: 182081859
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/ka.zip
+      target language:
+        size: 136642867
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/mk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4892
+    source language tokens: 34449947
+    target language tokens: 46233199
+  ka-nl:
+    alignments: 1901443
+    downloads:
+      alignments:
+        size: 16456027
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/ka-nl.xml.gz
+      source language:
+        size: 182081859
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/ka.zip
+      target language:
+        size: 137519794
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/nl.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4916
+    source language tokens: 33792766
+    target language tokens: 49720551
+  ka-pl:
+    alignments: 584379
+    downloads:
+      alignments:
+        size: 4755948
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/ka-pl.xml.gz
+      source language:
+        size: 182081859
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/ka.zip
+      target language:
+        size: 44893762
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/pl.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3654
+    source language tokens: 10198047
+    target language tokens: 12327243
+  ka-pt:
+    alignments: 1874237
+    downloads:
+      alignments:
+        size: 15715218
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/ka-pt.xml.gz
+      source language:
+        size: 182081859
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/ka.zip
+      target language:
+        size: 137151826
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/pt.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4916
+    source language tokens: 33566818
+    target language tokens: 49244755
+  ka-ro:
+    alignments: 368152
+    downloads:
+      alignments:
+        size: 2920392
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/ka-ro.xml.gz
+      source language:
+        size: 182081859
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/ka.zip
+      target language:
+        size: 27448871
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/ro.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 2454
+    source language tokens: 6463013
+    target language tokens: 9234775
+  ka-sk:
+    alignments: 592671
+    downloads:
+      alignments:
+        size: 4737517
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/ka-sk.xml.gz
+      source language:
+        size: 182081859
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/ka.zip
+      target language:
+        size: 43890542
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/sk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3633
+    source language tokens: 10314748
+    target language tokens: 12447579
+  ka-sl:
+    alignments: 578659
+    downloads:
+      alignments:
+        size: 4559036
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/ka-sl.xml.gz
+      source language:
+        size: 182081859
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/ka.zip
+      target language:
+        size: 39066173
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/sl.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3586
+    source language tokens: 10040118
+    target language tokens: 12064551
+  ka-so:
+    alignments: 2283690
+    downloads:
+      alignments:
+        size: 18660196
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/ka-so.xml.gz
+      source language:
+        size: 182081859
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/ka.zip
+      target language:
+        size: 138650176
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/so.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 5688
+    source language tokens: 39944081
+    target language tokens: 57531766
+  ka-sv:
+    alignments: 1770085
+    downloads:
+      alignments:
+        size: 15255802
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/ka-sv.xml.gz
+      source language:
+        size: 182081859
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/ka.zip
+      target language:
+        size: 126679387
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/sv.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4881
+    source language tokens: 31248001
+    target language tokens: 40956208
+  ka-uk:
+    alignments: 2283321
+    downloads:
+      alignments:
+        size: 18627018
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/ka-uk.xml.gz
+      source language:
+        size: 182081859
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/ka.zip
+      target language:
+        size: 161618421
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 5698
+    source language tokens: 39917569
+    target language tokens: 45968185
+  lt-mk:
+    alignments: 528181
+    downloads:
+      alignments:
+        size: 4141268
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/lt-mk.xml.gz
+      source language:
+        size: 41426964
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/lt.zip
+      target language:
+        size: 136642867
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/mk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3142
+    source language tokens: 9830828
+    target language tokens: 12376025
+  lt-so:
+    alignments: 604164
+    downloads:
+      alignments:
+        size: 4731583
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/lt-so.xml.gz
+      source language:
+        size: 41426964
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/lt.zip
+      target language:
+        size: 138650176
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/so.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3641
+    source language tokens: 11207898
+    target language tokens: 15191749
+  lt-uk:
+    alignments: 596919
+    downloads:
+      alignments:
+        size: 4677349
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/lt-uk.xml.gz
+      source language:
+        size: 41426964
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/lt.zip
+      target language:
+        size: 161618421
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3649
+    source language tokens: 11077603
+    target language tokens: 11946996
+  lv-mk:
+    alignments: 531924
+    downloads:
+      alignments:
+        size: 4130128
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/lv-mk.xml.gz
+      source language:
+        size: 41367448
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/lv.zip
+      target language:
+        size: 136642867
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/mk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3114
+    source language tokens: 10318053
+    target language tokens: 12429354
+  lv-so:
+    alignments: 609430
+    downloads:
+      alignments:
+        size: 4728286
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/lv-so.xml.gz
+      source language:
+        size: 41367448
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/lv.zip
+      target language:
+        size: 138650176
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/so.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3615
+    source language tokens: 11780491
+    target language tokens: 15282025
+  lv-uk:
+    alignments: 602098
+    downloads:
+      alignments:
+        size: 4676213
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/lv-uk.xml.gz
+      source language:
+        size: 41367448
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/lv.zip
+      target language:
+        size: 161618421
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3623
+    source language tokens: 11642301
+    target language tokens: 12015991
+  mk-nl:
+    alignments: 1685446
+    downloads:
+      alignments:
+        size: 14103677
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/mk-nl.xml.gz
+      source language:
+        size: 136642867
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/mk.zip
+      target language:
+        size: 137519794
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/nl.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4227
+    source language tokens: 40112007
+    target language tokens: 44005721
+  mk-pl:
+    alignments: 525497
+    downloads:
+      alignments:
+        size: 4181000
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/mk-pl.xml.gz
+      source language:
+        size: 136642867
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/mk.zip
+      target language:
+        size: 44893762
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/pl.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3146
+    source language tokens: 12328937
+    target language tokens: 11064635
+  mk-pt:
+    alignments: 1663261
+    downloads:
+      alignments:
+        size: 13461005
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/mk-pt.xml.gz
+      source language:
+        size: 136642867
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/mk.zip
+      target language:
+        size: 137151826
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/pt.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4229
+    source language tokens: 39867453
+    target language tokens: 43597374
+  mk-ro:
+    alignments: 331124
+    downloads:
+      alignments:
+        size: 2548467
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/mk-ro.xml.gz
+      source language:
+        size: 136642867
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/mk.zip
+      target language:
+        size: 27448871
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/ro.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 2120
+    source language tokens: 7804603
+    target language tokens: 8288180
+  mk-sk:
+    alignments: 532263
+    downloads:
+      alignments:
+        size: 4142112
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/mk-sk.xml.gz
+      source language:
+        size: 136642867
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/mk.zip
+      target language:
+        size: 43890542
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/sk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3123
+    source language tokens: 12451497
+    target language tokens: 11152946
+  mk-sl:
+    alignments: 518692
+    downloads:
+      alignments:
+        size: 3942302
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/mk-sl.xml.gz
+      source language:
+        size: 136642867
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/mk.zip
+      target language:
+        size: 39066173
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/sl.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3083
+    source language tokens: 12094623
+    target language tokens: 10794158
+  mk-so:
+    alignments: 2015104
+    downloads:
+      alignments:
+        size: 15767789
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/mk-so.xml.gz
+      source language:
+        size: 136642867
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/mk.zip
+      target language:
+        size: 138650176
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/so.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4886
+    source language tokens: 47146486
+    target language tokens: 50597270
+  mk-sv:
+    alignments: 1575087
+    downloads:
+      alignments:
+        size: 13134117
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/mk-sv.xml.gz
+      source language:
+        size: 136642867
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/mk.zip
+      target language:
+        size: 126679387
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/sv.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4202
+    source language tokens: 37229170
+    target language tokens: 36357594
+  mk-uk:
+    alignments: 2010204
+    downloads:
+      alignments:
+        size: 15723279
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/mk-uk.xml.gz
+      source language:
+        size: 136642867
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/mk.zip
+      target language:
+        size: 161618421
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4893
+    source language tokens: 47016009
+    target language tokens: 40343591
+  nl-so:
+    alignments: 1944322
+    downloads:
+      alignments:
+        size: 16218508
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/nl-so.xml.gz
+      source language:
+        size: 137519794
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/nl.zip
+      target language:
+        size: 138650176
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/so.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4909
+    source language tokens: 50674715
+    target language tokens: 49573169
+  nl-uk:
+    alignments: 1938399
+    downloads:
+      alignments:
+        size: 16147382
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/nl-uk.xml.gz
+      source language:
+        size: 137519794
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/nl.zip
+      target language:
+        size: 161618421
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4917
+    source language tokens: 50495238
+    target language tokens: 39539983
+  pl-so:
+    alignments: 601273
+    downloads:
+      alignments:
+        size: 4775612
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/pl-so.xml.gz
+      source language:
+        size: 44893762
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/pl.zip
+      target language:
+        size: 138650176
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/so.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3647
+    source language tokens: 12621092
+    target language tokens: 15139329
+  pl-uk:
+    alignments: 594140
+    downloads:
+      alignments:
+        size: 4718004
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/pl-uk.xml.gz
+      source language:
+        size: 44893762
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/pl.zip
+      target language:
+        size: 161618421
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3655
+    source language tokens: 12475583
+    target language tokens: 11905517
+  pt-so:
+    alignments: 1917254
+    downloads:
+      alignments:
+        size: 15484339
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/pt-so.xml.gz
+      source language:
+        size: 137151826
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/pt.zip
+      target language:
+        size: 138650176
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/so.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4909
+    source language tokens: 50192515
+    target language tokens: 49242404
+  pt-uk:
+    alignments: 1911233
+    downloads:
+      alignments:
+        size: 15423434
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/pt-uk.xml.gz
+      source language:
+        size: 137151826
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/pt.zip
+      target language:
+        size: 161618421
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4916
+    source language tokens: 50012686
+    target language tokens: 39274868
+  ro-so:
+    alignments: 379151
+    downloads:
+      alignments:
+        size: 2921813
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/ro-so.xml.gz
+      source language:
+        size: 27448871
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/ro.zip
+      target language:
+        size: 138650176
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/so.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 2446
+    source language tokens: 9469610
+    target language tokens: 9597392
+  ro-uk:
+    alignments: 374330
+    downloads:
+      alignments:
+        size: 2892133
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/ro-uk.xml.gz
+      source language:
+        size: 27448871
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/ro.zip
+      target language:
+        size: 161618421
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 2454
+    source language tokens: 9351399
+    target language tokens: 7533778
+  sk-so:
+    alignments: 609809
+    downloads:
+      alignments:
+        size: 4740332
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/sk-so.xml.gz
+      source language:
+        size: 43890542
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/sk.zip
+      target language:
+        size: 138650176
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/so.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3626
+    source language tokens: 12743116
+    target language tokens: 15308468
+  sk-uk:
+    alignments: 602527
+    downloads:
+      alignments:
+        size: 4686148
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/sk-uk.xml.gz
+      source language:
+        size: 43890542
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/sk.zip
+      target language:
+        size: 161618421
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3634
+    source language tokens: 12595913
+    target language tokens: 12039265
+  sl-so:
+    alignments: 595421
+    downloads:
+      alignments:
+        size: 4532920
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/sl-so.xml.gz
+      source language:
+        size: 39066173
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/sl.zip
+      target language:
+        size: 138650176
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/so.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3579
+    source language tokens: 12348193
+    target language tokens: 14893932
+  sl-uk:
+    alignments: 588238
+    downloads:
+      alignments:
+        size: 4489262
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/sl-uk.xml.gz
+      source language:
+        size: 39066173
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/sl.zip
+      target language:
+        size: 161618421
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3587
+    source language tokens: 12204972
+    target language tokens: 11713287
+  so-sv:
+    alignments: 1810066
+    downloads:
+      alignments:
+        size: 15082779
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/so-sv.xml.gz
+      source language:
+        size: 138650176
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/so.zip
+      target language:
+        size: 126679387
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/sv.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4874
+    source language tokens: 45851494
+    target language tokens: 41728324
+  so-uk:
+    alignments: 2329733
+    downloads:
+      alignments:
+        size: 18181986
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/so-uk.xml.gz
+      source language:
+        size: 138650176
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/so.zip
+      target language:
+        size: 161618421
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 5689
+    source language tokens: 58434129
+    target language tokens: 46721420
+  sv-uk:
+    alignments: 1803496
+    downloads:
+      alignments:
+        size: 14962817
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/xml/sv-uk.xml.gz
+      source language:
+        size: 126679387
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/sv.zip
+      target language:
+        size: 161618421
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4882
+    source language tokens: 41558411
+    target language tokens: 36531560
+files: 245964
+monolingual:
+  bg:
+    downloads:
+      plain text:
+        size: 24311134
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/mono/bg.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 31673977
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/bg.zip
+    files: 7554
+    sentences: 413158
+    tokens: 9334985
+  cs:
+    downloads:
+      plain text:
+        size: 33190808
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/mono/cs.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 44397077
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/cs.zip
+    files: 9790
+    sentences: 670190
+    tokens: 13203762
+  da:
+    downloads:
+      plain text:
+        size: 103283480
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/mono/da.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 127920014
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/da.zip
+    files: 10316
+    sentences: 2267809
+    tokens: 48900959
+  de:
+    downloads:
+      plain text:
+        size: 114997855
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/mono/de.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 139761565
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/de.zip
+    files: 10254
+    sentences: 2234583
+    tokens: 48429487
+  el:
+    downloads:
+      plain text:
+        size: 111186993
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/mono/el.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 131764252
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/el.zip
+    files: 10242
+    sentences: 1597955
+    tokens: 39347749
+  en:
+    downloads:
+      plain text:
+        size: 114716531
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/mono/en.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 142174601
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/en.zip
+    files: 11199
+    sentences: 2455458
+    tokens: 59849848
+  es:
+    downloads:
+      plain text:
+        size: 109746377
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/mono/es.txt.gz
+      xml:
+        size: 134178413
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/es.zip
+    files: 10397
+    sentences: 2175532
+    tokens: 56105963
+  et:
+    downloads:
+      plain text:
+        size: 30239617
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/mono/et.txt.gz
+      xml:
+        size: 41104924
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/et.zip
+    files: 9776
+    sentences: 693945
+    tokens: 11365086
+  eu:
+    downloads:
+      plain text:
+        size: 99010253
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/mono/eu.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 113148488
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/eu.zip
+    files: 5207
+    sentences: 2156208
+    tokens: 38647725
+  fi:
+    downloads:
+      plain text:
+        size: 102363250
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/mono/fi.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 126432293
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/fi.zip
+    files: 10268
+    sentences: 2173413
+    tokens: 34593764
+  fr:
+    downloads:
+      plain text:
+        size: 114742151
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/mono/fr.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 140103508
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/fr.zip
+    files: 10410
+    sentences: 2241397
+    tokens: 56660363
+  gd:
+    downloads:
+      plain text:
+        size: 114961502
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/mono/gd.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 129524073
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/gd.zip
+    files: 5308
+    sentences: 2176729
+    tokens: 63099323
+  hu:
+    downloads:
+      plain text:
+        size: 33434350
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/mono/hu.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 44574870
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/hu.zip
+    files: 9718
+    sentences: 660428
+    tokens: 12617747
+  is:
+    downloads:
+      plain text:
+        size: 121903796
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/mono/is.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 137559551
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/is.zip
+    files: 5695
+    sentences: 2358577
+    tokens: 52404443
+  it:
+    downloads:
+      plain text:
+        size: 109882384
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/mono/it.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 134455109
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/it.zip
+    files: 10470
+    sentences: 2128356
+    tokens: 52067018
+  ka:
+    downloads:
+      plain text:
+        size: 168208811
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/mono/ka.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 182081859
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/ka.zip
+    files: 5698
+    sentences: 2467665
+    tokens: 40422913
+  lt:
+    downloads:
+      plain text:
+        size: 30476859
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/mono/lt.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 41426964
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/lt.zip
+    files: 9766
+    sentences: 680517
+    tokens: 11621478
+  lv:
+    downloads:
+      plain text:
+        size: 30439936
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/mono/lv.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 41367448
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/lv.zip
+    files: 9736
+    sentences: 668529
+    tokens: 12121595
+  mk:
+    downloads:
+      plain text:
+        size: 124274090
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/mono/mk.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 136642867
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/mk.zip
+    files: 4893
+    sentences: 2040417
+    tokens: 47355906
+  nl:
+    downloads:
+      plain text:
+        size: 112298595
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/mono/nl.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 137519794
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/nl.zip
+    files: 10383
+    sentences: 2387000
+    tokens: 54769395
+  pl:
+    downloads:
+      plain text:
+        size: 33610222
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/mono/pl.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 44893762
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/pl.zip
+    files: 9793
+    sentences: 697512
+    tokens: 13072968
+  pt:
+    downloads:
+      plain text:
+        size: 112349085
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/mono/pt.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 137151826
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/pt.zip
+    files: 10385
+    sentences: 2172375
+    tokens: 54375643
+  ro:
+    downloads:
+      plain text:
+        size: 20332067
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/mono/ro.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 27448871
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/ro.zip
+    files: 7530
+    sentences: 404131
+    tokens: 9673124
+  sk:
+    downloads:
+      plain text:
+        size: 32712112
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/mono/sk.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 43890542
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/sk.zip
+    files: 9740
+    sentences: 670993
+    tokens: 13124467
+  sl:
+    downloads:
+      plain text:
+        size: 28649682
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/mono/sl.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 39066173
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/sl.zip
+    files: 9703
+    sentences: 634986
+    tokens: 12673782
+  so:
+    downloads:
+      plain text:
+        size: 122879522
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/mono/so.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 138650176
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/so.zip
+    files: 5689
+    sentences: 2360296
+    tokens: 58962395
+  sv:
+    downloads:
+      plain text:
+        size: 102215373
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/mono/sv.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 126679387
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/sv.zip
+    files: 10345
+    sentences: 2295796
+    tokens: 46851982
+  uk:
+    downloads:
+      plain text:
+        size: 146418512
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/mono/uk.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 161618421
+        url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/raw/uk.zip
+    files: 5699
+    sentences: 2347873
+    tokens: 46885017
+moses:
+  bg-eu:
+    alignments: 360758
+    download size: 38786172
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/bg-eu.txt.zip
+    source language tokens: 8534742
+    target language tokens: 6566810
+  bg-gd:
+    alignments: 360483
+    download size: 41230699
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/bg-gd.txt.zip
+    source language tokens: 8538444
+    target language tokens: 10509385
+  bg-is:
+    alignments: 386221
+    download size: 43618744
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/bg-is.txt.zip
+    source language tokens: 9152498
+    target language tokens: 8599368
+  bg-ka:
+    alignments: 375701
+    download size: 50588155
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/bg-ka.txt.zip
+    source language tokens: 8931773
+    target language tokens: 6583424
+  bg-mk:
+    alignments: 340189
+    download size: 41705972
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/bg-mk.txt.zip
+    source language tokens: 8076805
+    target language tokens: 8006934
+  bg-so:
+    alignments: 386939
+    download size: 43920431
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/bg-so.txt.zip
+    source language tokens: 9156582
+    target language tokens: 9775480
+  bg-uk:
+    alignments: 382090
+    download size: 47219609
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/bg-uk.txt.zip
+    source language tokens: 9044836
+    target language tokens: 7675409
+  cs-eu:
+    alignments: 570448
+    download size: 55911737
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/cs-eu.txt.zip
+    source language tokens: 11846460
+    target language tokens: 10332849
+  cs-gd:
+    alignments: 575232
+    download size: 60268048
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/cs-gd.txt.zip
+    source language tokens: 11954223
+    target language tokens: 16670999
+  cs-is:
+    alignments: 615536
+    download size: 63641656
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/cs-is.txt.zip
+    source language tokens: 12803711
+    target language tokens: 13636866
+  cs-ka:
+    alignments: 599259
+    download size: 74832201
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/cs-ka.txt.zip
+    source language tokens: 12508257
+    target language tokens: 10433400
+  cs-mk:
+    alignments: 539705
+    download size: 61066380
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/cs-mk.txt.zip
+    source language tokens: 11239475
+    target language tokens: 12630092
+  cs-so:
+    alignments: 616784
+    download size: 64083131
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/cs-so.txt.zip
+    source language tokens: 12807535
+    target language tokens: 15487579
+  cs-uk:
+    alignments: 609382
+    download size: 69516552
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/cs-uk.txt.zip
+    source language tokens: 12658251
+    target language tokens: 12179064
+  da-eu:
+    alignments: 1735386
+    download size: 168768306
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/da-eu.txt.zip
+    source language tokens: 40867808
+    target language tokens: 31926857
+  da-gd:
+    alignments: 1751270
+    download size: 182599064
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/da-gd.txt.zip
+    source language tokens: 41246130
+    target language tokens: 51982740
+  da-is:
+    alignments: 1906244
+    download size: 196580399
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/da-is.txt.zip
+    source language tokens: 44984376
+    target language tokens: 43326984
+  da-ka:
+    alignments: 1869832
+    download size: 233111049
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/da-ka.txt.zip
+    source language tokens: 44187795
+    target language tokens: 33212884
+  da-mk:
+    alignments: 1655917
+    download size: 186876623
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/da-mk.txt.zip
+    source language tokens: 39055657
+    target language tokens: 39388301
+  da-so:
+    alignments: 1910699
+    download size: 197323198
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/da-so.txt.zip
+    source language tokens: 44996883
+    target language tokens: 48684417
+  da-uk:
+    alignments: 1904695
+    download size: 217157545
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/da-uk.txt.zip
+    source language tokens: 44839947
+    target language tokens: 38833128
+  de-eu:
+    alignments: 1710178
+    download size: 178744196
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/de-eu.txt.zip
+    source language tokens: 40896210
+    target language tokens: 31530667
+  de-gd:
+    alignments: 1721592
+    download size: 192091216
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/de-gd.txt.zip
+    source language tokens: 41183135
+    target language tokens: 51234649
+  de-is:
+    alignments: 1872029
+    download size: 206780250
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/de-is.txt.zip
+    source language tokens: 44870468
+    target language tokens: 42665780
+  de-ka:
+    alignments: 1834806
+    download size: 242300949
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/de-ka.txt.zip
+    source language tokens: 44037211
+    target language tokens: 32676437
+  de-mk:
+    alignments: 1638572
+    download size: 196917506
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/de-mk.txt.zip
+    source language tokens: 39244206
+    target language tokens: 39066389
+  de-so:
+    alignments: 1876539
+    download size: 207498118
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/de-so.txt.zip
+    source language tokens: 44882446
+    target language tokens: 47926390
+  de-uk:
+    alignments: 1870993
+    download size: 227013744
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/de-uk.txt.zip
+    source language tokens: 44727518
+    target language tokens: 38236441
+  el-eu:
+    alignments: 1117236
+    download size: 137221153
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/el-eu.txt.zip
+    source language tokens: 29390960
+    target language tokens: 21052468
+  el-gd:
+    alignments: 1143184
+    download size: 148607749
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/el-gd.txt.zip
+    source language tokens: 30078565
+    target language tokens: 34704289
+  el-is:
+    alignments: 1224175
+    download size: 157622084
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/el-is.txt.zip
+    source language tokens: 32247212
+    target language tokens: 28436047
+  el-ka:
+    alignments: 1203317
+    download size: 181445913
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/el-ka.txt.zip
+    source language tokens: 31753313
+    target language tokens: 21852667
+  el-mk:
+    alignments: 1057565
+    download size: 146832754
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/el-mk.txt.zip
+    source language tokens: 27891072
+    target language tokens: 25783278
+  el-so:
+    alignments: 1227027
+    download size: 158180175
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/el-so.txt.zip
+    source language tokens: 32253989
+    target language tokens: 32023686
+  el-uk:
+    alignments: 1221565
+    download size: 170763803
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/el-uk.txt.zip
+    source language tokens: 32097877
+    target language tokens: 25477602
+  en-eu:
+    alignments: 2136678
+    download size: 201800732
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/en-eu.txt.zip
+    source language tokens: 53726634
+    target language tokens: 38609568
+  en-gd:
+    alignments: 2156751
+    download size: 218504165
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/en-gd.txt.zip
+    source language tokens: 54271512
+    target language tokens: 62856100
+  en-is:
+    alignments: 2346007
+    download size: 235017497
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/en-is.txt.zip
+    source language tokens: 59153196
+    target language tokens: 52357161
+  en-ka:
+    alignments: 2299706
+    download size: 278402517
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/en-ka.txt.zip
+    source language tokens: 58006660
+    target language tokens: 40118888
+  en-mk:
+    alignments: 2026627
+    download size: 221850987
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/en-mk.txt.zip
+    source language tokens: 51004994
+    target language tokens: 47339014
+  en-so:
+    alignments: 2350618
+    download size: 235887617
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/en-so.txt.zip
+    source language tokens: 59112478
+    target language tokens: 58871667
+  en-uk:
+    alignments: 2341706
+    download size: 259044111
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/en-uk.txt.zip
+    source language tokens: 58854729
+    target language tokens: 46885017
+  eu-fi:
+    alignments: 1727214
+    download size: 169707254
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/eu-fi.txt.zip
+    source language tokens: 31581979
+    target language tokens: 29755900
+  eu-fr:
+    alignments: 1792162
+    download size: 182740510
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/eu-fr.txt.zip
+    source language tokens: 33051618
+    target language tokens: 48066765
+  eu-gd:
+    alignments: 2004305
+    download size: 200042207
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/eu-gd.txt.zip
+    source language tokens: 36300056
+    target language tokens: 58517622
+  eu-hu:
+    alignments: 549903
+    download size: 55138754
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/eu-hu.txt.zip
+    source language tokens: 9963208
+    target language tokens: 11289360
+  eu-is:
+    alignments: 2122006
+    download size: 209247369
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/eu-is.txt.zip
+    source language tokens: 38506016
+    target language tokens: 47416292
+  eu-it:
+    alignments: 1691109
+    download size: 176203182
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/eu-it.txt.zip
+    source language tokens: 32505739
+    target language tokens: 43680379
+  eu-ka:
+    alignments: 2073871
+    download size: 248773624
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/eu-ka.txt.zip
+    source language tokens: 37693858
+    target language tokens: 36270549
+  eu-lt:
+    alignments: 557937
+    download size: 52715278
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/eu-lt.txt.zip
+    source language tokens: 10118400
+    target language tokens: 10349533
+  eu-lv:
+    alignments: 562815
+    download size: 53066596
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/eu-lv.txt.zip
+    source language tokens: 10180198
+    target language tokens: 10881890
+  eu-mk:
+    alignments: 1939157
+    download size: 209606561
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/eu-mk.txt.zip
+    source language tokens: 35124445
+    target language tokens: 45360993
+  eu-nl:
+    alignments: 1768465
+    download size: 178767376
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/eu-nl.txt.zip
+    source language tokens: 32548993
+    target language tokens: 46093259
+  eu-pl:
+    alignments: 555613
+    download size: 55528117
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/eu-pl.txt.zip
+    source language tokens: 10090218
+    target language tokens: 11662219
+  eu-pt:
+    alignments: 1746825
+    download size: 178159538
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/eu-pt.txt.zip
+    source language tokens: 32384001
+    target language tokens: 45716437
+  eu-ro:
+    alignments: 353297
+    download size: 34689195
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/eu-ro.txt.zip
+    source language tokens: 6443789
+    target language tokens: 8823124
+  eu-sk:
+    alignments: 563377
+    download size: 55174785
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/eu-sk.txt.zip
+    source language tokens: 10201688
+    target language tokens: 11770798
+  eu-sl:
+    alignments: 549240
+    download size: 50824148
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/eu-sl.txt.zip
+    source language tokens: 9911267
+    target language tokens: 11391522
+  eu-so:
+    alignments: 2126442
+    download size: 210112442
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/eu-so.txt.zip
+    source language tokens: 38489335
+    target language tokens: 53345813
+  eu-sv:
+    alignments: 1657215
+    download size: 161588443
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/eu-sv.txt.zip
+    source language tokens: 30292522
+    target language tokens: 38186581
+  eu-uk:
+    alignments: 2116847
+    download size: 231250866
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/eu-uk.txt.zip
+    source language tokens: 38304829
+    target language tokens: 42447696
+  fi-gd:
+    alignments: 1729681
+    download size: 182063693
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/fi-gd.txt.zip
+    source language tokens: 29818376
+    target language tokens: 51033537
+  fi-is:
+    alignments: 1877796
+    download size: 195548867
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/fi-is.txt.zip
+    source language tokens: 32430995
+    target language tokens: 42433273
+  fi-ka:
+    alignments: 1843609
+    download size: 231488891
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/fi-ka.txt.zip
+    source language tokens: 31882622
+    target language tokens: 32554757
+  fi-mk:
+    alignments: 1642550
+    download size: 186842680
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/fi-mk.txt.zip
+    source language tokens: 28327213
+    target language tokens: 38833089
+  fi-so:
+    alignments: 1882712
+    download size: 196307073
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/fi-so.txt.zip
+    source language tokens: 32442465
+    target language tokens: 47685846
+  fi-uk:
+    alignments: 1876672
+    download size: 215676197
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/fi-uk.txt.zip
+    source language tokens: 32322986
+    target language tokens: 38030879
+  fr-gd:
+    alignments: 1803396
+    download size: 196623243
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/fr-gd.txt.zip
+    source language tokens: 48402305
+    target language tokens: 53673753
+  fr-is:
+    alignments: 1962699
+    download size: 211768396
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/fr-is.txt.zip
+    source language tokens: 52768591
+    target language tokens: 44731051
+  fr-ka:
+    alignments: 1923663
+    download size: 249195740
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/fr-ka.txt.zip
+    source language tokens: 51798231
+    target language tokens: 34267699
+  fr-mk:
+    alignments: 1706313
+    download size: 200715755
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/fr-mk.txt.zip
+    source language tokens: 45838918
+    target language tokens: 40689674
+  fr-so:
+    alignments: 1967211
+    download size: 212528740
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/fr-so.txt.zip
+    source language tokens: 52780472
+    target language tokens: 50251932
+  fr-uk:
+    alignments: 1961080
+    download size: 232967377
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/fr-uk.txt.zip
+    source language tokens: 52591185
+    target language tokens: 40082460
+  gd-hu:
+    alignments: 556895
+    download size: 59612888
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/gd-hu.txt.zip
+    source language tokens: 16152646
+    target language tokens: 11441084
+  gd-is:
+    alignments: 2141663
+    download size: 226027076
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/gd-is.txt.zip
+    source language tokens: 62686576
+    target language tokens: 47887612
+  gd-it:
+    alignments: 1702114
+    download size: 189915411
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/gd-it.txt.zip
+    source language tokens: 52814569
+    target language tokens: 43994421
+  gd-ka:
+    alignments: 2097445
+    download size: 266167632
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/gd-ka.txt.zip
+    source language tokens: 61486770
+    target language tokens: 36700694
+  gd-lt:
+    alignments: 564026
+    download size: 57109002
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/gd-lt.txt.zip
+    source language tokens: 16369685
+    target language tokens: 10471182
+  gd-lv:
+    alignments: 569039
+    download size: 57505667
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/gd-lv.txt.zip
+    source language tokens: 16475603
+    target language tokens: 11014235
+  gd-mk:
+    alignments: 1822272
+    download size: 209605081
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/gd-mk.txt.zip
+    source language tokens: 53248269
+    target language tokens: 42660760
+  gd-nl:
+    alignments: 1779129
+    download size: 192331095
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/gd-nl.txt.zip
+    source language tokens: 52848473
+    target language tokens: 46365623
+  gd-pl:
+    alignments: 561732
+    download size: 59975109
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/gd-pl.txt.zip
+    source language tokens: 16331289
+    target language tokens: 11805948
+  gd-pt:
+    alignments: 1755289
+    download size: 191516277
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/gd-pt.txt.zip
+    source language tokens: 52532970
+    target language tokens: 45966013
+  gd-ro:
+    alignments: 355769
+    download size: 37395814
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/gd-ro.txt.zip
+    source language tokens: 10397972
+    target language tokens: 8899144
+  gd-sk:
+    alignments: 570001
+    download size: 59694359
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/gd-sk.txt.zip
+    source language tokens: 16521392
+    target language tokens: 11927420
+  gd-sl:
+    alignments: 556339
+    download size: 55222954
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/gd-sl.txt.zip
+    source language tokens: 16068958
+    target language tokens: 11550395
+  gd-so:
+    alignments: 2146671
+    download size: 226928979
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/gd-so.txt.zip
+    source language tokens: 62669581
+    target language tokens: 53877644
+  gd-sv:
+    alignments: 1661409
+    download size: 173615590
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/gd-sv.txt.zip
+    source language tokens: 48994811
+    target language tokens: 38297762
+  gd-uk:
+    alignments: 2137304
+    download size: 248254085
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/gd-uk.txt.zip
+    source language tokens: 62384363
+    target language tokens: 42885516
+  hu-is:
+    alignments: 594451
+    download size: 62822190
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/hu-is.txt.zip
+    source language tokens: 12223038
+    target language tokens: 13178046
+  hu-ka:
+    alignments: 578909
+    download size: 73626751
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/hu-ka.txt.zip
+    source language tokens: 11945081
+    target language tokens: 10085069
+  hu-mk:
+    alignments: 519762
+    download size: 60017254
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/hu-mk.txt.zip
+    source language tokens: 10707048
+    target language tokens: 12165294
+  hu-so:
+    alignments: 595629
+    download size: 63249341
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/hu-so.txt.zip
+    source language tokens: 12226420
+    target language tokens: 14966499
+  hu-uk:
+    alignments: 588499
+    download size: 68497287
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/hu-uk.txt.zip
+    source language tokens: 12085457
+    target language tokens: 11767520
+  is-it:
+    alignments: 1853145
+    download size: 204493923
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/is-it.txt.zip
+    source language tokens: 44019526
+    target language tokens: 47974981
+  is-ka:
+    alignments: 2278282
+    download size: 286551623
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/is-ka.txt.zip
+    source language tokens: 51133956
+    target language tokens: 39949520
+  is-lt:
+    alignments: 602984
+    download size: 60227448
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/is-lt.txt.zip
+    source language tokens: 13376409
+    target language tokens: 11204253
+  is-lv:
+    alignments: 608238
+    download size: 60612422
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/is-lv.txt.zip
+    source language tokens: 13455255
+    target language tokens: 11776862
+  is-mk:
+    alignments: 2011087
+    download size: 228979847
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/is-mk.txt.zip
+    source language tokens: 44977455
+    target language tokens: 47167667
+  is-nl:
+    alignments: 1939162
+    download size: 207512346
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/is-nl.txt.zip
+    source language tokens: 44121235
+    target language tokens: 50660458
+  is-pl:
+    alignments: 600097
+    download size: 63219550
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/is-pl.txt.zip
+    source language tokens: 13330485
+    target language tokens: 12617326
+  is-pt:
+    alignments: 1912203
+    download size: 206471312
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/is-pt.txt.zip
+    source language tokens: 43824473
+    target language tokens: 50179605
+  is-ro:
+    alignments: 378550
+    download size: 39209427
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/is-ro.txt.zip
+    source language tokens: 8444038
+    target language tokens: 9465564
+  is-sk:
+    alignments: 608723
+    download size: 62887669
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/is-sk.txt.zip
+    source language tokens: 13480953
+    target language tokens: 12739859
+  is-sl:
+    alignments: 594233
+    download size: 58158945
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/is-sl.txt.zip
+    source language tokens: 13115283
+    target language tokens: 12344708
+  is-so:
+    alignments: 2335007
+    download size: 244105623
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/is-so.txt.zip
+    source language tokens: 52178865
+    target language tokens: 58728864
+  is-sv:
+    alignments: 1805884
+    download size: 186654585
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/is-sv.txt.zip
+    source language tokens: 40769338
+    target language tokens: 41717210
+  is-uk:
+    alignments: 2324437
+    download size: 267323763
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/is-uk.txt.zip
+    source language tokens: 51933065
+    target language tokens: 46734342
+  it-ka:
+    alignments: 1818762
+    download size: 241577077
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/it-ka.txt.zip
+    source language tokens: 47135523
+    target language tokens: 33745242
+  it-mk:
+    alignments: 1613542
+    download size: 194327747
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/it-mk.txt.zip
+    source language tokens: 41713915
+    target language tokens: 40087399
+  it-so:
+    alignments: 1857891
+    download size: 205241605
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/it-so.txt.zip
+    source language tokens: 47985846
+    target language tokens: 49459707
+  it-uk:
+    alignments: 1852079
+    download size: 225374551
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/it-uk.txt.zip
+    source language tokens: 47815791
+    target language tokens: 39444677
+  ka-lt:
+    alignments: 587097
+    download size: 71257082
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/ka-lt.txt.zip
+    source language tokens: 10234561
+    target language tokens: 10946977
+  ka-lv:
+    alignments: 592120
+    download size: 71700435
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/ka-lv.txt.zip
+    source language tokens: 10293612
+    target language tokens: 11504377
+  ka-mk:
+    alignments: 1967946
+    download size: 266179938
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/ka-mk.txt.zip
+    source language tokens: 34449947
+    target language tokens: 46233199
+  ka-nl:
+    alignments: 1901443
+    download size: 244389796
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/ka-nl.txt.zip
+    source language tokens: 33792766
+    target language tokens: 49720551
+  ka-pl:
+    alignments: 584379
+    download size: 74130831
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/ka-pl.txt.zip
+    source language tokens: 10198047
+    target language tokens: 12327243
+  ka-pt:
+    alignments: 1874237
+    download size: 243090607
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/ka-pt.txt.zip
+    source language tokens: 33566818
+    target language tokens: 49244755
+  ka-ro:
+    alignments: 368152
+    download size: 46127061
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/ka-ro.txt.zip
+    source language tokens: 6463013
+    target language tokens: 9234775
+  ka-sk:
+    alignments: 592671
+    download size: 73959685
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/ka-sk.txt.zip
+    source language tokens: 10314748
+    target language tokens: 12447579
+  ka-sl:
+    alignments: 578659
+    download size: 69025756
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/ka-sl.txt.zip
+    source language tokens: 10040118
+    target language tokens: 12064551
+  ka-so:
+    alignments: 2283690
+    download size: 287545035
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/ka-so.txt.zip
+    source language tokens: 39944081
+    target language tokens: 57531766
+  ka-sv:
+    alignments: 1770085
+    download size: 220910531
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/ka-sv.txt.zip
+    source language tokens: 31248001
+    target language tokens: 40956208
+  ka-uk:
+    alignments: 2283321
+    download size: 311310140
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/ka-uk.txt.zip
+    source language tokens: 39917569
+    target language tokens: 45968185
+  lt-mk:
+    alignments: 528181
+    download size: 57931559
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/lt-mk.txt.zip
+    source language tokens: 9830828
+    target language tokens: 12376025
+  lt-so:
+    alignments: 604164
+    download size: 60661750
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/lt-so.txt.zip
+    source language tokens: 11207898
+    target language tokens: 15191749
+  lt-uk:
+    alignments: 596919
+    download size: 66026704
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/lt-uk.txt.zip
+    source language tokens: 11077603
+    target language tokens: 11946996
+  lv-mk:
+    alignments: 531924
+    download size: 58204086
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/lv-mk.txt.zip
+    source language tokens: 10318053
+    target language tokens: 12429354
+  lv-so:
+    alignments: 609430
+    download size: 61051367
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/lv-so.txt.zip
+    source language tokens: 11780491
+    target language tokens: 15282025
+  lv-uk:
+    alignments: 602098
+    download size: 66435134
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/lv-uk.txt.zip
+    source language tokens: 11642301
+    target language tokens: 12015991
+  mk-nl:
+    alignments: 1685446
+    download size: 196693939
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/mk-nl.txt.zip
+    source language tokens: 40112007
+    target language tokens: 44005721
+  mk-pl:
+    alignments: 525497
+    download size: 60504469
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/mk-pl.txt.zip
+    source language tokens: 12328937
+    target language tokens: 11064635
+  mk-pt:
+    alignments: 1663261
+    download size: 195803676
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/mk-pt.txt.zip
+    source language tokens: 39867453
+    target language tokens: 43597374
+  mk-ro:
+    alignments: 331124
+    download size: 37496233
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/mk-ro.txt.zip
+    source language tokens: 7804603
+    target language tokens: 8288180
+  mk-sk:
+    alignments: 532263
+    download size: 60198521
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/mk-sk.txt.zip
+    source language tokens: 12451497
+    target language tokens: 11152946
+  mk-sl:
+    alignments: 518692
+    download size: 55846609
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/mk-sl.txt.zip
+    source language tokens: 12094623
+    target language tokens: 10794158
+  mk-so:
+    alignments: 2015104
+    download size: 229782764
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/mk-so.txt.zip
+    source language tokens: 47146486
+    target language tokens: 50597270
+  mk-sv:
+    alignments: 1575087
+    download size: 177977378
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/mk-sv.txt.zip
+    source language tokens: 37229170
+    target language tokens: 36357594
+  mk-uk:
+    alignments: 2010204
+    download size: 250195264
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/mk-uk.txt.zip
+    source language tokens: 47016009
+    target language tokens: 40343591
+  nl-so:
+    alignments: 1944322
+    download size: 208277311
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/nl-so.txt.zip
+    source language tokens: 50674715
+    target language tokens: 49573169
+  nl-uk:
+    alignments: 1938399
+    download size: 228443182
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/nl-uk.txt.zip
+    source language tokens: 50495238
+    target language tokens: 39539983
+  pl-so:
+    alignments: 601273
+    download size: 63652450
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/pl-so.txt.zip
+    source language tokens: 12621092
+    target language tokens: 15139329
+  pl-uk:
+    alignments: 594140
+    download size: 68960748
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/pl-uk.txt.zip
+    source language tokens: 12475583
+    target language tokens: 11905517
+  pt-so:
+    alignments: 1917254
+    download size: 207226075
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/pt-so.txt.zip
+    source language tokens: 50192515
+    target language tokens: 49242404
+  pt-uk:
+    alignments: 1911233
+    download size: 227263429
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/pt-uk.txt.zip
+    source language tokens: 50012686
+    target language tokens: 39274868
+  ro-so:
+    alignments: 379151
+    download size: 39502889
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/ro-so.txt.zip
+    source language tokens: 9469610
+    target language tokens: 9597392
+  ro-uk:
+    alignments: 374330
+    download size: 42778567
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/ro-uk.txt.zip
+    source language tokens: 9351399
+    target language tokens: 7533778
+  sk-so:
+    alignments: 609809
+    download size: 63320540
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/sk-so.txt.zip
+    source language tokens: 12743116
+    target language tokens: 15308468
+  sk-uk:
+    alignments: 602527
+    download size: 68704490
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/sk-uk.txt.zip
+    source language tokens: 12595913
+    target language tokens: 12039265
+  sl-so:
+    alignments: 595421
+    download size: 58578104
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/sl-so.txt.zip
+    source language tokens: 12348193
+    target language tokens: 14893932
+  sl-uk:
+    alignments: 588238
+    download size: 63857444
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/sl-uk.txt.zip
+    source language tokens: 12204972
+    target language tokens: 11713287
+  so-sv:
+    alignments: 1810066
+    download size: 187394695
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/so-sv.txt.zip
+    source language tokens: 45851494
+    target language tokens: 41728324
+  so-uk:
+    alignments: 2329733
+    download size: 268309750
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/so-uk.txt.zip
+    source language tokens: 58434129
+    target language tokens: 46721420
+  sv-uk:
+    alignments: 1803496
+    download size: 205907466
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/moses/sv-uk.txt.zip
+    source language tokens: 41558411
+    target language tokens: 36531560
+tmx:
+  bg-eu:
+    download size: 46099187
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/bg-eu.tmx.gz
+    source language tokens: 8532405
+    target language tokens: 6564575
+    translation units: 359997
+  bg-gd:
+    download size: 48931451
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/bg-gd.tmx.gz
+    source language tokens: 8536806
+    target language tokens: 10507295
+    translation units: 359877
+  bg-is:
+    download size: 51822256
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/bg-is.tmx.gz
+    source language tokens: 9149980
+    target language tokens: 8596728
+    translation units: 385521
+  bg-ka:
+    download size: 58551855
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/bg-ka.tmx.gz
+    source language tokens: 8929956
+    target language tokens: 6582009
+    translation units: 375043
+  bg-mk:
+    download size: 44871696
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/bg-mk.tmx.gz
+    source language tokens: 8074310
+    target language tokens: 8004397
+    translation units: 339481
+  bg-so:
+    download size: 52207337
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/bg-so.tmx.gz
+    source language tokens: 9155597
+    target language tokens: 9774208
+    translation units: 386633
+  bg-uk:
+    download size: 53724742
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/bg-uk.tmx.gz
+    source language tokens: 9041438
+    target language tokens: 7672637
+    translation units: 381177
+  cs-eu:
+    download size: 65800663
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/cs-eu.tmx.gz
+    source language tokens: 11842543
+    target language tokens: 10328810
+    translation units: 569066
+  cs-gd:
+    download size: 71504508
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/cs-gd.tmx.gz
+    source language tokens: 11951197
+    target language tokens: 16666885
+    translation units: 574072
+  cs-is:
+    download size: 75070306
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/cs-is.tmx.gz
+    source language tokens: 12799094
+    target language tokens: 13631561
+    translation units: 614162
+  cs-ka:
+    download size: 89972380
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/cs-ka.tmx.gz
+    source language tokens: 12504940
+    target language tokens: 10430666
+    translation units: 597986
+  cs-mk:
+    download size: 73565090
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/cs-mk.tmx.gz
+    source language tokens: 11235329
+    target language tokens: 12625496
+    translation units: 538374
+  cs-so:
+    download size: 75747787
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/cs-so.tmx.gz
+    source language tokens: 12805512
+    target language tokens: 15484849
+    translation units: 616124
+  cs-uk:
+    download size: 83924865
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/cs-uk.tmx.gz
+    source language tokens: 12652575
+    target language tokens: 12173957
+    translation units: 607661
+  da-eu:
+    download size: 196272689
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/da-eu.tmx.gz
+    source language tokens: 40856835
+    target language tokens: 31916876
+    translation units: 1732072
+  da-gd:
+    download size: 213918274
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/da-gd.tmx.gz
+    source language tokens: 41237503
+    target language tokens: 51971988
+    translation units: 1748535
+  da-is:
+    download size: 228168599
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/da-is.tmx.gz
+    source language tokens: 44969820
+    target language tokens: 43311928
+    translation units: 1902329
+  da-ka:
+    download size: 276283554
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/da-ka.tmx.gz
+    source language tokens: 44177801
+    target language tokens: 33205124
+    translation units: 1866653
+  da-mk:
+    download size: 222097592
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/da-mk.tmx.gz
+    source language tokens: 39043319
+    target language tokens: 39376240
+    translation units: 1652541
+  da-so:
+    download size: 230473105
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/da-so.tmx.gz
+    source language tokens: 44990647
+    target language tokens: 48677284
+    translation units: 1908837
+  da-uk:
+    download size: 258713270
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/da-uk.tmx.gz
+    source language tokens: 44822505
+    target language tokens: 38818644
+    translation units: 1900107
+  de-eu:
+    download size: 207873625
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/de-eu.tmx.gz
+    source language tokens: 40885037
+    target language tokens: 31520803
+    translation units: 1706805
+  de-gd:
+    download size: 225116467
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/de-gd.tmx.gz
+    source language tokens: 41174442
+    target language tokens: 51224114
+    translation units: 1718835
+  de-is:
+    download size: 241148773
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/de-is.tmx.gz
+    source language tokens: 44856627
+    target language tokens: 42651941
+    translation units: 1868310
+  de-ka:
+    download size: 287873472
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/de-ka.tmx.gz
+    source language tokens: 44027282
+    target language tokens: 32669081
+    translation units: 1831628
+  de-mk:
+    download size: 234470254
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/de-mk.tmx.gz
+    source language tokens: 39231710
+    target language tokens: 39054535
+    translation units: 1635194
+  de-so:
+    download size: 242479081
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/de-so.tmx.gz
+    source language tokens: 44876055
+    target language tokens: 47919296
+    translation units: 1874693
+  de-uk:
+    download size: 270882895
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/de-uk.tmx.gz
+    source language tokens: 44710245
+    target language tokens: 38222746
+    translation units: 1866527
+  el-eu:
+    download size: 161789615
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/el-eu.tmx.gz
+    source language tokens: 29384002
+    target language tokens: 21046204
+    translation units: 1114969
+  el-gd:
+    download size: 175064422
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/el-gd.tmx.gz
+    source language tokens: 30073117
+    target language tokens: 34697771
+    translation units: 1141287
+  el-is:
+    download size: 185803306
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/el-is.tmx.gz
+    source language tokens: 32238931
+    target language tokens: 28427648
+    translation units: 1221827
+  el-ka:
+    download size: 209744654
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/el-ka.tmx.gz
+    source language tokens: 31747187
+    target language tokens: 21848190
+    translation units: 1201184
+  el-mk:
+    download size: 169860195
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/el-mk.tmx.gz
+    source language tokens: 27883903
+    target language tokens: 25776220
+    translation units: 1055405
+  el-so:
+    download size: 186677333
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/el-so.tmx.gz
+    source language tokens: 32250050
+    target language tokens: 32018808
+    translation units: 1225796
+  el-uk:
+    download size: 198585693
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/el-uk.tmx.gz
+    source language tokens: 32087912
+    target language tokens: 25469721
+    translation units: 1218735
+  en-eu:
+    download size: 233751641
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/en-eu.tmx.gz
+    source language tokens: 53694160
+    target language tokens: 38583085
+    translation units: 2128630
+  en-gd:
+    download size: 254382985
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/en-gd.tmx.gz
+    source language tokens: 54243121
+    target language tokens: 62823829
+    translation units: 2149492
+  en-is:
+    download size: 273776435
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/en-is.tmx.gz
+    source language tokens: 59108258
+    target language tokens: 52314958
+    translation units: 2335846
+  en-ka:
+    download size: 328852810
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/en-ka.tmx.gz
+    source language tokens: 57980514
+    target language tokens: 40100320
+    translation units: 2292691
+  en-mk:
+    download size: 262965306
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/en-mk.tmx.gz
+    source language tokens: 50966635
+    target language tokens: 47304915
+    translation units: 2017838
+  en-so:
+    download size: 273676565
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/en-so.tmx.gz
+    source language tokens: 59091800
+    target language tokens: 58850942
+    translation units: 2345508
+  en-uk:
+    download size: 308036328
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/en-uk.tmx.gz
+    source language tokens: 58806690
+    target language tokens: 46848519
+    translation units: 2331083
+  eu-fi:
+    download size: 197686661
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/eu-fi.tmx.gz
+    source language tokens: 31572117
+    target language tokens: 29746959
+    translation units: 1723855
+  eu-fr:
+    download size: 213421680
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/eu-fr.tmx.gz
+    source language tokens: 33041443
+    target language tokens: 48055115
+    translation units: 1788664
+  eu-gd:
+    download size: 234216676
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/eu-gd.tmx.gz
+    source language tokens: 36285818
+    target language tokens: 58498581
+    translation units: 1999469
+  eu-hu:
+    download size: 64841273
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/eu-hu.tmx.gz
+    source language tokens: 9959430
+    target language tokens: 11286168
+    translation units: 548606
+  eu-is:
+    download size: 244533817
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/eu-is.tmx.gz
+    source language tokens: 38486020
+    target language tokens: 47393226
+    translation units: 2115833
+  eu-it:
+    download size: 204151310
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/eu-it.tmx.gz
+    source language tokens: 32498305
+    target language tokens: 43672993
+    translation units: 1688400
+  eu-ka:
+    download size: 294139884
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/eu-ka.tmx.gz
+    source language tokens: 37679004
+    target language tokens: 36258054
+    translation units: 2068825
+  eu-lt:
+    download size: 61770733
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/eu-lt.tmx.gz
+    source language tokens: 10114437
+    target language tokens: 10346254
+    translation units: 556573
+  eu-lv:
+    download size: 62254131
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/eu-lv.tmx.gz
+    source language tokens: 10176092
+    target language tokens: 10878159
+    translation units: 561418
+  eu-mk:
+    download size: 248591798
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/eu-mk.tmx.gz
+    source language tokens: 35105390
+    target language tokens: 45340504
+    translation units: 1933234
+  eu-nl:
+    download size: 207283811
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/eu-nl.tmx.gz
+    source language tokens: 32540287
+    target language tokens: 46082747
+    translation units: 1765484
+  eu-pl:
+    download size: 65126509
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/eu-pl.tmx.gz
+    source language tokens: 10086822
+    target language tokens: 11659183
+    translation units: 554384
+  eu-pt:
+    download size: 207050561
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/eu-pt.tmx.gz
+    source language tokens: 32374692
+    target language tokens: 45706786
+    translation units: 1743487
+  eu-ro:
+    download size: 40494088
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/eu-ro.tmx.gz
+    source language tokens: 6441278
+    target language tokens: 8819946
+    translation units: 352487
+  eu-sk:
+    download size: 64993392
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/eu-sk.tmx.gz
+    source language tokens: 10196902
+    target language tokens: 11765989
+    translation units: 561800
+  eu-sl:
+    download size: 59379506
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/eu-sl.tmx.gz
+    source language tokens: 9906004
+    target language tokens: 11386439
+    translation units: 547552
+  eu-so:
+    download size: 245055884
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/eu-so.tmx.gz
+    source language tokens: 38479232
+    target language tokens: 53332824
+    translation units: 2123151
+  eu-sv:
+    download size: 187511123
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/eu-sv.tmx.gz
+    source language tokens: 30281754
+    target language tokens: 38174810
+    translation units: 1653507
+  eu-uk:
+    download size: 275005438
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/eu-uk.tmx.gz
+    source language tokens: 38282056
+    target language tokens: 42427127
+    translation units: 2109989
+  fi-gd:
+    download size: 213307084
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/fi-gd.tmx.gz
+    source language tokens: 29811302
+    target language tokens: 51022958
+    translation units: 1726878
+  fi-is:
+    download size: 227921492
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/fi-is.tmx.gz
+    source language tokens: 32420120
+    target language tokens: 42419604
+    translation units: 1874127
+  fi-ka:
+    download size: 273665352
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/fi-ka.tmx.gz
+    source language tokens: 31874571
+    target language tokens: 32547575
+    translation units: 1840479
+  fi-mk:
+    download size: 221415176
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/fi-mk.tmx.gz
+    source language tokens: 28317700
+    target language tokens: 38821524
+    translation units: 1639199
+  fi-so:
+    download size: 228820705
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/fi-so.tmx.gz
+    source language tokens: 32437492
+    target language tokens: 47678895
+    translation units: 1880898
+  fi-uk:
+    download size: 256239775
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/fi-uk.tmx.gz
+    source language tokens: 32309695
+    target language tokens: 38017633
+    translation units: 1872279
+  fr-gd:
+    download size: 230394145
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/fr-gd.tmx.gz
+    source language tokens: 48393318
+    target language tokens: 53663054
+    translation units: 1800504
+  fr-is:
+    download size: 248048294
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/fr-is.tmx.gz
+    source language tokens: 52754613
+    target language tokens: 44717093
+    translation units: 1958937
+  fr-ka:
+    download size: 296074395
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/fr-ka.tmx.gz
+    source language tokens: 51788102
+    target language tokens: 34260170
+    translation units: 1920360
+  fr-mk:
+    download size: 238924500
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/fr-mk.tmx.gz
+    source language tokens: 45826775
+    target language tokens: 40678150
+    translation units: 1702933
+  fr-so:
+    download size: 248904487
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/fr-so.tmx.gz
+    source language tokens: 52774485
+    target language tokens: 50244970
+    translation units: 1965393
+  fr-uk:
+    download size: 278050635
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/fr-uk.tmx.gz
+    source language tokens: 52573928
+    target language tokens: 40069159
+    translation units: 1956557
+  gd-hu:
+    download size: 70666608
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/gd-hu.tmx.gz
+    source language tokens: 16148761
+    target language tokens: 11438657
+    translation units: 555798
+  gd-is:
+    download size: 264760085
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/gd-is.tmx.gz
+    source language tokens: 62662507
+    target language tokens: 47867228
+    translation units: 2136151
+  gd-it:
+    download size: 221796350
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/gd-it.tmx.gz
+    source language tokens: 52807028
+    target language tokens: 43989014
+    translation units: 1699919
+  gd-ka:
+    download size: 313969569
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/gd-ka.tmx.gz
+    source language tokens: 61470470
+    target language tokens: 36690322
+    translation units: 2093155
+  gd-lt:
+    download size: 67518965
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/gd-lt.tmx.gz
+    source language tokens: 16365797
+    target language tokens: 10468788
+    translation units: 562903
+  gd-lv:
+    download size: 68006658
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/gd-lv.tmx.gz
+    source language tokens: 16471617
+    target language tokens: 11011492
+    translation units: 567888
+  gd-mk:
+    download size: 247924158
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/gd-mk.tmx.gz
+    source language tokens: 53228254
+    target language tokens: 42644527
+    translation units: 1817571
+  gd-nl:
+    download size: 224503267
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/gd-nl.tmx.gz
+    source language tokens: 52839600
+    target language tokens: 46357685
+    translation units: 1776694
+  gd-pl:
+    download size: 70988584
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/gd-pl.tmx.gz
+    source language tokens: 16327907
+    target language tokens: 11803725
+    translation units: 560703
+  gd-pt:
+    download size: 224185855
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/gd-pt.tmx.gz
+    source language tokens: 52523228
+    target language tokens: 45958724
+    translation units: 1752571
+  gd-ro:
+    download size: 44028222
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/gd-ro.tmx.gz
+    source language tokens: 10395363
+    target language tokens: 8896700
+    translation units: 355081
+  gd-sk:
+    download size: 70938447
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/gd-sk.tmx.gz
+    source language tokens: 16516443
+    target language tokens: 11923686
+    translation units: 568668
+  gd-sl:
+    download size: 65103563
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/gd-sl.tmx.gz
+    source language tokens: 16063574
+    target language tokens: 11546570
+    translation units: 554920
+  gd-so:
+    download size: 265179634
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/gd-so.tmx.gz
+    source language tokens: 62658063
+    target language tokens: 53866819
+    translation units: 2143868
+  gd-sv:
+    download size: 203161112
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/gd-sv.tmx.gz
+    source language tokens: 48983249
+    target language tokens: 38288597
+    translation units: 1658364
+  gd-uk:
+    download size: 294727193
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/gd-uk.tmx.gz
+    source language tokens: 62357727
+    target language tokens: 42867778
+    translation units: 2131432
+  hu-is:
+    download size: 73888168
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/hu-is.tmx.gz
+    source language tokens: 12219577
+    target language tokens: 13173480
+    translation units: 593241
+  hu-ka:
+    download size: 88271543
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/hu-ka.tmx.gz
+    source language tokens: 11942601
+    target language tokens: 10082694
+    translation units: 577750
+  hu-mk:
+    download size: 72049319
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/hu-mk.tmx.gz
+    source language tokens: 10703889
+    target language tokens: 12161207
+    translation units: 518550
+  hu-so:
+    download size: 74684796
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/hu-so.tmx.gz
+    source language tokens: 12224918
+    target language tokens: 14963954
+    translation units: 595025
+  hu-uk:
+    download size: 82432437
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/hu-uk.tmx.gz
+    source language tokens: 12081005
+    target language tokens: 11762953
+    translation units: 586915
+  is-it:
+    download size: 238611379
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/is-it.tmx.gz
+    source language tokens: 44009791
+    target language tokens: 47966226
+    translation units: 1850430
+  is-ka:
+    download size: 339093016
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/is-ka.tmx.gz
+    source language tokens: 51113963
+    target language tokens: 39934525
+    translation units: 2272627
+  is-lt:
+    download size: 70927323
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/is-lt.tmx.gz
+    source language tokens: 13371580
+    target language tokens: 11200691
+    translation units: 601729
+  is-lv:
+    download size: 71443196
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/is-lv.tmx.gz
+    source language tokens: 13449999
+    target language tokens: 11772506
+    translation units: 606857
+  is-mk:
+    download size: 271321254
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/is-mk.tmx.gz
+    source language tokens: 44951541
+    target language tokens: 47143090
+    translation units: 2004377
+  is-nl:
+    download size: 241463395
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/is-nl.tmx.gz
+    source language tokens: 44109804
+    target language tokens: 50648381
+    translation units: 1936031
+  is-pl:
+    download size: 74626383
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/is-pl.tmx.gz
+    source language tokens: 13326124
+    target language tokens: 12613769
+    translation units: 598926
+  is-pt:
+    download size: 241063107
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/is-pt.tmx.gz
+    source language tokens: 43812019
+    target language tokens: 50168178
+    translation units: 1908741
+  is-ro:
+    download size: 46148283
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/is-ro.tmx.gz
+    source language tokens: 8440723
+    target language tokens: 9461903
+    translation units: 377731
+  is-sk:
+    download size: 74190343
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/is-sk.tmx.gz
+    source language tokens: 13474473
+    target language tokens: 12734133
+    translation units: 607109
+  is-sl:
+    download size: 68318358
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/is-sl.tmx.gz
+    source language tokens: 13107922
+    target language tokens: 12338371
+    translation units: 592417
+  is-so:
+    download size: 285161892
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/is-so.tmx.gz
+    source language tokens: 52164688
+    target language tokens: 58713004
+    translation units: 2331033
+  is-sv:
+    download size: 216494860
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/is-sv.tmx.gz
+    source language tokens: 40754034
+    target language tokens: 41702489
+    translation units: 1801749
+  is-uk:
+    download size: 317587167
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/is-uk.tmx.gz
+    source language tokens: 51898678
+    target language tokens: 46706840
+    translation units: 2315858
+  it-ka:
+    download size: 286234493
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/it-ka.tmx.gz
+    source language tokens: 47129080
+    target language tokens: 33739790
+    translation units: 1816230
+  it-mk:
+    download size: 230567398
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/it-mk.tmx.gz
+    source language tokens: 41706204
+    target language tokens: 40079084
+    translation units: 1611001
+  it-so:
+    download size: 239245329
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/it-so.tmx.gz
+    source language tokens: 47982147
+    target language tokens: 49455154
+    translation units: 1856617
+  it-uk:
+    download size: 268055857
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/it-uk.tmx.gz
+    source language tokens: 47804741
+    target language tokens: 39434972
+    translation units: 1848722
+  ka-lt:
+    download size: 85139742
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/ka-lt.tmx.gz
+    source language tokens: 10232053
+    target language tokens: 10944503
+    translation units: 585900
+  ka-lv:
+    download size: 85595401
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/ka-lv.tmx.gz
+    source language tokens: 10290939
+    target language tokens: 11501372
+    translation units: 590851
+  ka-mk:
+    download size: 305216295
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/ka-mk.tmx.gz
+    source language tokens: 34436695
+    target language tokens: 46216180
+    translation units: 1962898
+  ka-nl:
+    download size: 288440178
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/ka-nl.tmx.gz
+    source language tokens: 33786517
+    target language tokens: 49711459
+    translation units: 1898651
+  ka-pl:
+    download size: 89010755
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/ka-pl.tmx.gz
+    source language tokens: 10195805
+    target language tokens: 12324804
+    translation units: 583254
+  ka-pt:
+    download size: 288635754
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/ka-pt.tmx.gz
+    source language tokens: 33560102
+    target language tokens: 49236489
+    translation units: 1871172
+  ka-ro:
+    download size: 55031262
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/ka-ro.tmx.gz
+    source language tokens: 6461462
+    target language tokens: 9232420
+    translation units: 367460
+  ka-sk:
+    download size: 89087621
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/ka-sk.tmx.gz
+    source language tokens: 10311572
+    target language tokens: 12443673
+    translation units: 591253
+  ka-sl:
+    download size: 82254893
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/ka-sl.tmx.gz
+    source language tokens: 10036750
+    target language tokens: 12060588
+    translation units: 577173
+  ka-so:
+    download size: 340217206
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/ka-so.tmx.gz
+    source language tokens: 39936444
+    target language tokens: 57520132
+    translation units: 2280685
+  ka-sv:
+    download size: 261405672
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/ka-sv.tmx.gz
+    source language tokens: 31239984
+    target language tokens: 40945888
+    translation units: 1766643
+  ka-uk:
+    download size: 361201635
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/ka-uk.tmx.gz
+    source language tokens: 39895704
+    target language tokens: 45945216
+    translation units: 2276018
+  lt-mk:
+    download size: 69400439
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/lt-mk.tmx.gz
+    source language tokens: 9827553
+    target language tokens: 12371740
+    translation units: 526932
+  lt-so:
+    download size: 71448165
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/lt-so.tmx.gz
+    source language tokens: 11206368
+    target language tokens: 15189191
+    translation units: 603540
+  lt-uk:
+    download size: 79289584
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/lt-uk.tmx.gz
+    source language tokens: 11073186
+    target language tokens: 11942309
+    translation units: 595301
+  lv-mk:
+    download size: 69622451
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/lv-mk.tmx.gz
+    source language tokens: 10314107
+    target language tokens: 12424704
+    translation units: 530579
+  lv-so:
+    download size: 72009428
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/lv-so.tmx.gz
+    source language tokens: 11778583
+    target language tokens: 15279245
+    translation units: 608758
+  lv-uk:
+    download size: 79694688
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/lv-uk.tmx.gz
+    source language tokens: 11636907
+    target language tokens: 12010811
+    translation units: 600335
+  mk-nl:
+    download size: 232862489
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/mk-nl.tmx.gz
+    source language tokens: 40102104
+    target language tokens: 43994612
+    translation units: 1682531
+  mk-pl:
+    download size: 72703547
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/mk-pl.tmx.gz
+    source language tokens: 12325296
+    target language tokens: 11061706
+    translation units: 524389
+  mk-pt:
+    download size: 232899250
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/mk-pt.tmx.gz
+    source language tokens: 39856835
+    target language tokens: 43587214
+    translation units: 1660071
+  mk-ro:
+    download size: 44809545
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/mk-ro.tmx.gz
+    source language tokens: 7801626
+    target language tokens: 8284644
+    translation units: 330331
+  mk-sk:
+    download size: 72572773
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/mk-sk.tmx.gz
+    source language tokens: 12445899
+    target language tokens: 11147763
+    translation units: 530715
+  mk-sl:
+    download size: 66715748
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/mk-sl.tmx.gz
+    source language tokens: 12088345
+    target language tokens: 10788621
+    translation units: 517006
+  mk-so:
+    download size: 272504338
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/mk-so.tmx.gz
+    source language tokens: 47134484
+    target language tokens: 50583468
+    translation units: 2011643
+  mk-sv:
+    download size: 211183438
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/mk-sv.tmx.gz
+    source language tokens: 37216626
+    target language tokens: 36345028
+    translation units: 1571461
+  mk-uk:
+    download size: 283026103
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/mk-uk.tmx.gz
+    source language tokens: 46986095
+    target language tokens: 40318353
+    translation units: 2002502
+  nl-so:
+    download size: 242239477
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/nl-so.tmx.gz
+    source language tokens: 50669048
+    target language tokens: 49567137
+    translation units: 1942753
+  nl-uk:
+    download size: 271250838
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/nl-uk.tmx.gz
+    source language tokens: 50480058
+    target language tokens: 39528833
+    translation units: 1934627
+  pl-so:
+    download size: 74987637
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/pl-so.tmx.gz
+    source language tokens: 12619655
+    target language tokens: 15137075
+    translation units: 600703
+  pl-uk:
+    download size: 83058602
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/pl-uk.tmx.gz
+    source language tokens: 12471338
+    target language tokens: 11901417
+    translation units: 592668
+  pt-so:
+    download size: 242324445
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/pt-so.tmx.gz
+    source language tokens: 50187404
+    target language tokens: 49235942
+    translation units: 1915506
+  pt-uk:
+    download size: 270972600
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/pt-uk.tmx.gz
+    source language tokens: 49998660
+    target language tokens: 39263028
+    translation units: 1907112
+  ro-so:
+    download size: 46426432
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/ro-so.tmx.gz
+    source language tokens: 9468138
+    target language tokens: 9595832
+    translation units: 378788
+  ro-uk:
+    download size: 51264009
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/ro-uk.tmx.gz
+    source language tokens: 9346760
+    target language tokens: 7530402
+    translation units: 373321
+  sk-so:
+    download size: 74954165
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/sk-so.tmx.gz
+    source language tokens: 12740652
+    target language tokens: 15305256
+    translation units: 609043
+  sk-uk:
+    download size: 83008444
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/sk-uk.tmx.gz
+    source language tokens: 12588716
+    target language tokens: 12032865
+    translation units: 600504
+  sl-so:
+    download size: 68817835
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/sl-so.tmx.gz
+    source language tokens: 12345487
+    target language tokens: 14890166
+    translation units: 594528
+  sl-uk:
+    download size: 76478345
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/sl-uk.tmx.gz
+    source language tokens: 12197450
+    target language tokens: 11706281
+    translation units: 586060
+  so-sv:
+    download size: 218581883
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/so-sv.tmx.gz
+    source language tokens: 45843570
+    target language tokens: 41721648
+    translation units: 1808008
+  so-uk:
+    download size: 319119505
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/so-uk.tmx.gz
+    source language tokens: 58416482
+    target language tokens: 46708841
+    translation units: 2325454
+  sv-uk:
+    download size: 245064723
+    download url: https://object.pouta.csc.fi/OPUS-Europarl/v8syn/tmx/sv-uk.tmx.gz
+    source language tokens: 41541054
+    target language tokens: 36517304
+    translation units: 1798701

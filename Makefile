@@ -10,11 +10,11 @@ TSV_FILES = info/RELEASES.tsv \
 
 MD_FILES = info/RELEASES.md info/RELEASES-without-ELRC.md
 
-all:  ${MD_FILES} ${TSV_FILES}
+all:  ${TSV_FILES}
 	${MAKE} commit
 	${MAKE} cleanup-dry-run > untracked-files.txt
 
-info:  ${MD_FILES} ${TSV_FILES}
+info:  ${TSV_FILES}
 
 ## remove untracked files
 ## (all released data that we don't store in the repository)
@@ -31,7 +31,7 @@ cleanup:
 # create a TSV file with essential release information
 
 info/RELEASES.tsv: corpus
-	find corpus/ -mindepth 3 -name info.yaml | xargs grep 'release date:' > $@.1
+	find corpus/ -mindepth 3 -name info.yaml | xargs grep -H 'release date:' > $@.1
 	cut -f1 -d: $@.1 | cut -f2,3 -d/ > $@.corpus
 	cut -f3- -d: $@.1 | \
 		sed 's/unknown/1900-01-01/' |\
@@ -39,27 +39,27 @@ info/RELEASES.tsv: corpus
 	chmod +x $@.date.sh
 	./$@.date.sh | sed 's/1900-01-01/unknown/' > $@.date
 	paste $@.corpus $@.date | sort -k1,1 -u > $@.releases
-	find corpus/ -mindepth 3 -name info.yaml | xargs grep 'license:' > $@.1
-	cut -f1 -d: $@.1 | cut -f2,3 -d/ > $@.2
-	cut -f3- -d: $@.1 | sed 's/^ *//' | tr "\t" ' ' | sed 's/<[^>]*>//g' > $@.3
-	paste $@.2 $@.3 | sort -k1,1 -u > $@.license
-	find corpus/ -mindepth 3 -name info.yaml | xargs grep 'alignments:' > $@.1
+	-find corpus/ -mindepth 3 -name info.yaml | xargs grep -H 'license:' > $@.1
+	-cut -f1 -d: $@.1 | cut -f2,3 -d/ > $@.2
+	-cut -f3- -d: $@.1 | sed 's/^ *//' | tr "\t" ' ' | sed 's/<[^>]*>//g' > $@.3
+	-paste $@.2 $@.3 | sort -k1,1 -u > $@.license
+	find corpus/ -mindepth 3 -name info.yaml | xargs grep -H 'alignments:' > $@.1
 	cut -f1 -d: $@.1 | cut -f2,3 -d/ > $@.2
 	cut -f3 -d: $@.1 | sed 's/^ *//' > $@.3
 	paste $@.2 $@.3 | sort -k1,1 -u > $@.alignments
-	find corpus/ -mindepth 3 -name info.yaml | xargs grep 'sentences:' > $@.1
+	find corpus/ -mindepth 3 -name info.yaml | xargs grep -H 'sentences:' > $@.1
 	cut -f1 -d: $@.1 | cut -f2,3 -d/ > $@.2
 	cut -f3 -d: $@.1 | sed 's/^ *//' > $@.3
 	paste $@.2 $@.3 | sort -k1,1 -u > $@.sentences
-	find corpus/ -mindepth 3 -name info.yaml | xargs grep 'tokens:' > $@.1
+	find corpus/ -mindepth 3 -name info.yaml | xargs grep -H 'tokens:' > $@.1
 	cut -f1 -d: $@.1 | cut -f2,3 -d/ > $@.2
 	cut -f3 -d: $@.1 | sed 's/^ *//' > $@.3
 	paste $@.2 $@.3 | sort -k1,1 -u > $@.tokens
-	find corpus/ -mindepth 3 -name info.yaml | xargs grep 'number of languages:' > $@.1
+	find corpus/ -mindepth 3 -name info.yaml | xargs grep -H 'number of languages:' > $@.1
 	cut -f1 -d: $@.1 | cut -f2,3 -d/ > $@.2
 	cut -f3 -d: $@.1 | sed 's/^ *//' > $@.3
 	paste $@.2 $@.3 | sort -k1,1 -u > $@.languages
-	find corpus/ -mindepth 3 -name info.yaml | xargs grep 'number of language pairs:' > $@.1
+	find corpus/ -mindepth 3 -name info.yaml | xargs grep -H 'number of language pairs:' > $@.1
 	cut -f1 -d: $@.1 | cut -f2,3 -d/ > $@.2
 	cut -f3 -d: $@.1 | sed 's/^ *//' > $@.3
 	paste $@.2 $@.3 | sort -k1,1 -u > $@.languagepairs
