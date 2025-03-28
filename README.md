@@ -1,4 +1,4 @@
-# ![synOPUS](img/opus_small.jpg)
+# ![synOPUS](img/synopus_medium.png)
 
 The Synthetic Open Parallel Corpus
 
