@@ -1,0 +1,3930 @@
+---
+bitexts:
+  ar-en:
+    alignments: 91305
+    downloads:
+      alignments:
+        size: 432045
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/ar-en.xml.gz
+      source language:
+        size: 35560342
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/ar.zip
+      target language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 2117269
+    target language tokens: 2522348
+  bg-en:
+    alignments: 6619
+    downloads:
+      alignments:
+        size: 31548
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/bg-en.xml.gz
+      source language:
+        size: 30442399
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/bg.zip
+      target language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 116995
+    target language tokens: 125869
+  bs-en:
+    alignments: 3106
+    downloads:
+      alignments:
+        size: 13831
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/bs-en.xml.gz
+      source language:
+        size: 22922256
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/bs.zip
+      target language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 57670
+    target language tokens: 61445
+  ca-en:
+    alignments: 8306
+    downloads:
+      alignments:
+        size: 39862
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/ca-en.xml.gz
+      source language:
+        size: 25148558
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/ca.zip
+      target language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 189098
+    target language tokens: 176211
+  cs-en:
+    alignments: 51811
+    downloads:
+      alignments:
+        size: 242623
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/cs-en.xml.gz
+      source language:
+        size: 29706758
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/cs.zip
+      target language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 724708
+    target language tokens: 865862
+  cs-uk:
+    alignments: 39936
+    downloads:
+      alignments:
+        size: 227098
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/cs-uk.xml.gz
+      source language:
+        size: 29706758
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/cs.zip
+      target language:
+        size: 46104784
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 668615
+    target language tokens: 677555
+  de-en:
+    alignments: 183319
+    downloads:
+      alignments:
+        size: 864661
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/de-en.xml.gz
+      source language:
+        size: 37569443
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/de.zip
+      target language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 3122711
+    target language tokens: 3398969
+  de-fi:
+    alignments: 180018
+    downloads:
+      alignments:
+        size: 853166
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/de-fi.xml.gz
+      source language:
+        size: 37569443
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/de.zip
+      target language:
+        size: 45961457
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/fi.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 3042302
+    target language tokens: 2209208
+  el-en:
+    alignments: 21506
+    downloads:
+      alignments:
+        size: 100449
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/el-en.xml.gz
+      source language:
+        size: 33650300
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/el.zip
+      target language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 477858
+    target language tokens: 466511
+  en-af:
+    alignments: 418139
+    downloads:
+      alignments:
+        size: 1944690
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-af.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 23953137
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/af.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8199428
+    target language tokens: 8507851
+  en-ar:
+    alignments: 445288
+    downloads:
+      alignments:
+        size: 2159199
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-ar.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 35560342
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/ar.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8515111
+    target language tokens: 7681883
+  en-az:
+    alignments: 3698
+    downloads:
+      alignments:
+        size: 22714
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-az.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 154633
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/az.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 57352
+    target language tokens: 36500
+  en-bg:
+    alignments: 437950
+    downloads:
+      alignments:
+        size: 2127510
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-bg.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 30442399
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/bg.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8403585
+    target language tokens: 8113148
+  en-bn:
+    alignments: 449595
+    downloads:
+      alignments:
+        size: 2199910
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-bn.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 29443572
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/bn.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8574641
+    target language tokens: 7351507
+  en-br:
+    alignments: 417272
+    downloads:
+      alignments:
+        size: 2015657
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-br.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 22892685
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/br.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8064058
+    target language tokens: 8829989
+  en-bs:
+    alignments: 402431
+    downloads:
+      alignments:
+        size: 1866447
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-bs.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 22922256
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/bs.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8433434
+    target language tokens: 7262647
+  en-ca:
+    alignments: 416623
+    downloads:
+      alignments:
+        size: 2020418
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-ca.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 25148558
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/ca.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8118028
+    target language tokens: 9139223
+  en-ceb:
+    alignments: 403428
+    downloads:
+      alignments:
+        size: 1947710
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-ceb.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 23636796
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/ceb.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8026648
+    target language tokens: 9912902
+  en-cs:
+    alignments: 425644
+    downloads:
+      alignments:
+        size: 2054307
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-cs.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 29706758
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/cs.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8289838
+    target language tokens: 7174743
+  en-cy:
+    alignments: 419654
+    downloads:
+      alignments:
+        size: 2023484
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-cy.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 23299571
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/cy.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8069155
+    target language tokens: 8451119
+  en-da:
+    alignments: 410154
+    downloads:
+      alignments:
+        size: 1971727
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-da.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 24537890
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/da.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8129690
+    target language tokens: 7766494
+  en-de:
+    alignments: 404666
+    downloads:
+      alignments:
+        size: 1941369
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-de.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 37569443
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/de.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 7977394
+    target language tokens: 7675349
+  en-el:
+    alignments: 419741
+    downloads:
+      alignments:
+        size: 2027244
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-el.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 33650300
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/el.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8021137
+    target language tokens: 8408437
+  en-eo:
+    alignments: 418516
+    downloads:
+      alignments:
+        size: 2009309
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-eo.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 23787729
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/eo.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8174602
+    target language tokens: 7918226
+  en-et:
+    alignments: 415183
+    downloads:
+      alignments:
+        size: 2001323
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-et.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 22849359
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/et.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8122631
+    target language tokens: 6166404
+  en-eu:
+    alignments: 423522
+    downloads:
+      alignments:
+        size: 2041095
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-eu.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 22645534
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/eu.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8201714
+    target language tokens: 6510295
+  en-fi:
+    alignments: 412207
+    downloads:
+      alignments:
+        size: 1989416
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-fi.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 45961457
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/fi.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 7996166
+    target language tokens: 5807005
+  en-fr:
+    alignments: 433798
+    downloads:
+      alignments:
+        size: 2097021
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-fr.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 35304690
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/fr.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8402758
+    target language tokens: 9558022
+  en-fy:
+    alignments: 422058
+    downloads:
+      alignments:
+        size: 2031002
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-fy.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 24304199
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/fy.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8204860
+    target language tokens: 8287371
+  en-ga:
+    alignments: 442067
+    downloads:
+      alignments:
+        size: 2142074
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-ga.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 25704162
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/ga.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8472612
+    target language tokens: 9301896
+  en-gl:
+    alignments: 421489
+    downloads:
+      alignments:
+        size: 2038264
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-gl.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 23698403
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/gl.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8310115
+    target language tokens: 8667211
+  en-he:
+    alignments: 447767
+    downloads:
+      alignments:
+        size: 2181266
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-he.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 24447615
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/he.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8526892
+    target language tokens: 6795451
+  en-hr:
+    alignments: 407535
+    downloads:
+      alignments:
+        size: 1969475
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-hr.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 23351826
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/hr.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8055686
+    target language tokens: 7322848
+  en-hu:
+    alignments: 398560
+    downloads:
+      alignments:
+        size: 1928505
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-hu.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 25732058
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/hu.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 7758362
+    target language tokens: 6638192
+  en-hy:
+    alignments: 415695
+    downloads:
+      alignments:
+        size: 2035418
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-hy.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 25813216
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/hy.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 7994066
+    target language tokens: 7001939
+  en-ia:
+    alignments: 6730
+    downloads:
+      alignments:
+        size: 39594
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-ia.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 324250
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/ia.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 108846
+    target language tokens: 102597
+  en-id:
+    alignments: 405606
+    downloads:
+      alignments:
+        size: 1950285
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-id.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 22121660
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/id.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 7946881
+    target language tokens: 7224940
+  en-ilo:
+    alignments: 426929
+    downloads:
+      alignments:
+        size: 2057354
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-ilo.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 24457770
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/ilo.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8344310
+    target language tokens: 9897275
+  en-it:
+    alignments: 422184
+    downloads:
+      alignments:
+        size: 2033851
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-it.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 29352551
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/it.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8219333
+    target language tokens: 8647154
+  en-lb:
+    alignments: 398649
+    downloads:
+      alignments:
+        size: 1924906
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-lb.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 24017292
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/lb.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 7842978
+    target language tokens: 7617994
+  en-lt:
+    alignments: 424528
+    downloads:
+      alignments:
+        size: 2049201
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-lt.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 24191069
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/lt.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8216936
+    target language tokens: 6826739
+  en-lv:
+    alignments: 412007
+    downloads:
+      alignments:
+        size: 1989105
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-lv.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 23648058
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/lv.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8035731
+    target language tokens: 6770047
+  en-mk:
+    alignments: 428317
+    downloads:
+      alignments:
+        size: 2063871
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-mk.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 29810192
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/mk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8346785
+    target language tokens: 8234309
+  en-ml:
+    alignments: 453574
+    downloads:
+      alignments:
+        size: 2234193
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-ml.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 27314243
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/ml.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8498153
+    target language tokens: 4822657
+  en-ms:
+    alignments: 407209
+    downloads:
+      alignments:
+        size: 1887185
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-ms.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 38969156
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/ms.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8394041
+    target language tokens: 7345543
+  en-mt:
+    alignments: 426570
+    downloads:
+      alignments:
+        size: 2054235
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-mt.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 25489552
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/mt.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8301094
+    target language tokens: 7473960
+  en-nb:
+    alignments: 383056
+    downloads:
+      alignments:
+        size: 1865960
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-nb.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 22309702
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/nb.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 7755309
+    target language tokens: 7311189
+  en-nds:
+    alignments: 37286
+    downloads:
+      alignments:
+        size: 206758
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-nds.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 1884733
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/nds.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 639905
+    target language tokens: 631004
+  en-nn:
+    alignments: 372223
+    downloads:
+      alignments:
+        size: 1848891
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-nn.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 21447382
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/nn.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 7466950
+    target language tokens: 7172165
+  en-pl:
+    alignments: 428169
+    downloads:
+      alignments:
+        size: 2066378
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-pl.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 38600908
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/pl.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8311412
+    target language tokens: 7219625
+  en-pt:
+    alignments: 425571
+    downloads:
+      alignments:
+        size: 2057160
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-pt.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 34445542
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/pt.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8296246
+    target language tokens: 8810131
+  en-ru:
+    alignments: 413198
+    downloads:
+      alignments:
+        size: 1999039
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-ru.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 50494958
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/ru.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8120199
+    target language tokens: 7273266
+  en-sq:
+    alignments: 419651
+    downloads:
+      alignments:
+        size: 2015158
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-sq.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 25393212
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/sq.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8258906
+    target language tokens: 8969562
+  en-sr_Cyrl:
+    alignments: 400790
+    downloads:
+      alignments:
+        size: 1851518
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-sr_Cyrl.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 34452909
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/sr_Cyrl.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8341507
+    target language tokens: 7289395
+  en-sr_Latn:
+    alignments: 372024
+    downloads:
+      alignments:
+        size: 1718931
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-sr_Latn.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 21963598
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/sr_Latn.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 7915234
+    target language tokens: 6928580
+  en-sv:
+    alignments: 418937
+    downloads:
+      alignments:
+        size: 2010734
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-sv.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 26779156
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/sv.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8193417
+    target language tokens: 7600312
+  en-sw:
+    alignments: 433712
+    downloads:
+      alignments:
+        size: 2093649
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-sw.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 23613736
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/sw.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8420680
+    target language tokens: 8504660
+  en-ta:
+    alignments: 442099
+    downloads:
+      alignments:
+        size: 2173772
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-ta.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 26145413
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/ta.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8350998
+    target language tokens: 5178293
+  en-th:
+    alignments: 425717
+    downloads:
+      alignments:
+        size: 2084574
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-th.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 27514079
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/th.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8039775
+    target language tokens: 5213912
+  en-tl:
+    alignments: 420365
+    downloads:
+      alignments:
+        size: 2019777
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-tl.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 24437849
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/tl.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8223436
+    target language tokens: 9704661
+  en-tr:
+    alignments: 423345
+    downloads:
+      alignments:
+        size: 2041372
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-tr.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 24057256
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/tr.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8250993
+    target language tokens: 6463374
+  en-uk:
+    alignments: 403490
+    downloads:
+      alignments:
+        size: 1950080
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-uk.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 46104784
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 7876718
+    target language tokens: 6893563
+  en-ur:
+    alignments: 408331
+    downloads:
+      alignments:
+        size: 1982648
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-ur.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 25174778
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/ur.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 7888357
+    target language tokens: 9613352
+  en-uz:
+    alignments: 382298
+    downloads:
+      alignments:
+        size: 1771162
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-uz.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 15692074
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/uz.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 7987868
+    target language tokens: 4820273
+  en-war:
+    alignments: 421952
+    downloads:
+      alignments:
+        size: 2023205
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-war.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 24022409
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/war.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8267289
+    target language tokens: 10450022
+  en-zh:
+    alignments: 405180
+    downloads:
+      alignments:
+        size: 2021617
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-zh.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 19535003
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/zh.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 7761574
+    target language tokens: 879636
+  en-zh_Hans:
+    alignments: 428969
+    downloads:
+      alignments:
+        size: 1986128
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-zh_Hans.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 26206626
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/zh_Hans.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8672934
+    target language tokens: 831508
+  en-zh_Hant:
+    alignments: 413339
+    downloads:
+      alignments:
+        size: 1937843
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/en-zh_Hant.xml.gz
+      source language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      target language:
+        size: 17550016
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/zh_Hant.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8267590
+    target language tokens: 927060
+  eo-en:
+    alignments: 7916
+    downloads:
+      alignments:
+        size: 36981
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/eo-en.xml.gz
+      source language:
+        size: 23787729
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/eo.zip
+      target language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 148900
+    target language tokens: 154809
+  es-en:
+    alignments: 120383
+    downloads:
+      alignments:
+        size: 564873
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/es-en.xml.gz
+      source language:
+        size: 8620249
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/es.zip
+      target language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 3346404
+    target language tokens: 3100991
+  fa-en:
+    alignments: 14136
+    downloads:
+      alignments:
+        size: 66559
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/fa-en.xml.gz
+      source language:
+        size: 908796
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/fa.zip
+      target language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 342693
+    target language tokens: 307544
+  fi-de:
+    alignments: 20187
+    downloads:
+      alignments:
+        size: 94566
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/fi-de.xml.gz
+      source language:
+        size: 45961457
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/fi.zip
+      target language:
+        size: 37569443
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/de.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 224743
+    target language tokens: 321968
+  fi-en:
+    alignments: 20823
+    downloads:
+      alignments:
+        size: 100908
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/fi-en.xml.gz
+      source language:
+        size: 45961457
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/fi.zip
+      target language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 228436
+    target language tokens: 340797
+  fi-et:
+    alignments: 19988
+    downloads:
+      alignments:
+        size: 96644
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/fi-et.xml.gz
+      source language:
+        size: 45961457
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/fi.zip
+      target language:
+        size: 22849359
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/et.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 221815
+    target language tokens: 228109
+  fi-ru:
+    alignments: 20132
+    downloads:
+      alignments:
+        size: 97580
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/fi-ru.xml.gz
+      source language:
+        size: 45961457
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/fi.zip
+      target language:
+        size: 50494958
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/ru.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 221670
+    target language tokens: 261776
+  fi-sv:
+    alignments: 20888
+    downloads:
+      alignments:
+        size: 101611
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/fi-sv.xml.gz
+      source language:
+        size: 45961457
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/fi.zip
+      target language:
+        size: 26779156
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/sv.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 228176
+    target language tokens: 291191
+  fr-en:
+    alignments: 142187
+    downloads:
+      alignments:
+        size: 662647
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/fr-en.xml.gz
+      source language:
+        size: 35304690
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/fr.zip
+      target language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 3594821
+    target language tokens: 3307587
+  hu-en:
+    alignments: 8259
+    downloads:
+      alignments:
+        size: 38502
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/hu-en.xml.gz
+      source language:
+        size: 25732058
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/hu.zip
+      target language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 131993
+    target language tokens: 159633
+  hu-uk:
+    alignments: 8716
+    downloads:
+      alignments:
+        size: 46703
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/hu-uk.xml.gz
+      source language:
+        size: 25732058
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/hu.zip
+      target language:
+        size: 46104784
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 134481
+    target language tokens: 127032
+  it-en:
+    alignments: 70149
+    downloads:
+      alignments:
+        size: 327988
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/it-en.xml.gz
+      source language:
+        size: 29352551
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/it.zip
+      target language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 1724151
+    target language tokens: 1758209
+  ko-en:
+    alignments: 6085
+    downloads:
+      alignments:
+        size: 28552
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/ko-en.xml.gz
+      source language:
+        size: 393304
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/ko.zip
+      target language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 91379
+    target language tokens: 133143
+  nb-en:
+    alignments: 8200
+    downloads:
+      alignments:
+        size: 39954
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/nb-en.xml.gz
+      source language:
+        size: 22309702
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/nb.zip
+      target language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 112555
+    target language tokens: 122296
+  nl-en:
+    alignments: 43403
+    downloads:
+      alignments:
+        size: 203255
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/nl-en.xml.gz
+      source language:
+        size: 2188973
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/nl.zip
+      target language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 786801
+    target language tokens: 775187
+  no-en:
+    alignments: 6024
+    downloads:
+      alignments:
+        size: 33423
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/no-en.xml.gz
+      source language:
+        size: 282706
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/no.zip
+      target language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 96210
+    target language tokens: 104306
+  pl-en:
+    alignments: 160152
+    downloads:
+      alignments:
+        size: 745462
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/pl-en.xml.gz
+      source language:
+        size: 38600908
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/pl.zip
+      target language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 2741175
+    target language tokens: 3293810
+  pl-uk:
+    alignments: 162957
+    downloads:
+      alignments:
+        size: 981088
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/pl-uk.xml.gz
+      source language:
+        size: 38600908
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/pl.zip
+      target language:
+        size: 46104784
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 2711782
+    target language tokens: 2644152
+  pt-en:
+    alignments: 154117
+    downloads:
+      alignments:
+        size: 718469
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/pt-en.xml.gz
+      source language:
+        size: 34445542
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/pt.zip
+      target language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 3633141
+    target language tokens: 3606634
+  ro-en:
+    alignments: 11200
+    downloads:
+      alignments:
+        size: 52387
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/ro-en.xml.gz
+      source language:
+        size: 2380756
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/ro.zip
+      target language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 262241
+    target language tokens: 253315
+  ro-uk:
+    alignments: 12360
+    downloads:
+      alignments:
+        size: 67301
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/ro-uk.xml.gz
+      source language:
+        size: 2380756
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/ro.zip
+      target language:
+        size: 46104784
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 280859
+    target language tokens: 234368
+  ru-en:
+    alignments: 262500
+    downloads:
+      alignments:
+        size: 1223702
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/ru-en.xml.gz
+      source language:
+        size: 50494958
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/ru.zip
+      target language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 4516042
+    target language tokens: 5297432
+  ru-fi:
+    alignments: 253840
+    downloads:
+      alignments:
+        size: 1201844
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/ru-fi.xml.gz
+      source language:
+        size: 50494958
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/ru.zip
+      target language:
+        size: 45961457
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/fi.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 4142560
+    target language tokens: 3200442
+  sd-en:
+    alignments: 22
+    downloads:
+      alignments:
+        size: 335
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/sd-en.xml.gz
+      source language:
+        size: 4872
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/sd.zip
+      target language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 832
+    target language tokens: 806
+  sq-en:
+    alignments: 6603
+    downloads:
+      alignments:
+        size: 30901
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/sq-en.xml.gz
+      source language:
+        size: 25393212
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/sq.zip
+      target language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 153621
+    target language tokens: 143341
+  sr_Cyrl-en:
+    alignments: 100610
+    downloads:
+      alignments:
+        size: 492622
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/sr_Cyrl-en.xml.gz
+      source language:
+        size: 34452909
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/sr_Cyrl.zip
+      target language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 1932323
+    target language tokens: 2206356
+  sv-en:
+    alignments: 12126
+    downloads:
+      alignments:
+        size: 56753
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/sv-en.xml.gz
+      source language:
+        size: 26779156
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/sv.zip
+      target language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 231671
+    target language tokens: 260233
+  sv-fi:
+    alignments: 12246
+    downloads:
+      alignments:
+        size: 58762
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/sv-fi.xml.gz
+      source language:
+        size: 26779156
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/sv.zip
+      target language:
+        size: 45961457
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/fi.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 231328
+    target language tokens: 183655
+  ta-en:
+    alignments: 1026
+    downloads:
+      alignments:
+        size: 5090
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/ta-en.xml.gz
+      source language:
+        size: 26145413
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/ta.zip
+      target language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 23581
+    target language tokens: 22349
+  th-en:
+    alignments: 123
+    downloads:
+      alignments:
+        size: 792
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/th-en.xml.gz
+      source language:
+        size: 27514079
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/th.zip
+      target language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 1286
+    target language tokens: 2590
+  tr-en:
+    alignments: 11616
+    downloads:
+      alignments:
+        size: 54359
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/tr-en.xml.gz
+      source language:
+        size: 24057256
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/tr.zip
+      target language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 185405
+    target language tokens: 225280
+  uk-cs:
+    alignments: 25143
+    downloads:
+      alignments:
+        size: 117879
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/uk-cs.xml.gz
+      source language:
+        size: 46104784
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/uk.zip
+      target language:
+        size: 29706758
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/cs.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 425778
+    target language tokens: 424392
+  uk-da:
+    alignments: 24889
+    downloads:
+      alignments:
+        size: 141076
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/uk-da.xml.gz
+      source language:
+        size: 46104784
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/uk.zip
+      target language:
+        size: 24537890
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/da.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 431520
+    target language tokens: 495195
+  uk-de:
+    alignments: 25044
+    downloads:
+      alignments:
+        size: 141830
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/uk-de.xml.gz
+      source language:
+        size: 46104784
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/uk.zip
+      target language:
+        size: 37569443
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/de.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 433720
+    target language tokens: 527018
+  uk-en:
+    alignments: 24337
+    downloads:
+      alignments:
+        size: 138149
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/uk-en.xml.gz
+      source language:
+        size: 46104784
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/uk.zip
+      target language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 398310
+    target language tokens: 491025
+  uk-hu:
+    alignments: 25308
+    downloads:
+      alignments:
+        size: 143497
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/uk-hu.xml.gz
+      source language:
+        size: 46104784
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/uk.zip
+      target language:
+        size: 25732058
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/hu.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 440565
+    target language tokens: 446865
+  uk-pl:
+    alignments: 25457
+    downloads:
+      alignments:
+        size: 144255
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/uk-pl.xml.gz
+      source language:
+        size: 46104784
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/uk.zip
+      target language:
+        size: 38600908
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/pl.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 428003
+    target language tokens: 434333
+  uk-ro:
+    alignments: 25671
+    downloads:
+      alignments:
+        size: 145013
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/uk-ro.xml.gz
+      source language:
+        size: 46104784
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/uk.zip
+      target language:
+        size: 2380756
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/ro.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 443187
+    target language tokens: 543642
+  uk-sk:
+    alignments: 25303
+    downloads:
+      alignments:
+        size: 143008
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/uk-sk.xml.gz
+      source language:
+        size: 46104784
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/uk.zip
+      target language:
+        size: 1477212
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/sk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 438313
+    target language tokens: 444198
+  uk-sv:
+    alignments: 25238
+    downloads:
+      alignments:
+        size: 143030
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/uk-sv.xml.gz
+      source language:
+        size: 46104784
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/uk.zip
+      target language:
+        size: 26779156
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/sv.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 434831
+    target language tokens: 481315
+  zh-en:
+    alignments: 41330
+    downloads:
+      alignments:
+        size: 200463
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/zh-en.xml.gz
+      source language:
+        size: 19535003
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/zh.zip
+      target language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 56317
+    target language tokens: 935797
+  zh_Hans-en:
+    alignments: 34407
+    downloads:
+      alignments:
+        size: 161842
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/zh_Hans-en.xml.gz
+      source language:
+        size: 26206626
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/zh_Hans.zip
+      target language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 45573
+    target language tokens: 806293
+  zh_Hant-en:
+    alignments: 54
+    downloads:
+      alignments:
+        size: 492
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/xml/zh_Hant-en.xml.gz
+      source language:
+        size: 17550016
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/zh_Hant.zip
+      target language:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 64
+    target language tokens: 290
+files: 96
+monolingual:
+  af:
+    downloads:
+      plain text:
+        size: 22189688
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/af.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 23953137
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/af.zip
+    files: 1
+    sentences: 417642
+    tokens: 8502873
+  ar:
+    downloads:
+      plain text:
+        size: 33530289
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/ar.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 35560342
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/ar.zip
+    files: 2
+    sentences: 535702
+    tokens: 9790718
+  az:
+    downloads:
+      plain text:
+        size: 137819
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/az.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 154633
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/az.zip
+    files: 1
+    sentences: 3669
+    tokens: 36452
+  bg:
+    downloads:
+      plain text:
+        size: 28762134
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/bg.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 30442399
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/bg.zip
+    files: 2
+    sentences: 443690
+    tokens: 8222310
+  bn:
+    downloads:
+      plain text:
+        size: 27777287
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/bn.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 29443572
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/bn.zip
+    files: 1
+    sentences: 446863
+    tokens: 7334154
+  br:
+    downloads:
+      plain text:
+        size: 21133087
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/br.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 22892685
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/br.zip
+    files: 1
+    sentences: 416176
+    tokens: 8822507
+  bs:
+    downloads:
+      plain text:
+        size: 21187288
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/bs.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 22922256
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/bs.zip
+    files: 2
+    sentences: 403555
+    tokens: 7306099
+  ca:
+    downloads:
+      plain text:
+        size: 23346130
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/ca.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 25148558
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/ca.zip
+    files: 2
+    sentences: 424400
+    tokens: 9322524
+  ceb:
+    downloads:
+      plain text:
+        size: 21985686
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/ceb.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 23636796
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/ceb.zip
+    files: 1
+    sentences: 401417
+    tokens: 9901866
+  cs:
+    downloads:
+      plain text:
+        size: 27461444
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/cs.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 29706758
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/cs.zip
+    files: 2
+    sentences: 516364
+    tokens: 8609466
+  cy:
+    downloads:
+      plain text:
+        size: 21493094
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/cy.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 23299571
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/cy.zip
+    files: 1
+    sentences: 419198
+    tokens: 8445176
+  da:
+    downloads:
+      plain text:
+        size: 22686792
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/da.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 24537890
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/da.zip
+    files: 1
+    sentences: 434262
+    tokens: 8254999
+  de:
+    downloads:
+      plain text:
+        size: 34838634
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/de.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 37569443
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/de.zip
+    files: 2
+    sentences: 633161
+    tokens: 11647739
+  el:
+    downloads:
+      plain text:
+        size: 31985365
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/el.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 33650300
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/el.zip
+    files: 2
+    sentences: 439913
+    tokens: 8878588
+  en:
+    downloads:
+      plain text:
+        size: 253453760
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/en.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 276243563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/en.zip
+    files: 2
+    sentences: 4873669
+    tokens: 101836216
+  eo:
+    downloads:
+      plain text:
+        size: 21995133
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/eo.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 23787729
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/eo.zip
+    files: 2
+    sentences: 424920
+    tokens: 8060746
+  es:
+    downloads:
+      plain text:
+        size: 8110634
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/es.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 8620249
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/es.zip
+    files: 1
+    sentences: 120384
+    tokens: 3346405
+  et:
+    downloads:
+      plain text:
+        size: 20981135
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/et.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 22849359
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/et.zip
+    files: 1
+    sentences: 433926
+    tokens: 6388746
+  eu:
+    downloads:
+      plain text:
+        size: 20852757
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/eu.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 22645534
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/eu.zip
+    files: 1
+    sentences: 422437
+    tokens: 6505196
+  fa:
+    downloads:
+      plain text:
+        size: 855028
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/fa.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 908796
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/fa.zip
+    files: 1
+    sentences: 14137
+    tokens: 342694
+  fi:
+    downloads:
+      plain text:
+        size: 42215693
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/fi.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 45961457
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/fi.zip
+    files: 2
+    sentences: 875504
+    tokens: 11601541
+  fr:
+    downloads:
+      plain text:
+        size: 32851368
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/fr.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 35304690
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/fr.zip
+    files: 2
+    sentences: 575057
+    tokens: 13142499
+  fy:
+    downloads:
+      plain text:
+        size: 22500218
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/fy.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 24304199
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/fy.zip
+    files: 1
+    sentences: 421747
+    tokens: 8283871
+  ga:
+    downloads:
+      plain text:
+        size: 23835549
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/ga.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 25704162
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/ga.zip
+    files: 1
+    sentences: 441771
+    tokens: 9298397
+  gl:
+    downloads:
+      plain text:
+        size: 21924026
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/gl.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 23698403
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/gl.zip
+    files: 1
+    sentences: 420801
+    tokens: 8660150
+  he:
+    downloads:
+      plain text:
+        size: 22700842
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/he.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 24447615
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/he.zip
+    files: 1
+    sentences: 446708
+    tokens: 6788614
+  hr:
+    downloads:
+      plain text:
+        size: 21602679
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/hr.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 23351826
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/hr.zip
+    files: 1
+    sentences: 406786
+    tokens: 7315496
+  hu:
+    downloads:
+      plain text:
+        size: 23847833
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/hu.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 25732058
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/hu.zip
+    files: 2
+    sentences: 431857
+    tokens: 7216401
+  hy:
+    downloads:
+      plain text:
+        size: 24300995
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/hy.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 25813216
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/hy.zip
+    files: 1
+    sentences: 412623
+    tokens: 6980696
+  ia:
+    downloads:
+      plain text:
+        size: 296070
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/ia.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 324250
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/ia.zip
+    files: 1
+    sentences: 6715
+    tokens: 102554
+  id:
+    downloads:
+      plain text:
+        size: 20440316
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/id.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 22121660
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/id.zip
+    files: 1
+    sentences: 404665
+    tokens: 7218588
+  ilo:
+    downloads:
+      plain text:
+        size: 22695997
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/ilo.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 24457770
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/ilo.zip
+    files: 1
+    sentences: 424773
+    tokens: 9887597
+  it:
+    downloads:
+      plain text:
+        size: 27265050
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/it.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 29352551
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/it.zip
+    files: 2
+    sentences: 491452
+    tokens: 10361027
+  ko:
+    downloads:
+      plain text:
+        size: 367189
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/ko.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 393304
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/ko.zip
+    files: 1
+    sentences: 6086
+    tokens: 91380
+  lb:
+    downloads:
+      plain text:
+        size: 22284611
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/lb.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 24017292
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/lb.zip
+    files: 1
+    sentences: 398263
+    tokens: 7614822
+  lt:
+    downloads:
+      plain text:
+        size: 22347881
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/lt.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 24191069
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/lt.zip
+    files: 1
+    sentences: 423495
+    tokens: 6819530
+  lv:
+    downloads:
+      plain text:
+        size: 21864836
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/lv.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 23648058
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/lv.zip
+    files: 1
+    sentences: 410966
+    tokens: 6760989
+  mk:
+    downloads:
+      plain text:
+        size: 28218539
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/mk.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 29810192
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/mk.zip
+    files: 1
+    sentences: 427376
+    tokens: 8227320
+  ml:
+    downloads:
+      plain text:
+        size: 25792411
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/ml.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 27314243
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/ml.zip
+    files: 1
+    sentences: 446903
+    tokens: 4801127
+  ms:
+    downloads:
+      plain text:
+        size: 36017516
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/ms.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 38969156
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/ms.zip
+    files: 1
+    sentences: 704853
+    tokens: 12834811
+  mt:
+    downloads:
+      plain text:
+        size: 23644944
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/mt.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 25489552
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/mt.zip
+    files: 1
+    sentences: 425875
+    tokens: 7466179
+  nb:
+    downloads:
+      plain text:
+        size: 20647635
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/nb.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 22309702
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/nb.zip
+    files: 2
+    sentences: 388542
+    tokens: 7403107
+  nds:
+    downloads:
+      plain text:
+        size: 1727575
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/nds.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 1884733
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/nds.zip
+    files: 1
+    sentences: 37246
+    tokens: 630618
+  nl:
+    downloads:
+      plain text:
+        size: 2006295
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/nl.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 2188973
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/nl.zip
+    files: 1
+    sentences: 43404
+    tokens: 786802
+  nn:
+    downloads:
+      plain text:
+        size: 19847676
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/nn.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 21447382
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/nn.zip
+    files: 1
+    sentences: 371893
+    tokens: 7168225
+  no:
+    downloads:
+      plain text:
+        size: 256486
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/no.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 282706
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/no.zip
+    files: 1
+    sentences: 6025
+    tokens: 96211
+  pl:
+    downloads:
+      plain text:
+        size: 35785778
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/pl.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 38600908
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/pl.zip
+    files: 2
+    sentences: 648100
+    tokens: 11118213
+  pt:
+    downloads:
+      plain text:
+        size: 31980222
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/pt.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 34445542
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/pt.zip
+    files: 2
+    sentences: 578956
+    tokens: 12435636
+  ro:
+    downloads:
+      plain text:
+        size: 2217776
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/ro.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 2380756
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/ro.zip
+    files: 2
+    sentences: 38534
+    tokens: 842795
+  ru:
+    downloads:
+      plain text:
+        size: 47817619
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/ru.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 50494958
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/ru.zip
+    files: 2
+    sentences: 695520
+    tokens: 12056471
+  sd:
+    downloads:
+      plain text:
+        size: 2778
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/sd.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 4872
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/sd.zip
+    files: 1
+    sentences: 23
+    tokens: 833
+  sk:
+    downloads:
+      plain text:
+        size: 1367989
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/sk.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 1477212
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/sk.zip
+    files: 1
+    sentences: 25251
+    tokens: 443417
+  sq:
+    downloads:
+      plain text:
+        size: 23607660
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/sq.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 25393212
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/sq.zip
+    files: 2
+    sentences: 424952
+    tokens: 9115853
+  sr_Cyrl:
+    downloads:
+      plain text:
+        size: 32583974
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/sr_Cyrl.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 34452909
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/sr_Cyrl.zip
+    files: 2
+    sentences: 496934
+    tokens: 9165801
+  sr_Latn:
+    downloads:
+      plain text:
+        size: 20362766
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/sr_Latn.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 21963598
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/sr_Latn.zip
+    files: 1
+    sentences: 371391
+    tokens: 6922613
+  sv:
+    downloads:
+      plain text:
+        size: 24756896
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/sv.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 26779156
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/sv.zip
+    files: 2
+    sentences: 476457
+    tokens: 8597574
+  sw:
+    downloads:
+      plain text:
+        size: 21809584
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/sw.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 23613736
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/sw.zip
+    files: 1
+    sentences: 432583
+    tokens: 8497140
+  ta:
+    downloads:
+      plain text:
+        size: 24697563
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/ta.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 26145413
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/ta.zip
+    files: 2
+    sentences: 433590
+    tokens: 5176106
+  th:
+    downloads:
+      plain text:
+        size: 26042078
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/th.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 27514079
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/th.zip
+    files: 2
+    sentences: 424035
+    tokens: 5207892
+  tl:
+    downloads:
+      plain text:
+        size: 22699545
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/tl.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 24437849
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/tl.zip
+    files: 1
+    sentences: 419718
+    tokens: 9698377
+  tr:
+    downloads:
+      plain text:
+        size: 22182454
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/tr.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 24057256
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/tr.zip
+    files: 2
+    sentences: 433961
+    tokens: 6642234
+  uk:
+    downloads:
+      plain text:
+        size: 43560050
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/uk.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 46104784
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/uk.zip
+    files: 2
+    sentences: 652795
+    tokens: 11024136
+  ur:
+    downloads:
+      plain text:
+        size: 23616466
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/ur.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 25174778
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/ur.zip
+    files: 1
+    sentences: 404588
+    tokens: 9578922
+  uz:
+    downloads:
+      plain text:
+        size: 14181234
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/uz.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 15692074
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/uz.zip
+    files: 1
+    sentences: 380650
+    tokens: 4814524
+  war:
+    downloads:
+      plain text:
+        size: 22299229
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/war.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 24022409
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/war.zip
+    files: 1
+    sentences: 420323
+    tokens: 10441549
+  zh:
+    downloads:
+      plain text:
+        size: 17529187
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/zh.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 19535003
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/zh.zip
+    files: 2
+    sentences: 436171
+    tokens: 923236
+  zh_Hans:
+    downloads:
+      plain text:
+        size: 24119772
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/zh_Hans.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 26206626
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/zh_Hans.zip
+    files: 2
+    sentences: 461725
+    tokens: 867927
+  zh_Hant:
+    downloads:
+      plain text:
+        size: 15694213
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/mono/zh_Hant.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 17550016
+        url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/raw/zh_Hant.zip
+    files: 2
+    sentences: 405952
+    tokens: 918666
+moses:
+  ar-en:
+    alignments: 91305
+    download size: 13193283
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/ar-en.txt.zip
+    source language tokens: 2117269
+    target language tokens: 2522348
+  bg-en:
+    alignments: 6619
+    download size: 728179
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/bg-en.txt.zip
+    source language tokens: 116995
+    target language tokens: 125869
+  bs-en:
+    alignments: 3106
+    download size: 275814
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/bs-en.txt.zip
+    source language tokens: 57670
+    target language tokens: 61445
+  ca-en:
+    alignments: 8306
+    download size: 879642
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/ca-en.txt.zip
+    source language tokens: 189098
+    target language tokens: 176211
+  cs-en:
+    alignments: 51811
+    download size: 4473566
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/cs-en.txt.zip
+    source language tokens: 724708
+    target language tokens: 865862
+  cs-uk:
+    alignments: 39936
+    download size: 4380750
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/cs-uk.txt.zip
+    source language tokens: 668615
+    target language tokens: 677555
+  de-en:
+    alignments: 183319
+    download size: 18379401
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/de-en.txt.zip
+    source language tokens: 3122711
+    target language tokens: 3398969
+  de-fi:
+    alignments: 180018
+    download size: 17786511
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/de-fi.txt.zip
+    source language tokens: 3042302
+    target language tokens: 2209208
+  el-en:
+    alignments: 21506
+    download size: 2689625
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/el-en.txt.zip
+    source language tokens: 477858
+    target language tokens: 466511
+  en-af:
+    alignments: 418139
+    download size: 43348275
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-af.txt.zip
+    source language tokens: 8199428
+    target language tokens: 8507851
+  en-ar:
+    alignments: 445288
+    download size: 48217055
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-ar.txt.zip
+    source language tokens: 8515111
+    target language tokens: 7681883
+  en-az:
+    alignments: 3698
+    download size: 276605
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-az.txt.zip
+    source language tokens: 57352
+    target language tokens: 36500
+  en-bg:
+    alignments: 437950
+    download size: 50054955
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-bg.txt.zip
+    source language tokens: 8403585
+    target language tokens: 8113148
+  en-bn:
+    alignments: 449595
+    download size: 50039532
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-bn.txt.zip
+    source language tokens: 8574641
+    target language tokens: 7351507
+  en-br:
+    alignments: 417272
+    download size: 41889509
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-br.txt.zip
+    source language tokens: 8064058
+    target language tokens: 8829989
+  en-bs:
+    alignments: 402431
+    download size: 42261869
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-bs.txt.zip
+    source language tokens: 8433434
+    target language tokens: 7262647
+  en-ca:
+    alignments: 416623
+    download size: 43768352
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-ca.txt.zip
+    source language tokens: 8118028
+    target language tokens: 9139223
+  en-ceb:
+    alignments: 403428
+    download size: 42727794
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-ceb.txt.zip
+    source language tokens: 8026648
+    target language tokens: 9912902
+  en-cs:
+    alignments: 425644
+    download size: 44242908
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-cs.txt.zip
+    source language tokens: 8289838
+    target language tokens: 7174743
+  en-cy:
+    alignments: 419654
+    download size: 42257288
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-cy.txt.zip
+    source language tokens: 8069155
+    target language tokens: 8451119
+  en-da:
+    alignments: 410154
+    download size: 42351945
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-da.txt.zip
+    source language tokens: 8129690
+    target language tokens: 7766494
+  en-de:
+    alignments: 404666
+    download size: 43203851
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-de.txt.zip
+    source language tokens: 7977394
+    target language tokens: 7675349
+  en-el:
+    alignments: 419741
+    download size: 50978593
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-el.txt.zip
+    source language tokens: 8021137
+    target language tokens: 8408437
+  en-eo:
+    alignments: 418516
+    download size: 42681336
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-eo.txt.zip
+    source language tokens: 8174602
+    target language tokens: 7918226
+  en-et:
+    alignments: 415183
+    download size: 41117156
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-et.txt.zip
+    source language tokens: 8122631
+    target language tokens: 6166404
+  en-eu:
+    alignments: 423522
+    download size: 41964692
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-eu.txt.zip
+    source language tokens: 8201714
+    target language tokens: 6510295
+  en-fi:
+    alignments: 412207
+    download size: 42073425
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-fi.txt.zip
+    source language tokens: 7996166
+    target language tokens: 5807005
+  en-fr:
+    alignments: 433798
+    download size: 45668368
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-fr.txt.zip
+    source language tokens: 8402758
+    target language tokens: 9558022
+  en-fy:
+    alignments: 422058
+    download size: 43621460
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-fy.txt.zip
+    source language tokens: 8204860
+    target language tokens: 8287371
+  en-ga:
+    alignments: 442067
+    download size: 45744445
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-ga.txt.zip
+    source language tokens: 8472612
+    target language tokens: 9301896
+  en-gl:
+    alignments: 421489
+    download size: 43409295
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-gl.txt.zip
+    source language tokens: 8310115
+    target language tokens: 8667211
+  en-he:
+    alignments: 447767
+    download size: 44773775
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-he.txt.zip
+    source language tokens: 8526892
+    target language tokens: 6795451
+  en-hr:
+    alignments: 407535
+    download size: 42290576
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-hr.txt.zip
+    source language tokens: 8055686
+    target language tokens: 7322848
+  en-hu:
+    alignments: 398560
+    download size: 41893100
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-hu.txt.zip
+    source language tokens: 7758362
+    target language tokens: 6638192
+  en-hy:
+    alignments: 415695
+    download size: 44863425
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-hy.txt.zip
+    source language tokens: 7994066
+    target language tokens: 7001939
+  en-ia:
+    alignments: 6730
+    download size: 574198
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-ia.txt.zip
+    source language tokens: 108846
+    target language tokens: 102597
+  en-id:
+    alignments: 405606
+    download size: 40865077
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-id.txt.zip
+    source language tokens: 7946881
+    target language tokens: 7224940
+  en-ilo:
+    alignments: 426929
+    download size: 44263379
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-ilo.txt.zip
+    source language tokens: 8344310
+    target language tokens: 9897275
+  en-it:
+    alignments: 422184
+    download size: 43866851
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-it.txt.zip
+    source language tokens: 8219333
+    target language tokens: 8647154
+  en-lb:
+    alignments: 398649
+    download size: 42412080
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-lb.txt.zip
+    source language tokens: 7842978
+    target language tokens: 7617994
+  en-lt:
+    alignments: 424528
+    download size: 43545145
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-lt.txt.zip
+    source language tokens: 8216936
+    target language tokens: 6826739
+  en-lv:
+    alignments: 412007
+    download size: 42540401
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-lv.txt.zip
+    source language tokens: 8035731
+    target language tokens: 6770047
+  en-mk:
+    alignments: 428317
+    download size: 49761199
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-mk.txt.zip
+    source language tokens: 8346785
+    target language tokens: 8234309
+  en-ml:
+    alignments: 453574
+    download size: 47881318
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-ml.txt.zip
+    source language tokens: 8498153
+    target language tokens: 4822657
+  en-ms:
+    alignments: 407209
+    download size: 41856639
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-ms.txt.zip
+    source language tokens: 8394041
+    target language tokens: 7345543
+  en-mt:
+    alignments: 426570
+    download size: 45097812
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-mt.txt.zip
+    source language tokens: 8301094
+    target language tokens: 7473960
+  en-nb:
+    alignments: 383056
+    download size: 40315242
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-nb.txt.zip
+    source language tokens: 7755309
+    target language tokens: 7311189
+  en-nds:
+    alignments: 37286
+    download size: 3328839
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-nds.txt.zip
+    source language tokens: 639905
+    target language tokens: 631004
+  en-nn:
+    alignments: 372223
+    download size: 38976847
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-nn.txt.zip
+    source language tokens: 7466950
+    target language tokens: 7172165
+  en-pl:
+    alignments: 428169
+    download size: 44712179
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-pl.txt.zip
+    source language tokens: 8311412
+    target language tokens: 7219625
+  en-pt:
+    alignments: 425571
+    download size: 44142375
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-pt.txt.zip
+    source language tokens: 8296246
+    target language tokens: 8810131
+  en-ru:
+    alignments: 413198
+    download size: 49987572
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-ru.txt.zip
+    source language tokens: 8120199
+    target language tokens: 7273266
+  en-sq:
+    alignments: 419651
+    download size: 44488758
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-sq.txt.zip
+    source language tokens: 8258906
+    target language tokens: 8969562
+  en-sr_Cyrl:
+    alignments: 400790
+    download size: 47037340
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-sr_Cyrl.txt.zip
+    source language tokens: 8341507
+    target language tokens: 7289395
+  en-sr_Latn:
+    alignments: 372024
+    download size: 40224969
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-sr_Latn.txt.zip
+    source language tokens: 7915234
+    target language tokens: 6928580
+  en-sv:
+    alignments: 418937
+    download size: 43160440
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-sv.txt.zip
+    source language tokens: 8193417
+    target language tokens: 7600312
+  en-sw:
+    alignments: 433712
+    download size: 43609069
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-sw.txt.zip
+    source language tokens: 8420680
+    target language tokens: 8504660
+  en-ta:
+    alignments: 442099
+    download size: 46246936
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-ta.txt.zip
+    source language tokens: 8350998
+    target language tokens: 5178293
+  en-th:
+    alignments: 425717
+    download size: 46707933
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-th.txt.zip
+    source language tokens: 8039775
+    target language tokens: 5213912
+  en-tl:
+    alignments: 420365
+    download size: 43966100
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-tl.txt.zip
+    source language tokens: 8223436
+    target language tokens: 9704661
+  en-tr:
+    alignments: 423345
+    download size: 42874161
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-tr.txt.zip
+    source language tokens: 8250993
+    target language tokens: 6463374
+  en-uk:
+    alignments: 403490
+    download size: 47944429
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-uk.txt.zip
+    source language tokens: 7876718
+    target language tokens: 6893563
+  en-ur:
+    alignments: 408331
+    download size: 43905096
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-ur.txt.zip
+    source language tokens: 7888357
+    target language tokens: 9613352
+  en-uz:
+    alignments: 382298
+    download size: 34225294
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-uz.txt.zip
+    source language tokens: 7987868
+    target language tokens: 4820273
+  en-war:
+    alignments: 421952
+    download size: 43663827
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-war.txt.zip
+    source language tokens: 8267289
+    target language tokens: 10450022
+  en-zh:
+    alignments: 405180
+    download size: 35403974
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-zh.txt.zip
+    source language tokens: 7761574
+    target language tokens: 879636
+  en-zh_Hans:
+    alignments: 428969
+    download size: 44115921
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-zh_Hans.txt.zip
+    source language tokens: 8672934
+    target language tokens: 831508
+  en-zh_Hant:
+    alignments: 413339
+    download size: 36604822
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/en-zh_Hant.txt.zip
+    source language tokens: 8267590
+    target language tokens: 927060
+  eo-en:
+    alignments: 7916
+    download size: 770964
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/eo-en.txt.zip
+    source language tokens: 148900
+    target language tokens: 154809
+  es-en:
+    alignments: 120383
+    download size: 15585637
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/es-en.txt.zip
+    source language tokens: 3346404
+    target language tokens: 3100991
+  fa-en:
+    alignments: 14136
+    download size: 1470799
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/fa-en.txt.zip
+    source language tokens: 342693
+    target language tokens: 307544
+  fi-de:
+    alignments: 20187
+    download size: 1771633
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/fi-de.txt.zip
+    source language tokens: 224743
+    target language tokens: 321968
+  fi-en:
+    alignments: 20823
+    download size: 1712048
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/fi-en.txt.zip
+    source language tokens: 228436
+    target language tokens: 340797
+  fi-et:
+    alignments: 19988
+    download size: 1614565
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/fi-et.txt.zip
+    source language tokens: 221815
+    target language tokens: 228109
+  fi-ru:
+    alignments: 20132
+    download size: 1823913
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/fi-ru.txt.zip
+    source language tokens: 221670
+    target language tokens: 261776
+  fi-sv:
+    alignments: 20888
+    download size: 1708079
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/fi-sv.txt.zip
+    source language tokens: 228176
+    target language tokens: 291191
+  fr-en:
+    alignments: 142187
+    download size: 17028804
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/fr-en.txt.zip
+    source language tokens: 3594821
+    target language tokens: 3307587
+  hu-en:
+    alignments: 8259
+    download size: 824635
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/hu-en.txt.zip
+    source language tokens: 131993
+    target language tokens: 159633
+  hu-uk:
+    alignments: 8716
+    download size: 912493
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/hu-uk.txt.zip
+    source language tokens: 134481
+    target language tokens: 127032
+  it-en:
+    alignments: 70149
+    download size: 8941832
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/it-en.txt.zip
+    source language tokens: 1724151
+    target language tokens: 1758209
+  ko-en:
+    alignments: 6085
+    download size: 665803
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/ko-en.txt.zip
+    source language tokens: 91379
+    target language tokens: 133143
+  nb-en:
+    alignments: 8200
+    download size: 562452
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/nb-en.txt.zip
+    source language tokens: 112555
+    target language tokens: 122296
+  nl-en:
+    alignments: 43403
+    download size: 3823184
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/nl-en.txt.zip
+    source language tokens: 786801
+    target language tokens: 775187
+  no-en:
+    alignments: 6024
+    download size: 509875
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/no-en.txt.zip
+    source language tokens: 96210
+    target language tokens: 104306
+  pl-en:
+    alignments: 160152
+    download size: 16908608
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/pl-en.txt.zip
+    source language tokens: 2741175
+    target language tokens: 3293810
+  pl-uk:
+    alignments: 162957
+    download size: 19268509
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/pl-uk.txt.zip
+    source language tokens: 2711782
+    target language tokens: 2644152
+  pt-en:
+    alignments: 154117
+    download size: 17985644
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/pt-en.txt.zip
+    source language tokens: 3633141
+    target language tokens: 3606634
+  ro-en:
+    alignments: 11200
+    download size: 1323635
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/ro-en.txt.zip
+    source language tokens: 262241
+    target language tokens: 253315
+  ro-uk:
+    alignments: 12360
+    download size: 1638615
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/ro-uk.txt.zip
+    source language tokens: 280859
+    target language tokens: 234368
+  ru-en:
+    alignments: 262500
+    download size: 30282565
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/ru-en.txt.zip
+    source language tokens: 4516042
+    target language tokens: 5297432
+  ru-fi:
+    alignments: 253840
+    download size: 27332702
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/ru-fi.txt.zip
+    source language tokens: 4142560
+    target language tokens: 3200442
+  sd-en:
+    alignments: 22
+    download size: 6690
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/sd-en.txt.zip
+    source language tokens: 832
+    target language tokens: 806
+  sq-en:
+    alignments: 6603
+    download size: 723456
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/sq-en.txt.zip
+    source language tokens: 153621
+    target language tokens: 143341
+  sr_Cyrl-en:
+    alignments: 100610
+    download size: 11762678
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/sr_Cyrl-en.txt.zip
+    source language tokens: 1932323
+    target language tokens: 2206356
+  sv-en:
+    alignments: 12126
+    download size: 1248807
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/sv-en.txt.zip
+    source language tokens: 231671
+    target language tokens: 260233
+  sv-fi:
+    alignments: 12246
+    download size: 1251714
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/sv-fi.txt.zip
+    source language tokens: 231328
+    target language tokens: 183655
+  ta-en:
+    alignments: 1026
+    download size: 147660
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/ta-en.txt.zip
+    source language tokens: 23581
+    target language tokens: 22349
+  th-en:
+    alignments: 123
+    download size: 19453
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/th-en.txt.zip
+    source language tokens: 1286
+    target language tokens: 2590
+  tr-en:
+    alignments: 11616
+    download size: 1115557
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/tr-en.txt.zip
+    source language tokens: 185405
+    target language tokens: 225280
+  uk-cs:
+    alignments: 25143
+    download size: 3072131
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/uk-cs.txt.zip
+    source language tokens: 425778
+    target language tokens: 424392
+  uk-da:
+    alignments: 24889
+    download size: 3055524
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/uk-da.txt.zip
+    source language tokens: 431520
+    target language tokens: 495195
+  uk-de:
+    alignments: 25044
+    download size: 3214163
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/uk-de.txt.zip
+    source language tokens: 433720
+    target language tokens: 527018
+  uk-en:
+    alignments: 24337
+    download size: 2791573
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/uk-en.txt.zip
+    source language tokens: 398310
+    target language tokens: 491025
+  uk-hu:
+    alignments: 25308
+    download size: 3191784
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/uk-hu.txt.zip
+    source language tokens: 440565
+    target language tokens: 446865
+  uk-pl:
+    alignments: 25457
+    download size: 3131330
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/uk-pl.txt.zip
+    source language tokens: 428003
+    target language tokens: 434333
+  uk-ro:
+    alignments: 25671
+    download size: 3219442
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/uk-ro.txt.zip
+    source language tokens: 443187
+    target language tokens: 543642
+  uk-sk:
+    alignments: 25303
+    download size: 3143785
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/uk-sk.txt.zip
+    source language tokens: 438313
+    target language tokens: 444198
+  uk-sv:
+    alignments: 25238
+    download size: 3090885
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/uk-sv.txt.zip
+    source language tokens: 434831
+    target language tokens: 481315
+  zh-en:
+    alignments: 41330
+    download size: 4397129
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/zh-en.txt.zip
+    source language tokens: 56317
+    target language tokens: 935797
+  zh_Hans-en:
+    alignments: 34407
+    download size: 3804703
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/zh_Hans-en.txt.zip
+    source language tokens: 45573
+    target language tokens: 806293
+  zh_Hant-en:
+    alignments: 54
+    download size: 3816
+    download url: https://object.pouta.csc.fi/synOPUS-Wikinews/v1syn/moses/zh_Hant-en.txt.zip
+    source language tokens: 64
+    target language tokens: 290
+tmx:
+  ar-en: {}
+  bg-en: {}
+  bs-en: {}
+  ca-en: {}
+  cs-en: {}
+  cs-uk: {}
+  de-en: {}
+  de-fi: {}
+  el-en: {}
+  en-af: {}
+  en-ar: {}
+  en-az: {}
+  en-bg: {}
+  en-bn: {}
+  en-br: {}
+  en-bs: {}
+  en-ca: {}
+  en-ceb: {}
+  en-cs: {}
+  en-cy: {}
+  en-da: {}
+  en-de: {}
+  en-el: {}
+  en-eo: {}
+  en-et: {}
+  en-eu: {}
+  en-fi: {}
+  en-fr: {}
+  en-fy: {}
+  en-ga: {}
+  en-gl: {}
+  en-he: {}
+  en-hr: {}
+  en-hu: {}
+  en-hy: {}
+  en-ia: {}
+  en-id: {}
+  en-ilo: {}
+  en-it: {}
+  en-lb: {}
+  en-lt: {}
+  en-lv: {}
+  en-mk: {}
+  en-ml: {}
+  en-ms: {}
+  en-mt: {}
+  en-nb: {}
+  en-nds: {}
+  en-nn: {}
+  en-pl: {}
+  en-pt: {}
+  en-ru: {}
+  en-sq: {}
+  en-sr_Cyrl: {}
+  en-sr_Latn: {}
+  en-sv: {}
+  en-sw: {}
+  en-ta: {}
+  en-th: {}
+  en-tl: {}
+  en-tr: {}
+  en-uk: {}
+  en-ur: {}
+  en-uz: {}
+  en-war: {}
+  en-zh: {}
+  en-zh_Hans: {}
+  en-zh_Hant: {}
+  eo-en: {}
+  es-en: {}
+  fa-en: {}
+  fi-de: {}
+  fi-en: {}
+  fi-et: {}
+  fi-ru: {}
+  fi-sv: {}
+  fr-en: {}
+  hu-en: {}
+  hu-uk: {}
+  it-en: {}
+  ko-en: {}
+  nb-en: {}
+  nl-en: {}
+  no-en: {}
+  pl-en: {}
+  pl-uk: {}
+  pt-en: {}
+  ro-en: {}
+  ro-uk: {}
+  ru-en: {}
+  ru-fi: {}
+  sd-en: {}
+  sq-en: {}
+  sr_Cyrl-en: {}
+  sv-en: {}
+  sv-fi: {}
+  ta-en: {}
+  th-en: {}
+  tr-en: {}
+  uk-cs: {}
+  uk-da: {}
+  uk-de: {}
+  uk-en: {}
+  uk-hu: {}
+  uk-pl: {}
+  uk-ro: {}
+  uk-sk: {}
+  uk-sv: {}
+  zh-en: {}
+  zh_Hans-en: {}
+  zh_Hant-en: {}
