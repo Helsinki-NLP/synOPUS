@@ -1,0 +1,14 @@
+---
+bitexts: 142
+cite: "Please, acknowledge the Wikimedia Foundation for the data and cite the following paper if you use data from this distribution: <pre> @inproceedings{tiedemann-2020-ttc,<br/> title = \"The {T}atoeba {T}ranslation {C}hallenge -- {R}ealistic Data Sets for Low Resource and Multilingual {MT}\",<br/> author = {Tiedemann, J{\\\"o}rg},<br/> booktitle = \"Proceedings of the Fifth Conference on Machine Translation (Volume 1: Research Papers)\", year = \"2020\",<br/> publisher = \"Association for Computational Linguistics\",<br/> url = {https://arxiv.org/abs/2010.06354}<br/> } </pre>\n"
+description: "Automatically translated data sets that can be used for data augmentation Translations have been done with models trained on the Tatoeba MT challenge data. We include translations of Wikipedia, WikiSource, WikiBooks, WikiNews and WikiQuote (if available for the source language we translate from). Translations are done on shuffled, de-duplicated data sets and they come in blocks of at most one million sentences per file. The original datasets are taken from cirrussearch wiki dumps. The original back-translations have been checked with the heliport language identification tool and mismatched sentence pairs are excluded from this distribution.\n\n"
+latest_release: v1syn
+license: '<a href=https://creativecommons.org/licenses/by-sa/4.0/>CC-BY-SA 4.0</a>'
+name: Wikiquote
+number_of_files: 126
+number_of_languages: 81
+releases:
+  v1syn: Fri Apr  4 10:05:31 EEST 2025
+total_number_of_tokens: 739M
+total_sentence_fragments: 61M
+website: http://opus.nlpl.eu/legacy/Wikiquote.php
