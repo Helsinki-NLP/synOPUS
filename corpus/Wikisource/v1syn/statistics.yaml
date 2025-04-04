@@ -1,0 +1,3058 @@
+---
+bitexts:
+  ar-en:
+    alignments: 1307039
+    downloads:
+      alignments:
+        size: 6088625
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/ar-en.xml.gz
+      source language:
+        size: 92577279
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/ar.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 2
+    source language tokens: 25865273
+    target language tokens: 35325088
+  as-en:
+    alignments: 3955
+    downloads:
+      alignments:
+        size: 19051
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/as-en.xml.gz
+      source language:
+        size: 255590
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/as.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 58931
+    target language tokens: 55556
+  az-en:
+    alignments: 294712
+    downloads:
+      alignments:
+        size: 1469050
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/az-en.xml.gz
+      source language:
+        size: 12597981
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/az.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 3263891
+    target language tokens: 4822057
+  be-en:
+    alignments: 147299
+    downloads:
+      alignments:
+        size: 697757
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/be-en.xml.gz
+      source language:
+        size: 6939532
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/be.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 1695808
+    target language tokens: 2148817
+  bg-en:
+    alignments: 139055
+    downloads:
+      alignments:
+        size: 658271
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/bg-en.xml.gz
+      source language:
+        size: 7810301
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/bg.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 2226751
+    target language tokens: 2461297
+  bn-en:
+    alignments: 16254
+    downloads:
+      alignments:
+        size: 78398
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/bn-en.xml.gz
+      source language:
+        size: 1523874
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/bn.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 347549
+    target language tokens: 281595
+  br-en:
+    alignments: 298051
+    downloads:
+      alignments:
+        size: 1624125
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/br-en.xml.gz
+      source language:
+        size: 14320933
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/br.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 6193257
+    target language tokens: 6258337
+  bs-en:
+    alignments: 79333
+    downloads:
+      alignments:
+        size: 417776
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/bs-en.xml.gz
+      source language:
+        size: 3925200
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/bs.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 1455015
+    target language tokens: 1639825
+  ca-en:
+    alignments: 155308
+    downloads:
+      alignments:
+        size: 729494
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/ca-en.xml.gz
+      source language:
+        size: 9606799
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/ca.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 3461019
+    target language tokens: 3498844
+  cs-en:
+    alignments: 1741736
+    downloads:
+      alignments:
+        size: 8134254
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/cs-en.xml.gz
+      source language:
+        size: 162308744
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/cs.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 2
+    source language tokens: 24381489
+    target language tokens: 30129961
+  cs-uk:
+    alignments: 1103472
+    downloads:
+      alignments:
+        size: 6371479
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/cs-uk.xml.gz
+      source language:
+        size: 162308744
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/cs.zip
+      target language:
+        size: 252003665
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 2
+    source language tokens: 19486366
+    target language tokens: 17783468
+  cy-en:
+    alignments: 18191
+    downloads:
+      alignments:
+        size: 85100
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/cy-en.xml.gz
+      source language:
+        size: 934969
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/cy.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 400958
+    target language tokens: 449802
+  da-en:
+    alignments: 386751
+    downloads:
+      alignments:
+        size: 1816158
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/da-en.xml.gz
+      source language:
+        size: 48633858
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/da.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 7299544
+    target language tokens: 7765069
+  de-en:
+    alignments: 5803441
+    downloads:
+      alignments:
+        size: 27065390
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/de-en.xml.gz
+      source language:
+        size: 453799542
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/de.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 8
+    source language tokens: 126538929
+    target language tokens: 134770863
+  de-fi:
+    alignments: 4974792
+    downloads:
+      alignments:
+        size: 24063925
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/de-fi.xml.gz
+      source language:
+        size: 453799542
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/de.zip
+      target language:
+        size: 729216667
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/fi.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 7
+    source language tokens: 107371174
+    target language tokens: 78402010
+  el-en:
+    alignments: 311190
+    downloads:
+      alignments:
+        size: 1474829
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/el-en.xml.gz
+      source language:
+        size: 23579297
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/el.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 5769020
+    target language tokens: 6380981
+  eo-en:
+    alignments: 228237
+    downloads:
+      alignments:
+        size: 1090135
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/eo-en.xml.gz
+      source language:
+        size: 10092976
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/eo.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 3627855
+    target language tokens: 3807196
+  es-en:
+    alignments: 2739133
+    downloads:
+      alignments:
+        size: 12807766
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/es-en.xml.gz
+      source language:
+        size: 179944295
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/es.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3
+    source language tokens: 66030539
+    target language tokens: 66883969
+  et-fi:
+    alignments: 326311
+    downloads:
+      alignments:
+        size: 1528751
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/et-fi.xml.gz
+      source language:
+        size: 24642885
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/et.zip
+      target language:
+        size: 729216667
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/fi.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 4610677
+    target language tokens: 4091047
+  eu-en:
+    alignments: 53351
+    downloads:
+      alignments:
+        size: 254724
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/eu-en.xml.gz
+      source language:
+        size: 3054210
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/eu.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 894263
+    target language tokens: 1140156
+  fa-en:
+    alignments: 216529
+    downloads:
+      alignments:
+        size: 1027924
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/fa-en.xml.gz
+      source language:
+        size: 15370307
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/fa.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 5510627
+    target language tokens: 5030578
+  fi-de:
+    alignments: 231831
+    downloads:
+      alignments:
+        size: 1087037
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/fi-de.xml.gz
+      source language:
+        size: 729216667
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/fi.zip
+      target language:
+        size: 453799542
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/de.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 2644783
+    target language tokens: 3621352
+  fi-en:
+    alignments: 251376
+    downloads:
+      alignments:
+        size: 1259749
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/fi-en.xml.gz
+      source language:
+        size: 729216667
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/fi.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 2790240
+    target language tokens: 4074057
+  fi-et:
+    alignments: 233603
+    downloads:
+      alignments:
+        size: 1146156
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/fi-et.xml.gz
+      source language:
+        size: 729216667
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/fi.zip
+      target language:
+        size: 24642885
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/et.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 2611162
+    target language tokens: 2637844
+  fi-ru:
+    alignments: 228156
+    downloads:
+      alignments:
+        size: 1133615
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/fi-ru.xml.gz
+      source language:
+        size: 729216667
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/fi.zip
+      target language:
+        size: 573031715
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/ru.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 2572591
+    target language tokens: 2839121
+  fi-sv:
+    alignments: 256055
+    downloads:
+      alignments:
+        size: 1283708
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/fi-sv.xml.gz
+      source language:
+        size: 729216667
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/fi.zip
+      target language:
+        size: 115083343
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/sv.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 2832496
+    target language tokens: 3576580
+  fo-en:
+    alignments: 1272
+    downloads:
+      alignments:
+        size: 6334
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/fo-en.xml.gz
+      source language:
+        size: 65089
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/fo.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 23305
+    target language tokens: 31305
+  fr-en:
+    alignments: 24678951
+    downloads:
+      alignments:
+        size: 114922993
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/fr-en.xml.gz
+      source language:
+        size: 1512575925
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/fr.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 28
+    source language tokens: 558787718
+    target language tokens: 545528938
+  gl-en:
+    alignments: 21368
+    downloads:
+      alignments:
+        size: 101355
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/gl-en.xml.gz
+      source language:
+        size: 1448378
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/gl.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 547489
+    target language tokens: 568038
+  gu-en:
+    alignments: 498610
+    downloads:
+      alignments:
+        size: 2805864
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/gu-en.xml.gz
+      source language:
+        size: 20884927
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/gu.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 5496106
+    target language tokens: 8068425
+  hr-en:
+    alignments: 446331
+    downloads:
+      alignments:
+        size: 2414474
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/hr-en.xml.gz
+      source language:
+        size: 21650762
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/hr.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 7434856
+    target language tokens: 8706566
+  ht-en:
+    alignments: 1406
+    downloads:
+      alignments:
+        size: 6920
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/ht-en.xml.gz
+      source language:
+        size: 53801
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/ht.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 27544
+    target language tokens: 26645
+  hu-en:
+    alignments: 643619
+    downloads:
+      alignments:
+        size: 3056295
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/hu-en.xml.gz
+      source language:
+        size: 65955654
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/hu.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 9660614
+    target language tokens: 11995684
+  hu-uk:
+    alignments: 661047
+    downloads:
+      alignments:
+        size: 4316009
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/hu-uk.xml.gz
+      source language:
+        size: 65955654
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/hu.zip
+      target language:
+        size: 252003665
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 9984696
+    target language tokens: 9144440
+  hy-en:
+    alignments: 1327059
+    downloads:
+      alignments:
+        size: 6360204
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/hy-en.xml.gz
+      source language:
+        size: 76857622
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/hy.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 2
+    source language tokens: 17606841
+    target language tokens: 22077377
+  id-en:
+    alignments: 216229
+    downloads:
+      alignments:
+        size: 1171620
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/id-en.xml.gz
+      source language:
+        size: 11747996
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/id.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 4361914
+    target language tokens: 4558588
+  it-en:
+    alignments: 1756850
+    downloads:
+      alignments:
+        size: 8269360
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/it-en.xml.gz
+      source language:
+        size: 99691907
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/it.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 2
+    source language tokens: 34475620
+    target language tokens: 37239882
+  kn-en:
+    alignments: 42220
+    downloads:
+      alignments:
+        size: 203975
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/kn-en.xml.gz
+      source language:
+        size: 3388241
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/kn.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 596681
+    target language tokens: 732646
+  ko-en:
+    alignments: 441967
+    downloads:
+      alignments:
+        size: 2079366
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/ko-en.xml.gz
+      source language:
+        size: 30398785
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/ko.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 6294613
+    target language tokens: 9603179
+  lt-en:
+    alignments: 52989
+    downloads:
+      alignments:
+        size: 253740
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/lt-en.xml.gz
+      source language:
+        size: 2490663
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/lt.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 703122
+    target language tokens: 942428
+  lt-fi:
+    alignments: 52695
+    downloads:
+      alignments:
+        size: 251319
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/lt-fi.xml.gz
+      source language:
+        size: 2490663
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/lt.zip
+      target language:
+        size: 729216667
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/fi.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 700161
+    target language tokens: 623568
+  mk-en:
+    alignments: 19688
+    downloads:
+      alignments:
+        size: 92986
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/mk-en.xml.gz
+      source language:
+        size: 1370490
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/mk.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 420041
+    target language tokens: 438863
+  ml-en:
+    alignments: 128019
+    downloads:
+      alignments:
+        size: 643253
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/ml-en.xml.gz
+      source language:
+        size: 7773793
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/ml.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 1214298
+    target language tokens: 1761619
+  mr-en:
+    alignments: 559014
+    downloads:
+      alignments:
+        size: 3007913
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/mr-en.xml.gz
+      source language:
+        size: 24336921
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/mr.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 5114161
+    target language tokens: 8604691
+  nb-en:
+    alignments: 260724
+    downloads:
+      alignments:
+        size: 1569093
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/nb-en.xml.gz
+      source language:
+        size: 8788139
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/nb.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 3933508
+    target language tokens: 4221483
+  nl-en:
+    alignments: 292860
+    downloads:
+      alignments:
+        size: 1377069
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/nl-en.xml.gz
+      source language:
+        size: 19175296
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/nl.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 6946623
+    target language tokens: 6866635
+  no-en:
+    alignments: 188065
+    downloads:
+      alignments:
+        size: 1192811
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/no-en.xml.gz
+      source language:
+        size: 8766483
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/no.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 2887458
+    target language tokens: 3115476
+  or-en:
+    alignments: 3944
+    downloads:
+      alignments:
+        size: 19745
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/or-en.xml.gz
+      source language:
+        size: 208939
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/or.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 50215
+    target language tokens: 58190
+  pa-en:
+    alignments: 14942
+    downloads:
+      alignments:
+        size: 75007
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/pa-en.xml.gz
+      source language:
+        size: 772920
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/pa.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 212627
+    target language tokens: 294615
+  pl-en:
+    alignments: 6717950
+    downloads:
+      alignments:
+        size: 31449499
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/pl-en.xml.gz
+      source language:
+        size: 424837191
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/pl.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 7
+    source language tokens: 98084887
+    target language tokens: 119823237
+  pl-uk:
+    alignments: 878353
+    downloads:
+      alignments:
+        size: 4538820
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/pl-uk.xml.gz
+      source language:
+        size: 424837191
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/pl.zip
+      target language:
+        size: 252003665
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 16273533
+    target language tokens: 15786727
+  pms-en:
+    alignments: 63897
+    downloads:
+      alignments:
+        size: 306854
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/pms-en.xml.gz
+      source language:
+        size: 2995803
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/pms.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 1124989
+    target language tokens: 1226974
+  pt-en:
+    alignments: 1023655
+    downloads:
+      alignments:
+        size: 4864342
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/pt-en.xml.gz
+      source language:
+        size: 58520833
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/pt.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 2
+    source language tokens: 20421205
+    target language tokens: 21796738
+  ro-en:
+    alignments: 764761
+    downloads:
+      alignments:
+        size: 3629439
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/ro-en.xml.gz
+      source language:
+        size: 75374362
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/ro.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 14877947
+    target language tokens: 15993891
+  ro-uk:
+    alignments: 769460
+    downloads:
+      alignments:
+        size: 5064208
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/ro-uk.xml.gz
+      source language:
+        size: 75374362
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/ro.zip
+      target language:
+        size: 252003665
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 15005401
+    target language tokens: 13171655
+  ru-en:
+    alignments: 7515225
+    downloads:
+      alignments:
+        size: 35275116
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/ru-en.xml.gz
+      source language:
+        size: 573031715
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/ru.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 9
+    source language tokens: 130013865
+    target language tokens: 158392559
+  ru-fi:
+    alignments: 7342325
+    downloads:
+      alignments:
+        size: 35280067
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/ru-fi.xml.gz
+      source language:
+        size: 573031715
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/ru.zip
+      target language:
+        size: 729216667
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/fi.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 9
+    source language tokens: 121117094
+    target language tokens: 94937256
+  sa-en:
+    alignments: 47096
+    downloads:
+      alignments:
+        size: 235398
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/sa-en.xml.gz
+      source language:
+        size: 2970781
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/sa.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 518255
+    target language tokens: 914654
+  sah-en:
+    alignments: 51671
+    downloads:
+      alignments:
+        size: 277549
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/sah-en.xml.gz
+      source language:
+        size: 2744150
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/sah.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 633745
+    target language tokens: 1121420
+  sk-uk:
+    alignments: 18999
+    downloads:
+      alignments:
+        size: 89480
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/sk-uk.xml.gz
+      source language:
+        size: 30047180
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/sk.zip
+      target language:
+        size: 252003665
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 355190
+    target language tokens: 357915
+  sl-en:
+    alignments: 2384954
+    downloads:
+      alignments:
+        size: 11267430
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/sl-en.xml.gz
+      source language:
+        size: 109865380
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/sl.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 3
+    source language tokens: 37822145
+    target language tokens: 42413199
+  sr_Cyrl-en:
+    alignments: 573419
+    downloads:
+      alignments:
+        size: 3109246
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/sr_Cyrl-en.xml.gz
+      source language:
+        size: 30041402
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/sr_Cyrl.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8585006
+    target language tokens: 9869955
+  sv-en:
+    alignments: 1168863
+    downloads:
+      alignments:
+        size: 5468330
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/sv-en.xml.gz
+      source language:
+        size: 115083343
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/sv.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 2
+    source language tokens: 24798265
+    target language tokens: 27249669
+  sv-fi:
+    alignments: 928765
+    downloads:
+      alignments:
+        size: 4406996
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/sv-fi.xml.gz
+      source language:
+        size: 115083343
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/sv.zip
+      target language:
+        size: 729216667
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/fi.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 19702491
+    target language tokens: 15483572
+  ta-en:
+    alignments: 981460
+    downloads:
+      alignments:
+        size: 4808095
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/ta-en.xml.gz
+      source language:
+        size: 72781751
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/ta.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 2
+    source language tokens: 13460683
+    target language tokens: 15407726
+  te-en:
+    alignments: 788612
+    downloads:
+      alignments:
+        size: 3999000
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/te-en.xml.gz
+      source language:
+        size: 41603201
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/te.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 6515296
+    target language tokens: 11845445
+  th-en:
+    alignments: 2116
+    downloads:
+      alignments:
+        size: 10320
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/th-en.xml.gz
+      source language:
+        size: 150780
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/th.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 20797
+    target language tokens: 45507
+  tr-en:
+    alignments: 273100
+    downloads:
+      alignments:
+        size: 1300359
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/tr-en.xml.gz
+      source language:
+        size: 14622200
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/tr.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 3905307
+    target language tokens: 4970348
+  uk-cs:
+    alignments: 613230
+    downloads:
+      alignments:
+        size: 2873342
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/uk-cs.xml.gz
+      source language:
+        size: 252003665
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/uk.zip
+      target language:
+        size: 162308744
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/cs.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8771137
+    target language tokens: 8549786
+  uk-da:
+    alignments: 619968
+    downloads:
+      alignments:
+        size: 4033309
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/uk-da.xml.gz
+      source language:
+        size: 252003665
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/uk.zip
+      target language:
+        size: 48633858
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/da.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8936523
+    target language tokens: 10607993
+  uk-de:
+    alignments: 623933
+    downloads:
+      alignments:
+        size: 4063510
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/uk-de.xml.gz
+      source language:
+        size: 252003665
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/uk.zip
+      target language:
+        size: 453799542
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/de.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8976850
+    target language tokens: 10863093
+  uk-en:
+    alignments: 602934
+    downloads:
+      alignments:
+        size: 3999407
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/uk-en.xml.gz
+      source language:
+        size: 252003665
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/uk.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8234357
+    target language tokens: 10272818
+  uk-hu:
+    alignments: 629226
+    downloads:
+      alignments:
+        size: 4102360
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/uk-hu.xml.gz
+      source language:
+        size: 252003665
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/uk.zip
+      target language:
+        size: 65955654
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/hu.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 9020238
+    target language tokens: 9023093
+  uk-pl:
+    alignments: 640491
+    downloads:
+      alignments:
+        size: 4167657
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/uk-pl.xml.gz
+      source language:
+        size: 252003665
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/uk.zip
+      target language:
+        size: 424837191
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/pl.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8938960
+    target language tokens: 8824789
+  uk-ro:
+    alignments: 639204
+    downloads:
+      alignments:
+        size: 4164751
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/uk-ro.xml.gz
+      source language:
+        size: 252003665
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/uk.zip
+      target language:
+        size: 75374362
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/ro.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 9074414
+    target language tokens: 10785846
+  uk-sk:
+    alignments: 620373
+    downloads:
+      alignments:
+        size: 4043627
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/uk-sk.xml.gz
+      source language:
+        size: 252003665
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/uk.zip
+      target language:
+        size: 30047180
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/sk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 8976613
+    target language tokens: 9114990
+  uk-sv:
+    alignments: 638696
+    downloads:
+      alignments:
+        size: 4168585
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/uk-sv.xml.gz
+      source language:
+        size: 252003665
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/uk.zip
+      target language:
+        size: 115083343
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/sv.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 9074975
+    target language tokens: 10499108
+  vec-en:
+    alignments: 30052
+    downloads:
+      alignments:
+        size: 146692
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/vec-en.xml.gz
+      source language:
+        size: 1205696
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/vec.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 438114
+    target language tokens: 477489
+  vi-en:
+    alignments: 479525
+    downloads:
+      alignments:
+        size: 2307420
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/vi-en.xml.gz
+      source language:
+        size: 26576920
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/vi.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 11457368
+    target language tokens: 9461282
+  yi-en:
+    alignments: 152
+    downloads:
+      alignments:
+        size: 944
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/yi-en.xml.gz
+      source language:
+        size: 10320
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/yi.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 2591
+    target language tokens: 2722
+  zh_Hans-en:
+    alignments: 3381643
+    downloads:
+      alignments:
+        size: 18804455
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/zh_Hans-en.xml.gz
+      source language:
+        size: 129643600
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/zh_Hans.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 4
+    source language tokens: 4161618
+    target language tokens: 58474854
+  zh_Hant-en:
+    alignments: 219064
+    downloads:
+      alignments:
+        size: 1317053
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/xml/zh_Hant-en.xml.gz
+      source language:
+        size: 2025567
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/zh_Hant.zip
+      target language:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 1
+    source language tokens: 231446
+    target language tokens: 1061319
+files: 173
+monolingual:
+  ar:
+    downloads:
+      plain text:
+        size: 87490924
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/ar.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 92577279
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/ar.zip
+    files: 2
+    sentences: 1307041
+    tokens: 25865275
+  as:
+    downloads:
+      plain text:
+        size: 239283
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/as.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 255590
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/as.zip
+    files: 1
+    sentences: 3956
+    tokens: 58932
+  az:
+    downloads:
+      plain text:
+        size: 11348205
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/az.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 12597981
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/az.zip
+    files: 1
+    sentences: 294712
+    tokens: 3263881
+  be:
+    downloads:
+      plain text:
+        size: 6377754
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/be.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 6939532
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/be.zip
+    files: 1
+    sentences: 147300
+    tokens: 1695809
+  bg:
+    downloads:
+      plain text:
+        size: 7291613
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/bg.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 7810301
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/bg.zip
+    files: 1
+    sentences: 139056
+    tokens: 2226752
+  bn:
+    downloads:
+      plain text:
+        size: 1462957
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/bn.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 1523874
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/bn.zip
+    files: 1
+    sentences: 16255
+    tokens: 347550
+  br:
+    downloads:
+      plain text:
+        size: 13175024
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/br.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 14320933
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/br.zip
+    files: 1
+    sentences: 267813
+    tokens: 5476334
+  bs:
+    downloads:
+      plain text:
+        size: 3624287
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/bs.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 3925200
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/bs.zip
+    files: 1
+    sentences: 72543
+    tokens: 1349832
+  ca:
+    downloads:
+      plain text:
+        size: 8953937
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/ca.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 9606799
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/ca.zip
+    files: 1
+    sentences: 155309
+    tokens: 3461020
+  cs:
+    downloads:
+      plain text:
+        size: 149066435
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/cs.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 162308744
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/cs.zip
+    files: 3
+    sentences: 3072773
+    tokens: 46532049
+  cy:
+    downloads:
+      plain text:
+        size: 858214
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/cy.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 934969
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/cy.zip
+    files: 1
+    sentences: 18192
+    tokens: 400959
+  da:
+    downloads:
+      plain text:
+        size: 44435147
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/da.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 48633858
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/da.zip
+    files: 2
+    sentences: 994490
+    tokens: 17841338
+  de:
+    downloads:
+      plain text:
+        size: 424245049
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/de.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 453799542
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/de.zip
+    files: 9
+    sentences: 6886683
+    tokens: 143224182
+  el:
+    downloads:
+      plain text:
+        size: 22356520
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/el.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 23579297
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/el.zip
+    files: 1
+    sentences: 311161
+    tokens: 5768482
+  en:
+    downloads:
+      plain text:
+        size: 3431711008
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/en.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 3736014392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/en.zip
+    files: 28
+    sentences: 70683355
+    tokens: 1479773199
+  eo:
+    downloads:
+      plain text:
+        size: 9135211
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/eo.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 10092976
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/eo.zip
+    files: 1
+    sentences: 228224
+    tokens: 3627612
+  es:
+    downloads:
+      plain text:
+        size: 168130457
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/es.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 179944295
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/es.zip
+    files: 3
+    sentences: 2739135
+    tokens: 66030514
+  et:
+    downloads:
+      plain text:
+        size: 22275125
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/et.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 24642885
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/et.zip
+    files: 2
+    sentences: 558991
+    tokens: 7243401
+  eu:
+    downloads:
+      plain text:
+        size: 2835568
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/eu.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 3054210
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/eu.zip
+    files: 1
+    sentences: 53352
+    tokens: 894264
+  fa:
+    downloads:
+      plain text:
+        size: 14528967
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/fa.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 15370307
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/fa.zip
+    files: 1
+    sentences: 216530
+    tokens: 5510628
+  fi:
+    downloads:
+      plain text:
+        size: 670739084
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/fi.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 729216667
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/fi.zip
+    files: 10
+    sentences: 13746714
+    tokens: 195689448
+  fo:
+    downloads:
+      plain text:
+        size: 58028
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/fo.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 65089
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/fo.zip
+    files: 1
+    sentences: 1273
+    tokens: 23306
+  fr:
+    downloads:
+      plain text:
+        size: 1405749814
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/fr.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 1512575925
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/fr.zip
+    files: 28
+    sentences: 24629946
+    tokens: 557510156
+  gl:
+    downloads:
+      plain text:
+        size: 1357627
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/gl.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 1448378
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/gl.zip
+    files: 1
+    sentences: 21369
+    tokens: 547490
+  gu:
+    downloads:
+      plain text:
+        size: 19231138
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/gu.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 20884927
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/gu.zip
+    files: 1
+    sentences: 459566
+    tokens: 5129526
+  hr:
+    downloads:
+      plain text:
+        size: 19879309
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/hr.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 21650762
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/hr.zip
+    files: 1
+    sentences: 422944
+    tokens: 7099914
+  ht:
+    downloads:
+      plain text:
+        size: 46737
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/ht.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 53801
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/ht.zip
+    files: 1
+    sentences: 1407
+    tokens: 27545
+  hu:
+    downloads:
+      plain text:
+        size: 60361634
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/hu.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 65955654
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/hu.zip
+    files: 2
+    sentences: 1297538
+    tokens: 19159948
+  hy:
+    downloads:
+      plain text:
+        size: 71817361
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/hy.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 76857622
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/hy.zip
+    files: 2
+    sentences: 1325663
+    tokens: 17591509
+  id:
+    downloads:
+      plain text:
+        size: 10973251
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/id.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 11747996
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/id.zip
+    files: 1
+    sentences: 191803
+    tokens: 4029792
+  it:
+    downloads:
+      plain text:
+        size: 92165579
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/it.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 99691907
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/it.zip
+    files: 2
+    sentences: 1756792
+    tokens: 34475013
+  kn:
+    downloads:
+      plain text:
+        size: 3245183
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/kn.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 3388241
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/kn.zip
+    files: 1
+    sentences: 42203
+    tokens: 596339
+  ko:
+    downloads:
+      plain text:
+        size: 28573973
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/ko.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 30398785
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/ko.zip
+    files: 1
+    sentences: 441965
+    tokens: 6294570
+  lt:
+    downloads:
+      plain text:
+        size: 2263182
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/lt.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 2490663
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/lt.zip
+    files: 1
+    sentences: 53412
+    tokens: 706096
+  mk:
+    downloads:
+      plain text:
+        size: 1297580
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/mk.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 1370490
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/mk.zip
+    files: 1
+    sentences: 19674
+    tokens: 419815
+  ml:
+    downloads:
+      plain text:
+        size: 7337933
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/ml.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 7773793
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/ml.zip
+    files: 1
+    sentences: 127965
+    tokens: 1213800
+  mr:
+    downloads:
+      plain text:
+        size: 22354877
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/mr.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 24336921
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/mr.zip
+    files: 1
+    sentences: 559015
+    tokens: 5114162
+  nb:
+    downloads:
+      plain text:
+        size: 8000995
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/nb.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 8788139
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/nb.zip
+    files: 1
+    sentences: 190982
+    tokens: 2896984
+  nl:
+    downloads:
+      plain text:
+        size: 17938912
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/nl.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 19175296
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/nl.zip
+    files: 1
+    sentences: 292790
+    tokens: 6945093
+  no:
+    downloads:
+      plain text:
+        size: 7991773
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/no.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 8766483
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/no.zip
+    files: 1
+    sentences: 188050
+    tokens: 2887394
+  or:
+    downloads:
+      plain text:
+        size: 193092
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/or.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 208939
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/or.zip
+    files: 1
+    sentences: 3945
+    tokens: 50216
+  pa:
+    downloads:
+      plain text:
+        size: 718166
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/pa.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 772920
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/pa.zip
+    files: 1
+    sentences: 14943
+    tokens: 212628
+  pl:
+    downloads:
+      plain text:
+        size: 389819562
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/pl.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 424837191
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/pl.zip
+    files: 8
+    sentences: 8155740
+    tokens: 122025621
+  pms:
+    downloads:
+      plain text:
+        size: 2731885
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/pms.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 2995803
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/pms.zip
+    files: 1
+    sentences: 63895
+    tokens: 1124959
+  pt:
+    downloads:
+      plain text:
+        size: 54142516
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/pt.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 58520833
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/pt.zip
+    files: 2
+    sentences: 1022670
+    tokens: 20402874
+  ro:
+    downloads:
+      plain text:
+        size: 69320357
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/ro.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 75374362
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/ro.zip
+    files: 2
+    sentences: 1416257
+    tokens: 25970941
+  ru:
+    downloads:
+      plain text:
+        size: 542392114
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/ru.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 573031715
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/ru.zip
+    files: 10
+    sentences: 7904462
+    tokens: 134211632
+  sa:
+    downloads:
+      plain text:
+        size: 2800294
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/sa.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 2970781
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/sa.zip
+    files: 1
+    sentences: 47093
+    tokens: 518166
+  sah:
+    downloads:
+      plain text:
+        size: 2552899
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/sah.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 2744150
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/sah.zip
+    files: 1
+    sentences: 51672
+    tokens: 633746
+  sk:
+    downloads:
+      plain text:
+        size: 27307001
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/sk.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 30047180
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/sk.zip
+    files: 2
+    sentences: 630114
+    tokens: 9425638
+  sl:
+    downloads:
+      plain text:
+        size: 99693085
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/sl.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 109865380
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/sl.zip
+    files: 3
+    sentences: 2384729
+    tokens: 37816222
+  sr_Cyrl:
+    downloads:
+      plain text:
+        size: 28037392
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/sr_Cyrl.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 30041402
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/sr_Cyrl.zip
+    files: 1
+    sentences: 517533
+    tokens: 8175406
+  sv:
+    downloads:
+      plain text:
+        size: 106367325
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/sv.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 115083343
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/sv.zip
+    files: 3
+    sentences: 2064248
+    tokens: 38976419
+  ta:
+    downloads:
+      plain text:
+        size: 69293732
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/ta.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 72781751
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/ta.zip
+    files: 2
+    sentences: 981139
+    tokens: 13457837
+  te:
+    downloads:
+      plain text:
+        size: 38853755
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/te.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 41603201
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/te.zip
+    files: 1
+    sentences: 788613
+    tokens: 6515297
+  th:
+    downloads:
+      plain text:
+        size: 142190
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/th.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 150780
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/th.zip
+    files: 1
+    sentences: 2116
+    tokens: 20788
+  tr:
+    downloads:
+      plain text:
+        size: 13458331
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/tr.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 14622200
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/tr.zip
+    files: 1
+    sentences: 273101
+    tokens: 3905308
+  uk:
+    downloads:
+      plain text:
+        size: 235743617
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/uk.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 252003665
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/uk.zip
+    files: 3
+    sentences: 4090749
+    tokens: 65636437
+  vec:
+    downloads:
+      plain text:
+        size: 1081180
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/vec.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 1205696
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/vec.zip
+    files: 1
+    sentences: 30053
+    tokens: 438115
+  vi:
+    downloads:
+      plain text:
+        size: 24670383
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/vi.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 26576920
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/vi.zip
+    files: 1
+    sentences: 479251
+    tokens: 11450058
+  yi:
+    downloads:
+      plain text:
+        size: 7764
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/yi.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 10320
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/yi.zip
+    files: 1
+    sentences: 153
+    tokens: 2592
+  zh_Hans:
+    downloads:
+      plain text:
+        size: 115887430
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/zh_Hans.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 129643600
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/zh_Hans.zip
+    files: 4
+    sentences: 3091614
+    tokens: 3797889
+  zh_Hant:
+    downloads:
+      plain text:
+        size: 1462684
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/mono/zh_Hant.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 2025567
+        url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/raw/zh_Hant.zip
+    files: 1
+    sentences: 140764
+    tokens: 150243
+moses:
+  ar-en:
+    alignments: 1307039
+    download size: 160815969
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/ar-en.txt.zip
+    source language tokens: 25865273
+    target language tokens: 35325088
+  as-en:
+    alignments: 3955
+    download size: 356752
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/as-en.txt.zip
+    source language tokens: 58931
+    target language tokens: 55556
+  az-en:
+    alignments: 294712
+    download size: 20324367
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/az-en.txt.zip
+    source language tokens: 3263891
+    target language tokens: 4822057
+  be-en:
+    alignments: 147299
+    download size: 11240381
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/be-en.txt.zip
+    source language tokens: 1695808
+    target language tokens: 2148817
+  bg-en:
+    alignments: 139055
+    download size: 12835959
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/bg-en.txt.zip
+    source language tokens: 2226751
+    target language tokens: 2461297
+  bn-en:
+    alignments: 16254
+    download size: 2066545
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/bn-en.txt.zip
+    source language tokens: 347549
+    target language tokens: 281595
+  br-en:
+    alignments: 298051
+    download size: 26269790
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/br-en.txt.zip
+    source language tokens: 6193257
+    target language tokens: 6258337
+  bs-en:
+    alignments: 79333
+    download size: 7463154
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/bs-en.txt.zip
+    source language tokens: 1455015
+    target language tokens: 1639825
+  ca-en:
+    alignments: 155308
+    download size: 16982959
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/ca-en.txt.zip
+    source language tokens: 3461019
+    target language tokens: 3498844
+  cs-en:
+    alignments: 1741736
+    download size: 149283175
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/cs-en.txt.zip
+    source language tokens: 24381489
+    target language tokens: 30129961
+  cs-uk:
+    alignments: 1103472
+    download size: 125504680
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/cs-uk.txt.zip
+    source language tokens: 19486366
+    target language tokens: 17783468
+  cy-en:
+    alignments: 18191
+    download size: 1694396
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/cy-en.txt.zip
+    source language tokens: 400958
+    target language tokens: 449802
+  da-en:
+    alignments: 386751
+    download size: 36567966
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/da-en.txt.zip
+    source language tokens: 7299544
+    target language tokens: 7765069
+  de-en:
+    alignments: 5803441
+    download size: 713072303
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/de-en.txt.zip
+    source language tokens: 126538929
+    target language tokens: 134770863
+  de-fi:
+    alignments: 4974792
+    download size: 596433251
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/de-fi.txt.zip
+    source language tokens: 107371174
+    target language tokens: 78402010
+  el-en:
+    alignments: 311190
+    download size: 35807249
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/el-en.txt.zip
+    source language tokens: 5769020
+    target language tokens: 6380981
+  eo-en:
+    alignments: 228237
+    download size: 17546494
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/eo-en.txt.zip
+    source language tokens: 3627855
+    target language tokens: 3807196
+  es-en:
+    alignments: 2739133
+    download size: 324806679
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/es-en.txt.zip
+    source language tokens: 66030539
+    target language tokens: 66883969
+  et-fi:
+    alignments: 326311
+    download size: 27197851
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/et-fi.txt.zip
+    source language tokens: 4610677
+    target language tokens: 4091047
+  eu-en:
+    alignments: 53351
+    download size: 5289676
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/eu-en.txt.zip
+    source language tokens: 894263
+    target language tokens: 1140156
+  fa-en:
+    alignments: 216529
+    download size: 24378270
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/fa-en.txt.zip
+    source language tokens: 5510627
+    target language tokens: 5030578
+  fi-de:
+    alignments: 231831
+    download size: 19377247
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/fi-de.txt.zip
+    source language tokens: 2644783
+    target language tokens: 3621352
+  fi-en:
+    alignments: 251376
+    download size: 19906261
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/fi-en.txt.zip
+    source language tokens: 2790240
+    target language tokens: 4074057
+  fi-et:
+    alignments: 233603
+    download size: 17833755
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/fi-et.txt.zip
+    source language tokens: 2611162
+    target language tokens: 2637844
+  fi-ru:
+    alignments: 228156
+    download size: 19586735
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/fi-ru.txt.zip
+    source language tokens: 2572591
+    target language tokens: 2839121
+  fi-sv:
+    alignments: 256055
+    download size: 20310097
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/fi-sv.txt.zip
+    source language tokens: 2832496
+    target language tokens: 3576580
+  fo-en:
+    alignments: 1272
+    download size: 116205
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/fo-en.txt.zip
+    source language tokens: 23305
+    target language tokens: 31305
+  fr-en:
+    alignments: 24678951
+    download size: 2696049782
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/fr-en.txt.zip
+    source language tokens: 558787718
+    target language tokens: 545528938
+  gl-en:
+    alignments: 21368
+    download size: 2612011
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/gl-en.txt.zip
+    source language tokens: 547489
+    target language tokens: 568038
+  gu-en:
+    alignments: 498610
+    download size: 33713214
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/gu-en.txt.zip
+    source language tokens: 5496106
+    target language tokens: 8068425
+  hr-en:
+    alignments: 446331
+    download size: 40312422
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/hr-en.txt.zip
+    source language tokens: 7434856
+    target language tokens: 8706566
+  ht-en:
+    alignments: 1406
+    download size: 97301
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/ht-en.txt.zip
+    source language tokens: 27544
+    target language tokens: 26645
+  hu-en:
+    alignments: 643619
+    download size: 58249307
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/hu-en.txt.zip
+    source language tokens: 9660614
+    target language tokens: 11995684
+  hu-uk:
+    alignments: 661047
+    download size: 63515993
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/hu-uk.txt.zip
+    source language tokens: 9984696
+    target language tokens: 9144440
+  hy-en:
+    alignments: 1327059
+    download size: 121961236
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/hy-en.txt.zip
+    source language tokens: 17606841
+    target language tokens: 22077377
+  id-en:
+    alignments: 216229
+    download size: 22152051
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/id-en.txt.zip
+    source language tokens: 4361914
+    target language tokens: 4558588
+  it-en:
+    alignments: 1756850
+    download size: 179264441
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/it-en.txt.zip
+    source language tokens: 34475620
+    target language tokens: 37239882
+  kn-en:
+    alignments: 42220
+    download size: 4888755
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/kn-en.txt.zip
+    source language tokens: 596681
+    target language tokens: 732646
+  ko-en:
+    alignments: 441967
+    download size: 48743932
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/ko-en.txt.zip
+    source language tokens: 6294613
+    target language tokens: 9603179
+  lt-en:
+    alignments: 52989
+    download size: 4276461
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/lt-en.txt.zip
+    source language tokens: 703122
+    target language tokens: 942428
+  lt-fi:
+    alignments: 52695
+    download size: 4112202
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/lt-fi.txt.zip
+    source language tokens: 700161
+    target language tokens: 623568
+  mk-en:
+    alignments: 19688
+    download size: 2272326
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/mk-en.txt.zip
+    source language tokens: 420041
+    target language tokens: 438863
+  ml-en:
+    alignments: 128019
+    download size: 11100361
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/ml-en.txt.zip
+    source language tokens: 1214298
+    target language tokens: 1761619
+  mr-en:
+    alignments: 559014
+    download size: 37099421
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/mr-en.txt.zip
+    source language tokens: 5114161
+    target language tokens: 8604691
+  nb-en:
+    alignments: 260724
+    download size: 20754600
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/nb-en.txt.zip
+    source language tokens: 3933508
+    target language tokens: 4221483
+  nl-en:
+    alignments: 292860
+    download size: 33983874
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/nl-en.txt.zip
+    source language tokens: 6946623
+    target language tokens: 6866635
+  no-en:
+    alignments: 188065
+    download size: 15604827
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/no-en.txt.zip
+    source language tokens: 2887458
+    target language tokens: 3115476
+  or-en:
+    alignments: 3944
+    download size: 310382
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/or-en.txt.zip
+    source language tokens: 50215
+    target language tokens: 58190
+  pa-en:
+    alignments: 14942
+    download size: 1180702
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/pa-en.txt.zip
+    source language tokens: 212627
+    target language tokens: 294615
+  pl-en:
+    alignments: 6717950
+    download size: 591257344
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/pl-en.txt.zip
+    source language tokens: 98084887
+    target language tokens: 119823237
+  pl-uk:
+    alignments: 878353
+    download size: 108711832
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/pl-uk.txt.zip
+    source language tokens: 16273533
+    target language tokens: 15786727
+  pms-en:
+    alignments: 63897
+    download size: 5214250
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/pms-en.txt.zip
+    source language tokens: 1124989
+    target language tokens: 1226974
+  pt-en:
+    alignments: 1023655
+    download size: 105675497
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/pt-en.txt.zip
+    source language tokens: 20421205
+    target language tokens: 21796738
+  ro-en:
+    alignments: 764761
+    download size: 77363828
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/ro-en.txt.zip
+    source language tokens: 14877947
+    target language tokens: 15993891
+  ro-uk:
+    alignments: 769460
+    download size: 87652740
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/ro-uk.txt.zip
+    source language tokens: 15005401
+    target language tokens: 13171655
+  ru-en:
+    alignments: 7515225
+    download size: 889204425
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/ru-en.txt.zip
+    source language tokens: 130013865
+    target language tokens: 158392559
+  ru-fi:
+    alignments: 7342325
+    download size: 807350288
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/ru-fi.txt.zip
+    source language tokens: 121117094
+    target language tokens: 94937256
+  sa-en:
+    alignments: 47096
+    download size: 4415588
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/sa-en.txt.zip
+    source language tokens: 518255
+    target language tokens: 914654
+  sah-en:
+    alignments: 51671
+    download size: 4392993
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/sah-en.txt.zip
+    source language tokens: 633745
+    target language tokens: 1121420
+  sk-uk:
+    alignments: 18999
+    download size: 2370660
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/sk-uk.txt.zip
+    source language tokens: 355190
+    target language tokens: 357915
+  sl-en:
+    alignments: 2384954
+    download size: 192041128
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/sl-en.txt.zip
+    source language tokens: 37822145
+    target language tokens: 42413199
+  sr_Cyrl-en:
+    alignments: 573419
+    download size: 52339166
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/sr_Cyrl-en.txt.zip
+    source language tokens: 8585006
+    target language tokens: 9869955
+  sv-en:
+    alignments: 1168863
+    download size: 133866309
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/sv-en.txt.zip
+    source language tokens: 24798265
+    target language tokens: 27249669
+  sv-fi:
+    alignments: 928765
+    download size: 107202459
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/sv-fi.txt.zip
+    source language tokens: 19702491
+    target language tokens: 15483572
+  ta-en:
+    alignments: 981460
+    download size: 103519805
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/ta-en.txt.zip
+    source language tokens: 13460683
+    target language tokens: 15407726
+  te-en:
+    alignments: 788612
+    download size: 62884705
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/te-en.txt.zip
+    source language tokens: 6515296
+    target language tokens: 11845445
+  th-en:
+    alignments: 2116
+    download size: 225519
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/th-en.txt.zip
+    source language tokens: 20797
+    target language tokens: 45507
+  tr-en:
+    alignments: 273100
+    download size: 24628675
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/tr-en.txt.zip
+    source language tokens: 3905307
+    target language tokens: 4970348
+  uk-cs:
+    alignments: 613230
+    download size: 60276688
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/uk-cs.txt.zip
+    source language tokens: 8771137
+    target language tokens: 8549786
+  uk-da:
+    alignments: 619968
+    download size: 60059288
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/uk-da.txt.zip
+    source language tokens: 8936523
+    target language tokens: 10607993
+  uk-de:
+    alignments: 623933
+    download size: 63084935
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/uk-de.txt.zip
+    source language tokens: 8976850
+    target language tokens: 10863093
+  uk-en:
+    alignments: 602934
+    download size: 55496107
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/uk-en.txt.zip
+    source language tokens: 8234357
+    target language tokens: 10272818
+  uk-hu:
+    alignments: 629226
+    download size: 62070403
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/uk-hu.txt.zip
+    source language tokens: 9020238
+    target language tokens: 9023093
+  uk-pl:
+    alignments: 640491
+    download size: 62376816
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/uk-pl.txt.zip
+    source language tokens: 8938960
+    target language tokens: 8824789
+  uk-ro:
+    alignments: 639204
+    download size: 62529483
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/uk-ro.txt.zip
+    source language tokens: 9074414
+    target language tokens: 10785846
+  uk-sk:
+    alignments: 620373
+    download size: 61043198
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/uk-sk.txt.zip
+    source language tokens: 8976613
+    target language tokens: 9114990
+  uk-sv:
+    alignments: 638696
+    download size: 61660756
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/uk-sv.txt.zip
+    source language tokens: 9074975
+    target language tokens: 10499108
+  vec-en:
+    alignments: 30052
+    download size: 2085585
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/vec-en.txt.zip
+    source language tokens: 438114
+    target language tokens: 477489
+  vi-en:
+    alignments: 479525
+    download size: 44466641
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/vi-en.txt.zip
+    source language tokens: 11457368
+    target language tokens: 9461282
+  yi-en:
+    alignments: 152
+    download size: 15678
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/yi-en.txt.zip
+    source language tokens: 2591
+    target language tokens: 2722
+  zh_Hans-en:
+    alignments: 3381643
+    download size: 246060058
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/zh_Hans-en.txt.zip
+    source language tokens: 4161618
+    target language tokens: 58474854
+  zh_Hant-en:
+    alignments: 219064
+    download size: 3865223
+    download url: https://object.pouta.csc.fi/synOPUS-Wikisource/v1syn/moses/zh_Hant-en.txt.zip
+    source language tokens: 231446
+    target language tokens: 1061319
+tmx:
+  ar-en: {}
+  as-en: {}
+  az-en: {}
+  be-en: {}
+  bg-en: {}
+  bn-en: {}
+  br-en: {}
+  bs-en: {}
+  ca-en: {}
+  cs-en: {}
+  cs-uk: {}
+  cy-en: {}
+  da-en: {}
+  de-en: {}
+  de-fi: {}
+  el-en: {}
+  eo-en: {}
+  es-en: {}
+  et-fi: {}
+  eu-en: {}
+  fa-en: {}
+  fi-de: {}
+  fi-en: {}
+  fi-et: {}
+  fi-ru: {}
+  fi-sv: {}
+  fo-en: {}
+  fr-en: {}
+  gl-en: {}
+  gu-en: {}
+  hr-en: {}
+  ht-en: {}
+  hu-en: {}
+  hu-uk: {}
+  hy-en: {}
+  id-en: {}
+  it-en: {}
+  kn-en: {}
+  ko-en: {}
+  lt-en: {}
+  lt-fi: {}
+  mk-en: {}
+  ml-en: {}
+  mr-en: {}
+  nb-en: {}
+  nl-en: {}
+  no-en: {}
+  or-en: {}
+  pa-en: {}
+  pl-en: {}
+  pl-uk: {}
+  pms-en: {}
+  pt-en: {}
+  ro-en: {}
+  ro-uk: {}
+  ru-en: {}
+  ru-fi: {}
+  sa-en: {}
+  sah-en: {}
+  sk-uk: {}
+  sl-en: {}
+  sr_Cyrl-en: {}
+  sv-en: {}
+  sv-fi: {}
+  ta-en: {}
+  te-en: {}
+  th-en: {}
+  tr-en: {}
+  uk-cs: {}
+  uk-da: {}
+  uk-de: {}
+  uk-en: {}
+  uk-hu: {}
+  uk-pl: {}
+  uk-ro: {}
+  uk-sk: {}
+  uk-sv: {}
+  vec-en: {}
+  vi-en: {}
+  yi-en: {}
+  zh_Hans-en: {}
+  zh_Hant-en: {}

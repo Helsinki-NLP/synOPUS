@@ -2,4 +2,5 @@ name	release	release date	alignments	sentences	tokens	languages	language pairs	l
 Wikibooks	v1syn	2025-04-04	54281878	63609994	1055170292	91	158	'CC-BY-SA 4.0'
 Wikinews	v1syn	2025-04-04	26011766	31139080	563603941	68	111	'CC-BY-SA 4.0'
 Wikiquote	v1syn	2025-04-04	53775341	63064996	774105722	81	142	'CC-BY-SA 4.0'
+Wikisource	v1syn	2025-04-04	95888202	168092796	3193868945	63	82	'CC-BY-SA 4.0'
 Europarl	v8syn	2025-03-26	203026062	46231828	1018538887	28	154	unknown
