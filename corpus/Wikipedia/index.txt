@@ -1,3 +1,8 @@
+index-filesize.txt
+index-long.txt
+index.txt
+info.txt
+releases.txt
 v1syn/info-files.tar.gz
 v1syn/mono/af.txt.gz
 v1syn/mono/ar.txt.gz
