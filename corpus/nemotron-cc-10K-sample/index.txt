@@ -1,3 +1,8 @@
+index-filesize.txt
+index-long.txt
+index.txt
+info.txt
+releases.txt
 v1syn/dic
 v1syn/freq
 v1syn/info-files.tar.gz

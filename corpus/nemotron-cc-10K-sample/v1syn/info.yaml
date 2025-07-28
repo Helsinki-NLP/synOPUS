@@ -1,87 +1,87 @@
 ---
 alignments: 67655232
 language pairs:
-  - en-nb
-  - en-hu
-  - en-lt
-  - en-et
-  - en-fi
-  - en-fr
-  - en-cs
-  - en-mk
-  - en-ka
-  - en-it
-  - en-tr
-  - en-sl
   - en-uk
-  - en-bs
-  - en-nn
-  - en-gl
-  - en-is
-  - en-el
+  - en-nb
+  - en-pt
+  - en-lt
   - en-da
-  - en-es
-  - en-hr
-  - en-sr_Cyrl
-  - en-sq
+  - en-hu
+  - en-nn
+  - en-et
   - en-sk
-  - en-nl
+  - en-is
   - en-pl
   - en-de
-  - en-ga
   - en-bg
-  - en-mt
-  - en-ca
-  - en-pt
+  - en-ka
   - en-ro
+  - en-ca
+  - en-sl
+  - en-el
+  - en-es
+  - en-hr
+  - en-fr
+  - en-gl
+  - en-mk
+  - en-ga
+  - en-mt
+  - en-bs
   - en-sv
-  - en-eu
+  - en-tr
+  - en-sr_Cyrl
+  - en-it
+  - en-cs
   - en-lv
+  - en-eu
+  - en-nl
+  - en-sq
+  - en-fi
 languages:
-  - ca
-  - sr_Cyrl
   - tr
-  - nl
-  - de
-  - uk
-  - nn
-  - ro
-  - bs
-  - it
-  - es
-  - sq
-  - el
-  - sv
   - ga
-  - pt
-  - eu
-  - et
+  - hu
   - is
+  - ro
+  - sv
+  - lt
+  - bg
+  - nn
+  - eu
+  - da
+  - it
+  - sl
+  - mk
+  - en
+  - hr
+  - lv
+  - cs
+  - sq
+  - bs
+  - mt
+  - uk
+  - sk
   - pl
+  - es
+  - pt
+  - sr_Cyrl
+  - nl
+  - ka
+  - nb
+  - et
+  - de
+  - fi
+  - ca
+  - el
   - gl
   - fr
-  - lt
-  - nb
-  - da
-  - lv
-  - sk
-  - ka
-  - cs
-  - mk
-  - hu
-  - mt
-  - en
-  - bg
-  - hr
-  - sl
-  - fi
 license: '<a href=https://creativecommons.org/licenses/by/4.0/>CC-BY 4.0</a>'
 moses alignments: 67290023
 name: nemotron-cc-10K-sample
 number of language pairs: 36
 number of languages: 37
 release: v1syn
-release date: Mon Jul 28 10:38:45 EEST 2025
+release date: Mon Jul 28 21:08:44 EEST 2025
 sentences: 32073783
 tokens: 936987346
 translation units: 0
