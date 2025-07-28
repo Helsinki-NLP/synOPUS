@@ -1,0 +1,132 @@
+ Corpus Name: nemotron-cc-10K-sample
+     Website: http://opus.nlpl.eu/legacy/nemotron-cc-10K-sample-v1syn.php
+     Release: v1syn
+Release date: Mon Jul 28 10:38:45 EEST 2025
+     License: <a href=https://creativecommons.org/licenses/by/4.0/>CC-BY 4.0</a>
+
+This package is part of synOPUS - the open collection of synthetic parallel corpora
+OPUS Website: http://opus.nlpl.eu/synthetic
+
+Please <a href="http://opus.lingfil.uu.se/LREC2012.txt">cite the following article</a> if you use the OPUS packages and downloads in your own work:<br/> J. Tiedemann, 2012, <a href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/463_Paper.pdf"><i>Parallel Data, Tools and Interfaces in OPUS.</i></a> In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)<br/>
+
+Automatically translated data from a small 10K sample taken out of Nemotron-CC. Translations are done by OPUS-MT models selected from the OPUS-MT Dashboard.
+
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+freq ...... token frequencies
+-----------------------------
+Files in this release
+-----------------------------
+nemotron-cc-10K-sample/v1syn/mono/bg.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/bs.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/ca.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/cs.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/da.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/de.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/el.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/en.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/es.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/et.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/eu.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/fi.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/fr.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/ga.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/gl.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/hr.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/hu.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/is.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/it.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/ka.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/lt.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/lv.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/mk.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/mt.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/nb.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/nl.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/nn.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/pl.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/pt.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/ro.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/sk.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/sl.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/sq.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/sr_Cyrl.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/sv.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/tr.txt.gz
+nemotron-cc-10K-sample/v1syn/mono/uk.txt.gz
+nemotron-cc-10K-sample/v1syn/moses/en-bg.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-bs.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-ca.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-cs.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-da.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-de.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-el.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-es.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-et.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-eu.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-fi.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-fr.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-ga.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-gl.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-hr.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-hu.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-is.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-it.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-ka.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-lt.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-lv.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-mk.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-mt.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-nb.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-nl.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-nn.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-pl.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-pt.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-ro.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-sk.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-sl.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-sq.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-sr_Cyrl.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-sv.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-tr.txt.zip
+nemotron-cc-10K-sample/v1syn/moses/en-uk.txt.zip
+nemotron-cc-10K-sample/v1syn/raw/bg.zip
+nemotron-cc-10K-sample/v1syn/raw/bs.zip
+nemotron-cc-10K-sample/v1syn/raw/ca.zip
+nemotron-cc-10K-sample/v1syn/raw/cs.zip
+nemotron-cc-10K-sample/v1syn/raw/da.zip
+nemotron-cc-10K-sample/v1syn/raw/de.zip
+nemotron-cc-10K-sample/v1syn/raw/el.zip
+nemotron-cc-10K-sample/v1syn/raw/en.zip
+nemotron-cc-10K-sample/v1syn/raw/es.zip
+nemotron-cc-10K-sample/v1syn/raw/et.zip
+nemotron-cc-10K-sample/v1syn/raw/eu.zip
+nemotron-cc-10K-sample/v1syn/raw/fi.zip
+nemotron-cc-10K-sample/v1syn/raw/fr.zip
+nemotron-cc-10K-sample/v1syn/raw/ga.zip
+nemotron-cc-10K-sample/v1syn/raw/gl.zip
+nemotron-cc-10K-sample/v1syn/raw/hr.zip
+nemotron-cc-10K-sample/v1syn/raw/hu.zip
+nemotron-cc-10K-sample/v1syn/raw/is.zip
+nemotron-cc-10K-sample/v1syn/raw/it.zip
+nemotron-cc-10K-sample/v1syn/raw/ka.zip
+nemotron-cc-10K-sample/v1syn/raw/lt.zip
+nemotron-cc-10K-sample/v1syn/raw/lv.zip
+nemotron-cc-10K-sample/v1syn/raw/mk.zip
+nemotron-cc-10K-sample/v1syn/raw/mt.zip
+nemotron-cc-10K-sample/v1syn/raw/nb.zip
+nemotron-cc-10K-sample/v1syn/raw/nl.zip
+nemotron-cc-10K-sample/v1syn/raw/nn.zip
+nemotron-cc-10K-sample/v1syn/raw/pl.zip
+nemotron-cc-10K-sample/v1syn/raw/pt.zip
+nemotron-cc-10K-sample/v1syn/raw/ro.zip
+nemotron-cc-10K-sample/v1syn/raw/sk.zip
+nemotron-cc-10K-sample/v1syn/raw/sl.zip
+nemotron-cc-10K-sample/v1syn/raw/sq.zip
+nemotron-cc-10K-sample/v1syn/raw/sr_Cyrl.zip
+nemotron-cc-10K-sample/v1syn/raw/sv.zip
+nemotron-cc-10K-sample/v1syn/raw/tr.zip
+nemotron-cc-10K-sample/v1syn/raw/uk.zip

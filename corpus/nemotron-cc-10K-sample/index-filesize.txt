@@ -1,0 +1,150 @@
+     2928 v1syn/info-files.tar.gz
+     1004 v1syn/xml/README
+ 11326037 v1syn/xml/en-bg.xml.gz
+ 11446313 v1syn/xml/en-bs.xml.gz
+ 11471124 v1syn/xml/en-ca.xml.gz
+ 11308573 v1syn/xml/en-cs.xml.gz
+ 11294428 v1syn/xml/en-da.xml.gz
+ 11698480 v1syn/xml/en-de.xml.gz
+ 11271568 v1syn/xml/en-el.xml.gz
+ 11290428 v1syn/xml/en-es.xml.gz
+ 11408606 v1syn/xml/en-et.xml.gz
+ 11395062 v1syn/xml/en-eu.xml.gz
+ 11291916 v1syn/xml/en-fi.xml.gz
+ 11266174 v1syn/xml/en-fr.xml.gz
+ 11259312 v1syn/xml/en-ga.xml.gz
+ 11108828 v1syn/xml/en-gl.xml.gz
+ 11473279 v1syn/xml/en-hr.xml.gz
+ 11312365 v1syn/xml/en-hu.xml.gz
+ 11266851 v1syn/xml/en-is.xml.gz
+ 11483854 v1syn/xml/en-it.xml.gz
+ 11412263 v1syn/xml/en-ka.xml.gz
+ 11777106 v1syn/xml/en-lt.xml.gz
+ 11332949 v1syn/xml/en-lv.xml.gz
+ 11440947 v1syn/xml/en-mk.xml.gz
+ 11223736 v1syn/xml/en-mt.xml.gz
+ 11601316 v1syn/xml/en-nb.xml.gz
+ 11509576 v1syn/xml/en-nl.xml.gz
+ 11557317 v1syn/xml/en-nn.xml.gz
+ 11523247 v1syn/xml/en-pl.xml.gz
+ 11519490 v1syn/xml/en-pt.xml.gz
+ 11493574 v1syn/xml/en-ro.xml.gz
+ 11274989 v1syn/xml/en-sk.xml.gz
+ 11575042 v1syn/xml/en-sl.xml.gz
+ 11230728 v1syn/xml/en-sq.xml.gz
+ 11430914 v1syn/xml/en-sr_Cyrl.xml.gz
+ 11252094 v1syn/xml/en-sv.xml.gz
+ 11386068 v1syn/xml/en-tr.xml.gz
+ 11315393 v1syn/xml/en-uk.xml.gz
+     1006 v1syn/moses/README
+147650047 v1syn/moses/en-bg.txt.zip
+132850323 v1syn/moses/en-bs.txt.zip
+130609592 v1syn/moses/en-ca.txt.zip
+134633442 v1syn/moses/en-cs.txt.zip
+129859904 v1syn/moses/en-da.txt.zip
+136495731 v1syn/moses/en-de.txt.zip
+157659025 v1syn/moses/en-el.txt.zip
+132456627 v1syn/moses/en-es.txt.zip
+103129617 v1syn/moses/en-et.txt.zip
+124514980 v1syn/moses/en-eu.txt.zip
+133292275 v1syn/moses/en-fi.txt.zip
+135080261 v1syn/moses/en-fr.txt.zip
+134857210 v1syn/moses/en-ga.txt.zip
+ 94123639 v1syn/moses/en-gl.txt.zip
+114465529 v1syn/moses/en-hr.txt.zip
+134814696 v1syn/moses/en-hu.txt.zip
+132118802 v1syn/moses/en-is.txt.zip
+129765458 v1syn/moses/en-it.txt.zip
+134792927 v1syn/moses/en-ka.txt.zip
+130803263 v1syn/moses/en-lt.txt.zip
+132484636 v1syn/moses/en-lv.txt.zip
+136984747 v1syn/moses/en-mk.txt.zip
+135302426 v1syn/moses/en-mt.txt.zip
+126669254 v1syn/moses/en-nb.txt.zip
+130489275 v1syn/moses/en-nl.txt.zip
+128298334 v1syn/moses/en-nn.txt.zip
+132302252 v1syn/moses/en-pl.txt.zip
+129928657 v1syn/moses/en-pt.txt.zip
+127371673 v1syn/moses/en-ro.txt.zip
+135100081 v1syn/moses/en-sk.txt.zip
+128408861 v1syn/moses/en-sl.txt.zip
+135912255 v1syn/moses/en-sq.txt.zip
+136084774 v1syn/moses/en-sr_Cyrl.txt.zip
+130257516 v1syn/moses/en-sv.txt.zip
+130648950 v1syn/moses/en-tr.txt.zip
+148968617 v1syn/moses/en-uk.txt.zip
+     1004 v1syn/tmx/README
+ 83338509 v1syn/mono/bg.txt.gz
+ 68429885 v1syn/mono/bs.txt.gz
+ 66213056 v1syn/mono/ca.txt.gz
+ 70233707 v1syn/mono/cs.txt.gz
+ 65434830 v1syn/mono/da.txt.gz
+ 72087953 v1syn/mono/de.txt.gz
+ 93377096 v1syn/mono/el.txt.gz
+ 64529748 v1syn/mono/en.txt.gz
+ 68056649 v1syn/mono/es.txt.gz
+ 38831620 v1syn/mono/et.txt.gz
+ 60091583 v1syn/mono/eu.txt.gz
+ 68872965 v1syn/mono/fi.txt.gz
+ 70690542 v1syn/mono/fr.txt.gz
+ 70472721 v1syn/mono/ga.txt.gz
+ 42518508 v1syn/mono/gl.txt.gz
+ 50120129 v1syn/mono/hr.txt.gz
+ 70422935 v1syn/mono/hu.txt.gz
+ 67722714 v1syn/mono/is.txt.gz
+ 65365496 v1syn/mono/it.txt.gz
+ 70570267 v1syn/mono/ka.txt.gz
+ 66396984 v1syn/mono/lt.txt.gz
+ 68079491 v1syn/mono/lv.txt.gz
+ 72712453 v1syn/mono/mk.txt.gz
+ 70901838 v1syn/mono/mt.txt.gz
+ 62251299 v1syn/mono/nb.txt.gz
+ 66073680 v1syn/mono/nl.txt.gz
+ 63877686 v1syn/mono/nn.txt.gz
+ 67909963 v1syn/mono/pl.txt.gz
+ 65531995 v1syn/mono/pt.txt.gz
+ 63010765 v1syn/mono/ro.txt.gz
+ 70700890 v1syn/mono/sk.txt.gz
+ 63983098 v1syn/mono/sl.txt.gz
+ 71506626 v1syn/mono/sq.txt.gz
+ 71801367 v1syn/mono/sr_Cyrl.txt.gz
+ 65841876 v1syn/mono/sv.txt.gz
+ 66238742 v1syn/mono/tr.txt.gz
+ 84664337 v1syn/mono/uk.txt.gz
+121207451 v1syn/raw/bg.zip
+101409645 v1syn/raw/bs.zip
+103863418 v1syn/raw/ca.zip
+105426972 v1syn/raw/cs.zip
+ 97944004 v1syn/raw/da.zip
+106657920 v1syn/raw/de.zip
+133321855 v1syn/raw/el.zip
+ 95872409 v1syn/raw/en.zip
+101878250 v1syn/raw/es.zip
+ 68604689 v1syn/raw/et.zip
+ 92904326 v1syn/raw/eu.zip
+101795845 v1syn/raw/fi.zip
+105565688 v1syn/raw/fr.zip
+106194782 v1syn/raw/ga.zip
+ 72477755 v1syn/raw/gl.zip
+ 82568529 v1syn/raw/hr.zip
+106255501 v1syn/raw/hu.zip
+102361348 v1syn/raw/is.zip
+102025618 v1syn/raw/it.zip
+105006686 v1syn/raw/ka.zip
+104244819 v1syn/raw/lt.zip
+102946684 v1syn/raw/lv.zip
+111873967 v1syn/raw/mk.zip
+106217351 v1syn/raw/mt.zip
+ 97414975 v1syn/raw/nb.zip
+101748260 v1syn/raw/nl.zip
+ 99044334 v1syn/raw/nn.zip
+106339224 v1syn/raw/pl.zip
+102586716 v1syn/raw/pt.zip
+ 99210597 v1syn/raw/ro.zip
+106075712 v1syn/raw/sk.zip
+ 99815067 v1syn/raw/sl.zip
+104973945 v1syn/raw/sq.zip
+110666111 v1syn/raw/sr_Cyrl.zip
+ 98507065 v1syn/raw/sv.zip
+101663462 v1syn/raw/tr.zip
+123806156 v1syn/raw/uk.zip
