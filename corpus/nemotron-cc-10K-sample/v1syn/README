@@ -1,7 +1,7 @@
  Corpus Name: nemotron-cc-10K-sample
      Website: http://opus.nlpl.eu/legacy/nemotron-cc-10K-sample-v1syn.php
      Release: v1syn
-Release date: Thu Jul 31 13:58:12 EEST 2025
+Release date: Thu Jul 31 15:17:00 EEST 2025
      License: <a href=https://creativecommons.org/licenses/by/4.0/>CC-BY 4.0</a>
 
 This package is part of synOPUS - the open collection of synthetic parallel corpora
@@ -15,6 +15,7 @@ Automatically translated data from a small 10K sample taken out of Nemotron-CC. 
 xml ....... tokenized corpus and sentence alignments
 raw ....... untokenized corpus in XML
 mono ...... monolingual text files
+moses ..... aligned plain text files
 freq ...... token frequencies
 -----------------------------
 Files in this release

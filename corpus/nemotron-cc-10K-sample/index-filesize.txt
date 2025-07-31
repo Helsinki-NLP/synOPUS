@@ -1,9 +1,9 @@
      4883 index-filesize.txt
      9533 index-long.txt
      3364 index.txt
-    19386 info.txt
+     5491 info.txt
        36 releases.txt
-     1003 v1syn/info-files.tar.gz
+     2785 v1syn/info-files.tar.gz
      1004 v1syn/xml/README
  11295668 v1syn/xml/en-bg.xml.gz
  11415859 v1syn/xml/en-bs.xml.gz
@@ -41,43 +41,42 @@
  11223542 v1syn/xml/en-sv.xml.gz
  11358525 v1syn/xml/en-tr.xml.gz
  11283797 v1syn/xml/en-uk.xml.gz
-     1004 v1syn/tmx/README
      1006 v1syn/moses/README
 147650047 v1syn/moses/en-bg.txt.zip
 132850322 v1syn/moses/en-bs.txt.zip
-130609592 v1syn/moses/en-ca.txt.zip
+132464412 v1syn/moses/en-ca.txt.zip
 134633442 v1syn/moses/en-cs.txt.zip
-129859905 v1syn/moses/en-da.txt.zip
-136495730 v1syn/moses/en-de.txt.zip
+129859904 v1syn/moses/en-da.txt.zip
+136495731 v1syn/moses/en-de.txt.zip
 157659025 v1syn/moses/en-el.txt.zip
 132456626 v1syn/moses/en-es.txt.zip
-103129616 v1syn/moses/en-et.txt.zip
-124514980 v1syn/moses/en-eu.txt.zip
-133292275 v1syn/moses/en-fi.txt.zip
-135080261 v1syn/moses/en-fr.txt.zip
-134857211 v1syn/moses/en-ga.txt.zip
- 94123639 v1syn/moses/en-gl.txt.zip
-114465529 v1syn/moses/en-hr.txt.zip
+128873539 v1syn/moses/en-et.txt.zip
+124514979 v1syn/moses/en-eu.txt.zip
+133292276 v1syn/moses/en-fi.txt.zip
+135080262 v1syn/moses/en-fr.txt.zip
+134857212 v1syn/moses/en-ga.txt.zip
+130632614 v1syn/moses/en-gl.txt.zip
+131227049 v1syn/moses/en-hr.txt.zip
 134814696 v1syn/moses/en-hu.txt.zip
-132118802 v1syn/moses/en-is.txt.zip
-129765458 v1syn/moses/en-it.txt.zip
-134792927 v1syn/moses/en-ka.txt.zip
-130803264 v1syn/moses/en-lt.txt.zip
-132484635 v1syn/moses/en-lv.txt.zip
-136984747 v1syn/moses/en-mk.txt.zip
+132118803 v1syn/moses/en-is.txt.zip
+132300415 v1syn/moses/en-it.txt.zip
+151797148 v1syn/moses/en-ka.txt.zip
+133138365 v1syn/moses/en-lt.txt.zip
+132484636 v1syn/moses/en-lv.txt.zip
+145281248 v1syn/moses/en-mk.txt.zip
 135302425 v1syn/moses/en-mt.txt.zip
-126669254 v1syn/moses/en-nb.txt.zip
-130489275 v1syn/moses/en-nl.txt.zip
-128298334 v1syn/moses/en-nn.txt.zip
-132302251 v1syn/moses/en-pl.txt.zip
-129928657 v1syn/moses/en-pt.txt.zip
-127371672 v1syn/moses/en-ro.txt.zip
-135100081 v1syn/moses/en-sk.txt.zip
-128408861 v1syn/moses/en-sl.txt.zip
+129268517 v1syn/moses/en-nb.txt.zip
+132605817 v1syn/moses/en-nl.txt.zip
+130498476 v1syn/moses/en-nn.txt.zip
+135583109 v1syn/moses/en-pl.txt.zip
+132163933 v1syn/moses/en-pt.txt.zip
+135040896 v1syn/moses/en-ro.txt.zip
+135100082 v1syn/moses/en-sk.txt.zip
+130523626 v1syn/moses/en-sl.txt.zip
 135912255 v1syn/moses/en-sq.txt.zip
-136084775 v1syn/moses/en-sr_Cyrl.txt.zip
-130257516 v1syn/moses/en-sv.txt.zip
-130648950 v1syn/moses/en-tr.txt.zip
+144708740 v1syn/moses/en-sr_Cyrl.txt.zip
+130257515 v1syn/moses/en-sv.txt.zip
+130648951 v1syn/moses/en-tr.txt.zip
 148968617 v1syn/moses/en-uk.txt.zip
 120105373 v1syn/raw/bg.zip
 100386490 v1syn/raw/bs.zip
@@ -116,6 +115,7 @@
  97511948 v1syn/raw/sv.zip
 100679393 v1syn/raw/tr.zip
 122695863 v1syn/raw/uk.zip
+     1004 v1syn/tmx/README
  83338509 v1syn/mono/bg.txt.gz
  68429885 v1syn/mono/bs.txt.gz
  68065267 v1syn/mono/ca.txt.gz

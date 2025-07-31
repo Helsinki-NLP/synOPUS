@@ -1,6 +1,7 @@
 ---
 bitexts:
   en-bg:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11295668
@@ -17,7 +18,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 27712591
   en-bs:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11415859
@@ -34,7 +39,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 26279718
   en-ca:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11204470
@@ -51,7 +60,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 30539970
   en-cs:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11277001
@@ -68,7 +81,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 24655799
   en-da:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11268896
@@ -85,7 +102,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 27232239
   en-de:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11667132
@@ -102,7 +123,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 27429255
   en-el:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11243426
@@ -119,7 +144,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 29822747
   en-es:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11261427
@@ -136,7 +165,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 30867385
   en-et:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11260454
@@ -153,7 +186,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 22029008
   en-eu:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11367367
@@ -170,7 +207,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 21082504
   en-fi:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11262851
@@ -187,7 +228,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 20750547
   en-fr:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11234386
@@ -204,7 +249,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 31469741
   en-ga:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11226823
@@ -221,7 +270,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 31967288
   en-gl:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11191593
@@ -238,7 +291,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 29195106
   en-hr:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11288518
@@ -255,7 +312,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 25305569
   en-hu:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11282098
@@ -272,7 +333,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 24121325
   en-is:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11237483
@@ -289,7 +354,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 26541566
   en-it:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11216961
@@ -306,7 +375,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 29435653
   en-ka:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11247555
@@ -323,7 +396,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 21523964
   en-lt:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11638392
@@ -340,7 +417,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 23362745
   en-lv:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11301365
@@ -357,7 +438,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 24001608
   en-mk:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11262217
@@ -374,7 +459,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 28103114
   en-mt:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11191229
@@ -391,7 +480,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 24708407
   en-nb:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11386894
@@ -408,7 +501,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 27089473
   en-nl:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11210688
@@ -425,7 +522,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 28771059
   en-nn:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11277376
@@ -442,7 +543,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 27224488
   en-pl:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11312821
@@ -459,7 +564,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 24739406
   en-pt:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11217948
@@ -476,7 +585,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 29740479
   en-ro:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11254018
@@ -493,7 +606,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 29652404
   en-sk:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11246373
@@ -510,7 +627,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 24867384
   en-sl:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11378859
@@ -527,7 +648,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 25497038
   en-sq:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11199415
@@ -544,7 +669,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 31411546
   en-sr_Cyrl:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11255755
@@ -561,7 +690,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 25713301
   en-sv:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11223542
@@ -578,7 +711,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 26598648
   en-tr:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11358525
@@ -595,7 +732,11 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 22423171
   en-uk:
+    alignments: 1879312
     downloads:
       alignments:
         size: 11283797
@@ -612,6 +753,9 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
+    files: 50000
+    source language tokens: 28357056
+    target language tokens: 24824412
 files: 1850000
 monolingual:
   bg:
@@ -1060,110 +1204,255 @@ monolingual:
     tokens: 24824412
 moses:
   en-bg:
+    alignments: 1879312
     download size: 147650047
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-bg.txt.zip
+    source language tokens: 28357056
+    target language tokens: 27712591
   en-bs:
+    alignments: 1879312
     download size: 132850322
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-bs.txt.zip
+    source language tokens: 28357056
+    target language tokens: 26279718
   en-ca:
-    download size: 130609592
+    alignments: 1879312
+    download size: 132464412
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-ca.txt.zip
+    source language tokens: 28357056
+    target language tokens: 30539970
   en-cs:
+    alignments: 1879312
     download size: 134633442
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-cs.txt.zip
+    source language tokens: 28357056
+    target language tokens: 24655799
   en-da:
-    download size: 129859905
+    alignments: 1879312
+    download size: 129859904
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-da.txt.zip
+    source language tokens: 28357056
+    target language tokens: 27232239
   en-de:
-    download size: 136495730
+    alignments: 1879312
+    download size: 136495731
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-de.txt.zip
+    source language tokens: 28357056
+    target language tokens: 27429255
   en-el:
+    alignments: 1879311
     download size: 157659025
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-el.txt.zip
+    source language tokens: 28357043
+    target language tokens: 29822567
   en-es:
+    alignments: 1879312
     download size: 132456626
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-es.txt.zip
+    source language tokens: 28357056
+    target language tokens: 30867385
   en-et:
-    download size: 103129616
+    alignments: 1879311
+    download size: 128873539
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-et.txt.zip
+    source language tokens: 28356951
+    target language tokens: 22028678
   en-eu:
-    download size: 124514980
+    alignments: 1879309
+    download size: 124514979
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-eu.txt.zip
+    source language tokens: 28356771
+    target language tokens: 21081629
   en-fi:
-    download size: 133292275
+    alignments: 1879312
+    download size: 133292276
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-fi.txt.zip
+    source language tokens: 28357056
+    target language tokens: 20750547
   en-fr:
-    download size: 135080261
+    alignments: 1879311
+    download size: 135080262
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-fr.txt.zip
+    source language tokens: 28356999
+    target language tokens: 31469108
   en-ga:
-    download size: 134857211
+    alignments: 1879312
+    download size: 134857212
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-ga.txt.zip
+    source language tokens: 28357056
+    target language tokens: 31967288
   en-gl:
-    download size: 94123639
+    alignments: 1879312
+    download size: 130632614
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-gl.txt.zip
+    source language tokens: 28357056
+    target language tokens: 29195106
   en-hr:
-    download size: 114465529
+    alignments: 1879312
+    download size: 131227049
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-hr.txt.zip
+    source language tokens: 28357056
+    target language tokens: 25305569
   en-hu:
+    alignments: 1879312
     download size: 134814696
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-hu.txt.zip
+    source language tokens: 28357056
+    target language tokens: 24121325
   en-is:
-    download size: 132118802
+    alignments: 1879311
+    download size: 132118803
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-is.txt.zip
+    source language tokens: 28356923
+    target language tokens: 26541201
   en-it:
-    download size: 129765458
+    alignments: 1879312
+    download size: 132300415
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-it.txt.zip
+    source language tokens: 28357056
+    target language tokens: 29435653
   en-ka:
-    download size: 134792927
+    alignments: 1879312
+    download size: 151797148
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-ka.txt.zip
+    source language tokens: 28357056
+    target language tokens: 21523964
   en-lt:
-    download size: 130803264
+    alignments: 1879311
+    download size: 133138365
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-lt.txt.zip
+    source language tokens: 28356970
+    target language tokens: 23362338
   en-lv:
-    download size: 132484635
+    alignments: 1879312
+    download size: 132484636
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-lv.txt.zip
+    source language tokens: 28357056
+    target language tokens: 24001608
   en-mk:
-    download size: 136984747
+    alignments: 1879312
+    download size: 145281248
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-mk.txt.zip
+    source language tokens: 28357056
+    target language tokens: 28103114
   en-mt:
+    alignments: 1879312
     download size: 135302425
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-mt.txt.zip
+    source language tokens: 28357056
+    target language tokens: 24708407
   en-nb:
-    download size: 126669254
+    alignments: 1879312
+    download size: 129268517
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-nb.txt.zip
+    source language tokens: 28357056
+    target language tokens: 27089473
   en-nl:
-    download size: 130489275
+    alignments: 1879311
+    download size: 132605817
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-nl.txt.zip
+    source language tokens: 28356970
+    target language tokens: 28770656
   en-nn:
-    download size: 128298334
+    alignments: 1879312
+    download size: 130498476
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-nn.txt.zip
+    source language tokens: 28357056
+    target language tokens: 27224488
   en-pl:
-    download size: 132302251
+    alignments: 1879312
+    download size: 135583109
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-pl.txt.zip
+    source language tokens: 28357056
+    target language tokens: 24739406
   en-pt:
-    download size: 129928657
+    alignments: 1879312
+    download size: 132163933
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-pt.txt.zip
+    source language tokens: 28357056
+    target language tokens: 29740479
   en-ro:
-    download size: 127371672
+    alignments: 1879312
+    download size: 135040896
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-ro.txt.zip
+    source language tokens: 28357056
+    target language tokens: 29652404
   en-sk:
-    download size: 135100081
+    alignments: 1879312
+    download size: 135100082
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-sk.txt.zip
+    source language tokens: 28357056
+    target language tokens: 24867384
   en-sl:
-    download size: 128408861
+    alignments: 1879312
+    download size: 130523626
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-sl.txt.zip
+    source language tokens: 28357056
+    target language tokens: 25497038
   en-sq:
+    alignments: 1879312
     download size: 135912255
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-sq.txt.zip
+    source language tokens: 28357056
+    target language tokens: 31411546
   en-sr_Cyrl:
-    download size: 136084775
+    alignments: 1879312
+    download size: 144708740
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-sr_Cyrl.txt.zip
+    source language tokens: 28357056
+    target language tokens: 25713301
   en-sv:
-    download size: 130257516
+    alignments: 1879312
+    download size: 130257515
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-sv.txt.zip
+    source language tokens: 28357056
+    target language tokens: 26598648
   en-tr:
-    download size: 130648950
+    alignments: 1879312
+    download size: 130648951
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-tr.txt.zip
+    source language tokens: 28357056
+    target language tokens: 22423171
   en-uk:
+    alignments: 1879312
     download size: 148968617
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-uk.txt.zip
+    source language tokens: 28357056
+    target language tokens: 24824412
+tmx:
+  en-bg: {}
+  en-bs: {}
+  en-ca: {}
+  en-cs: {}
+  en-da: {}
+  en-de: {}
+  en-el: {}
+  en-es: {}
+  en-et: {}
+  en-eu: {}
+  en-fi: {}
+  en-fr: {}
+  en-ga: {}
+  en-gl: {}
+  en-hr: {}
+  en-hu: {}
+  en-is: {}
+  en-it: {}
+  en-ka: {}
+  en-lt: {}
+  en-lv: {}
+  en-mk: {}
+  en-mt: {}
+  en-nb: {}
+  en-nl: {}
+  en-nn: {}
+  en-pl: {}
+  en-pt: {}
+  en-ro: {}
+  en-sk: {}
+  en-sl: {}
+  en-sq: {}
+  en-sr_Cyrl: {}
+  en-sv: {}
+  en-tr: {}
+  en-uk: {}
