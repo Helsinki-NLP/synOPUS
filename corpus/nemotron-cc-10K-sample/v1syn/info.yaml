@@ -1,88 +1,51 @@
 ---
-alignments: 67655232
-language pairs:
-  - en-uk
-  - en-nb
-  - en-pt
-  - en-lt
-  - en-da
-  - en-hu
-  - en-nn
-  - en-et
-  - en-sk
-  - en-is
-  - en-pl
-  - en-de
-  - en-bg
-  - en-ka
-  - en-ro
-  - en-ca
-  - en-sl
-  - en-el
-  - en-es
-  - en-hr
-  - en-fr
-  - en-gl
-  - en-mk
-  - en-ga
-  - en-mt
-  - en-bs
-  - en-sv
-  - en-tr
-  - en-sr_Cyrl
-  - en-it
-  - en-cs
-  - en-lv
-  - en-eu
-  - en-nl
-  - en-sq
-  - en-fi
+alignments: 0
 languages:
-  - tr
+  - fi
+  - pl
   - ga
+  - nl
+  - uk
   - hu
-  - is
+  - fr
+  - tr
+  - pt
+  - gl
+  - cs
+  - nb
+  - en
+  - es
+  - it
   - ro
-  - sv
-  - lt
+  - el
+  - sk
   - bg
+  - hr
+  - lt
+  - ka
   - nn
   - eu
-  - da
-  - it
-  - sl
-  - mk
-  - en
-  - hr
-  - lv
-  - cs
-  - sq
-  - bs
-  - mt
-  - uk
-  - sk
-  - pl
-  - es
-  - pt
-  - sr_Cyrl
-  - nl
-  - ka
-  - nb
-  - et
-  - de
-  - fi
   - ca
-  - el
-  - gl
-  - fr
+  - da
+  - sr_Cyrl
+  - de
+  - mk
+  - bs
+  - sq
+  - mt
+  - sv
+  - sl
+  - lv
+  - is
+  - et
 license: '<a href=https://creativecommons.org/licenses/by/4.0/>CC-BY 4.0</a>'
-moses alignments: 67290023
+moses alignments: 0
 name: nemotron-cc-10K-sample
-number of language pairs: 36
+number of language pairs: 0
 number of languages: 37
 release: v1syn
-release date: Mon Jul 28 21:08:44 EEST 2025
+release date: Thu Jul 31 13:58:12 EEST 2025
 sentences: 32073783
-tokens: 936987346
+tokens: 985047714
 translation units: 0
 website: http://opus.nlpl.eu/legacy/nemotron-cc-10K-sample-v1syn.php

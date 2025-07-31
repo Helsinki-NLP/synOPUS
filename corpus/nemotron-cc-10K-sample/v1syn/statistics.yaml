@@ -1,16 +1,15 @@
 ---
 bitexts:
   en-bg:
-    alignments: 1879312
     downloads:
       alignments:
         size: 11295668
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-bg.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 120105372
+        size: 120105373
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/bg.zip
       tokenized source language:
         size: ~
@@ -18,20 +17,16 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 27712591
   en-bs:
-    alignments: 1879312
     downloads:
       alignments:
         size: 11415859
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-bs.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 100386488
+        size: 100386490
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/bs.zip
       tokenized source language:
         size: ~
@@ -39,20 +34,16 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 26279718
   en-ca:
-    alignments: 1879312
     downloads:
       alignments:
-        size: 11443000
+        size: 11204470
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-ca.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 102855137
+        size: 101221938
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/ca.zip
       tokenized source language:
         size: ~
@@ -60,20 +51,16 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 29625985
   en-cs:
-    alignments: 1879312
     downloads:
       alignments:
         size: 11277001
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-cs.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 104440502
+        size: 104440503
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/cs.zip
       tokenized source language:
         size: ~
@@ -81,20 +68,16 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 24655799
   en-da:
-    alignments: 1879312
     downloads:
       alignments:
         size: 11268896
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-da.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 96946929
+        size: 96946930
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/da.zip
       tokenized source language:
         size: ~
@@ -102,20 +85,16 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 27232239
   en-de:
-    alignments: 1879312
     downloads:
       alignments:
         size: 11667132
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-de.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 105637458
+        size: 105637459
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/de.zip
       tokenized source language:
         size: ~
@@ -123,20 +102,16 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 27429255
   en-el:
-    alignments: 1879312
     downloads:
       alignments:
         size: 11243426
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-el.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 132230514
+        size: 132230515
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/el.zip
       tokenized source language:
         size: ~
@@ -144,20 +119,16 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 29822747
   en-es:
-    alignments: 1879312
     downloads:
       alignments:
         size: 11261427
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-es.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 100894529
+        size: 100894530
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/es.zip
       tokenized source language:
         size: ~
@@ -165,20 +136,16 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 30867385
   en-et:
-    alignments: 1879312
     downloads:
       alignments:
-        size: 11377649
+        size: 11260454
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-et.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 67561490
+        size: 95888837
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/et.zip
       tokenized source language:
         size: ~
@@ -186,20 +153,16 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 13278005
   en-eu:
-    alignments: 1879312
     downloads:
       alignments:
         size: 11367367
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-eu.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 91878058
+        size: 91878059
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/eu.zip
       tokenized source language:
         size: ~
@@ -207,20 +170,16 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 21082504
   en-fi:
-    alignments: 1879312
     downloads:
       alignments:
         size: 11262851
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-fi.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 100820293
+        size: 100820294
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/fi.zip
       tokenized source language:
         size: ~
@@ -228,20 +187,16 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 20750547
   en-fr:
-    alignments: 1879312
     downloads:
       alignments:
         size: 11234386
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-fr.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 104567988
+        size: 104567989
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/fr.zip
       tokenized source language:
         size: ~
@@ -249,20 +204,16 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 31469741
   en-ga:
-    alignments: 1879312
     downloads:
       alignments:
         size: 11226823
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-ga.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 105166848
+        size: 105166849
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/ga.zip
       tokenized source language:
         size: ~
@@ -270,20 +221,16 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 31967288
   en-gl:
-    alignments: 1879312
     downloads:
       alignments:
-        size: 11076997
+        size: 11191593
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-gl.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 71446678
+        size: 98491508
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/gl.zip
       tokenized source language:
         size: ~
@@ -291,20 +238,16 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 18731812
   en-hr:
-    alignments: 1879312
     downloads:
       alignments:
-        size: 11443117
+        size: 11288518
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-hr.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 81535386
+        size: 98800230
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/hr.zip
       tokenized source language:
         size: ~
@@ -312,17 +255,13 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 18904585
   en-hu:
-    alignments: 1879312
     downloads:
       alignments:
         size: 11282098
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-hu.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
         size: 105264089
@@ -333,20 +272,16 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 24121325
   en-is:
-    alignments: 1879312
     downloads:
       alignments:
         size: 11237483
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-is.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 101358725
+        size: 101358726
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/is.zip
       tokenized source language:
         size: ~
@@ -354,20 +289,16 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 26541566
   en-it:
-    alignments: 1879312
     downloads:
       alignments:
-        size: 11455036
+        size: 11216961
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-it.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 101012833
+        size: 100399999
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/it.zip
       tokenized source language:
         size: ~
@@ -375,20 +306,16 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 28262626
   en-ka:
-    alignments: 1879312
     downloads:
       alignments:
-        size: 11387223
+        size: 11247555
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-ka.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 103942511
+        size: 120915881
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/ka.zip
       tokenized source language:
         size: ~
@@ -396,20 +323,16 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 17321248
   en-lt:
-    alignments: 1879312
     downloads:
       alignments:
-        size: 11747533
+        size: 11638392
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-lt.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 103258840
+        size: 102393634
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/lt.zip
       tokenized source language:
         size: ~
@@ -417,20 +340,16 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 22509316
   en-lv:
-    alignments: 1879312
     downloads:
       alignments:
         size: 11301365
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-lv.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 101929551
+        size: 101929553
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/lv.zip
       tokenized source language:
         size: ~
@@ -438,20 +357,16 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 24001608
   en-mk:
-    alignments: 1879312
     downloads:
       alignments:
-        size: 11413926
+        size: 11262217
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-mk.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 110768169
+        size: 116866265
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/mk.zip
       tokenized source language:
         size: ~
@@ -459,20 +374,16 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 25143319
   en-mt:
-    alignments: 1879312
     downloads:
       alignments:
         size: 11191229
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-mt.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 105196949
+        size: 105196951
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/mt.zip
       tokenized source language:
         size: ~
@@ -480,20 +391,16 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 24708407
   en-nb:
-    alignments: 1879312
     downloads:
       alignments:
-        size: 11568310
+        size: 11386894
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-nb.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 96418096
+        size: 95984438
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/nb.zip
       tokenized source language:
         size: ~
@@ -501,20 +408,16 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 25934713
   en-nl:
-    alignments: 1879312
     downloads:
       alignments:
-        size: 11480304
+        size: 11210688
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-nl.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 100733882
+        size: 99658850
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/nl.zip
       tokenized source language:
         size: ~
@@ -522,20 +425,16 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 27817928
   en-nn:
-    alignments: 1879312
     downloads:
       alignments:
-        size: 11525346
+        size: 11277376
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-nn.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 98046735
+        size: 97231081
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/nn.zip
       tokenized source language:
         size: ~
@@ -543,20 +442,16 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 26231096
   en-pl:
-    alignments: 1879312
     downloads:
       alignments:
-        size: 11493071
+        size: 11312821
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-pl.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 105357921
+        size: 105627496
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/pl.zip
       tokenized source language:
         size: ~
@@ -564,20 +459,16 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 23536163
   en-pt:
-    alignments: 1879312
     downloads:
       alignments:
-        size: 11489924
+        size: 11217948
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-pt.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 101573628
+        size: 100516315
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/pt.zip
       tokenized source language:
         size: ~
@@ -585,20 +476,16 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 28679963
   en-ro:
-    alignments: 1879312
     downloads:
       alignments:
-        size: 11462834
+        size: 11254018
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-ro.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 98188238
+        size: 104024909
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/ro.zip
       tokenized source language:
         size: ~
@@ -606,20 +493,16 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 26383861
   en-sk:
-    alignments: 1879312
     downloads:
       alignments:
         size: 11246373
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-sk.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 105086649
+        size: 105086650
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/sk.zip
       tokenized source language:
         size: ~
@@ -627,20 +510,16 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 24867384
   en-sl:
-    alignments: 1879312
     downloads:
       alignments:
-        size: 11549036
+        size: 11378859
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-sl.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 98793542
+        size: 97827342
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/sl.zip
       tokenized source language:
         size: ~
@@ -648,20 +527,16 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 24603771
   en-sq:
-    alignments: 1879312
     downloads:
       alignments:
         size: 11199415
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-sq.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 103973815
+        size: 103973816
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/sq.zip
       tokenized source language:
         size: ~
@@ -669,20 +544,16 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 31411546
   en-sr_Cyrl:
-    alignments: 1879312
     downloads:
       alignments:
-        size: 11402778
+        size: 11255755
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-sr_Cyrl.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 109538637
+        size: 116241442
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/sr_Cyrl.zip
       tokenized source language:
         size: ~
@@ -690,20 +561,16 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 22898018
   en-sv:
-    alignments: 1879312
     downloads:
       alignments:
         size: 11223542
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-sv.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 97511947
+        size: 97511948
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/sv.zip
       tokenized source language:
         size: ~
@@ -711,20 +578,16 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 26598648
   en-tr:
-    alignments: 1879312
     downloads:
       alignments:
         size: 11358525
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-tr.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 100679391
+        size: 100679393
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/tr.zip
       tokenized source language:
         size: ~
@@ -732,20 +595,16 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 22423171
   en-uk:
-    alignments: 1879312
     downloads:
       alignments:
         size: 11283797
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/xml/en-uk.xml.gz
       source language:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
       target language:
-        size: 122695862
+        size: 122695863
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/uk.zip
       tokenized source language:
         size: ~
@@ -753,9 +612,6 @@ bitexts:
       tokenized target language:
         size: ~
         url: ~
-    files: 50000
-    source language tokens: 28357056
-    target language tokens: 24824412
 files: 1850000
 monolingual:
   bg:
@@ -765,7 +621,7 @@ monolingual:
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/bg.txt.gz
       tokenized xml: {}
       xml:
-        size: 120105372
+        size: 120105373
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/bg.zip
     files: 50000
     sentences: 866859
@@ -777,7 +633,7 @@ monolingual:
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/bs.txt.gz
       tokenized xml: {}
       xml:
-        size: 100386488
+        size: 100386490
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/bs.zip
     files: 50000
     sentences: 866859
@@ -785,15 +641,15 @@ monolingual:
   ca:
     downloads:
       plain text:
-        size: 66213056
+        size: 68065267
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/ca.txt.gz
       tokenized xml: {}
       xml:
-        size: 102855137
+        size: 101221938
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/ca.zip
     files: 50000
     sentences: 866859
-    tokens: 29625985
+    tokens: 30539970
   cs:
     downloads:
       plain text:
@@ -801,7 +657,7 @@ monolingual:
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/cs.txt.gz
       tokenized xml: {}
       xml:
-        size: 104440502
+        size: 104440503
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/cs.zip
     files: 50000
     sentences: 866859
@@ -813,7 +669,7 @@ monolingual:
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/da.txt.gz
       tokenized xml: {}
       xml:
-        size: 96946929
+        size: 96946930
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/da.zip
     files: 50000
     sentences: 866859
@@ -825,7 +681,7 @@ monolingual:
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/de.txt.gz
       tokenized xml: {}
       xml:
-        size: 105637458
+        size: 105637459
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/de.zip
     files: 50000
     sentences: 866859
@@ -837,7 +693,7 @@ monolingual:
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/el.txt.gz
       tokenized xml: {}
       xml:
-        size: 132230514
+        size: 132230515
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/el.zip
     files: 50000
     sentences: 866859
@@ -849,7 +705,7 @@ monolingual:
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/en.txt.gz
       tokenized xml: {}
       xml:
-        size: 94892110
+        size: 94892111
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/en.zip
     files: 50000
     sentences: 866859
@@ -861,7 +717,7 @@ monolingual:
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/es.txt.gz
       tokenized xml: {}
       xml:
-        size: 100894529
+        size: 100894530
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/es.zip
     files: 50000
     sentences: 866859
@@ -869,15 +725,15 @@ monolingual:
   et:
     downloads:
       plain text:
-        size: 38831620
+        size: 64453953
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/et.txt.gz
       tokenized xml: {}
       xml:
-        size: 67561490
+        size: 95888837
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/et.zip
     files: 50000
     sentences: 866859
-    tokens: 13278005
+    tokens: 22029008
   eu:
     downloads:
       plain text:
@@ -885,7 +741,7 @@ monolingual:
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/eu.txt.gz
       tokenized xml: {}
       xml:
-        size: 91878058
+        size: 91878059
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/eu.zip
     files: 50000
     sentences: 866859
@@ -897,7 +753,7 @@ monolingual:
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/fi.txt.gz
       tokenized xml: {}
       xml:
-        size: 100820293
+        size: 100820294
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/fi.zip
     files: 50000
     sentences: 866859
@@ -909,7 +765,7 @@ monolingual:
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/fr.txt.gz
       tokenized xml: {}
       xml:
-        size: 104567988
+        size: 104567989
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/fr.zip
     files: 50000
     sentences: 866859
@@ -921,7 +777,7 @@ monolingual:
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/ga.txt.gz
       tokenized xml: {}
       xml:
-        size: 105166848
+        size: 105166849
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/ga.zip
     files: 50000
     sentences: 866859
@@ -929,27 +785,27 @@ monolingual:
   gl:
     downloads:
       plain text:
-        size: 42518508
+        size: 66227242
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/gl.txt.gz
       tokenized xml: {}
       xml:
-        size: 71446678
+        size: 98491508
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/gl.zip
     files: 50000
     sentences: 866859
-    tokens: 18731812
+    tokens: 29195106
   hr:
     downloads:
       plain text:
-        size: 50120129
+        size: 66802317
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/hr.txt.gz
       tokenized xml: {}
       xml:
-        size: 81535386
+        size: 98800230
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/hr.zip
     files: 50000
     sentences: 866859
-    tokens: 18904585
+    tokens: 25305569
   hu:
     downloads:
       plain text:
@@ -969,7 +825,7 @@ monolingual:
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/is.txt.gz
       tokenized xml: {}
       xml:
-        size: 101358725
+        size: 101358726
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/is.zip
     files: 50000
     sentences: 866859
@@ -977,39 +833,39 @@ monolingual:
   it:
     downloads:
       plain text:
-        size: 65365496
+        size: 67894479
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/it.txt.gz
       tokenized xml: {}
       xml:
-        size: 101012833
+        size: 100399999
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/it.zip
     files: 50000
     sentences: 866859
-    tokens: 28262626
+    tokens: 29435653
   ka:
     downloads:
       plain text:
-        size: 70570267
+        size: 87437855
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/ka.txt.gz
       tokenized xml: {}
       xml:
-        size: 103942511
+        size: 120915881
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/ka.zip
     files: 50000
     sentences: 866859
-    tokens: 17321248
+    tokens: 21523964
   lt:
     downloads:
       plain text:
-        size: 66396984
+        size: 68730590
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/lt.txt.gz
       tokenized xml: {}
       xml:
-        size: 103258840
+        size: 102393634
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/lt.zip
     files: 50000
     sentences: 866859
-    tokens: 22509316
+    tokens: 23362745
   lv:
     downloads:
       plain text:
@@ -1017,7 +873,7 @@ monolingual:
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/lv.txt.gz
       tokenized xml: {}
       xml:
-        size: 101929551
+        size: 101929553
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/lv.zip
     files: 50000
     sentences: 866859
@@ -1025,15 +881,15 @@ monolingual:
   mk:
     downloads:
       plain text:
-        size: 72712453
+        size: 80956747
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/mk.txt.gz
       tokenized xml: {}
       xml:
-        size: 110768169
+        size: 116866265
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/mk.zip
     files: 50000
     sentences: 866859
-    tokens: 25143319
+    tokens: 28103114
   mt:
     downloads:
       plain text:
@@ -1041,7 +897,7 @@ monolingual:
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/mt.txt.gz
       tokenized xml: {}
       xml:
-        size: 105196949
+        size: 105196951
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/mt.zip
     files: 50000
     sentences: 866859
@@ -1049,75 +905,75 @@ monolingual:
   nb:
     downloads:
       plain text:
-        size: 62251299
+        size: 64840766
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/nb.txt.gz
       tokenized xml: {}
       xml:
-        size: 96418096
+        size: 95984438
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/nb.zip
     files: 50000
     sentences: 866859
-    tokens: 25934713
+    tokens: 27089473
   nl:
     downloads:
       plain text:
-        size: 66073680
+        size: 68185535
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/nl.txt.gz
       tokenized xml: {}
       xml:
-        size: 100733882
+        size: 99658850
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/nl.zip
     files: 50000
     sentences: 866859
-    tokens: 27817928
+    tokens: 28771059
   nn:
     downloads:
       plain text:
-        size: 63877686
+        size: 66072875
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/nn.txt.gz
       tokenized xml: {}
       xml:
-        size: 98046735
+        size: 97231081
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/nn.zip
     files: 50000
     sentences: 866859
-    tokens: 26231096
+    tokens: 27224488
   pl:
     downloads:
       plain text:
-        size: 67909963
+        size: 71174472
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/pl.txt.gz
       tokenized xml: {}
       xml:
-        size: 105357921
+        size: 105627496
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/pl.zip
     files: 50000
     sentences: 866859
-    tokens: 23536163
+    tokens: 24739406
   pt:
     downloads:
       plain text:
-        size: 65531995
+        size: 67762299
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/pt.txt.gz
       tokenized xml: {}
       xml:
-        size: 101573628
+        size: 100516315
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/pt.zip
     files: 50000
     sentences: 866859
-    tokens: 28679963
+    tokens: 29740479
   ro:
     downloads:
       plain text:
-        size: 63010765
+        size: 70642537
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/ro.txt.gz
       tokenized xml: {}
       xml:
-        size: 98188238
+        size: 104024909
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/ro.zip
     files: 50000
     sentences: 866859
-    tokens: 26383861
+    tokens: 29652404
   sk:
     downloads:
       plain text:
@@ -1125,7 +981,7 @@ monolingual:
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/sk.txt.gz
       tokenized xml: {}
       xml:
-        size: 105086649
+        size: 105086650
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/sk.zip
     files: 50000
     sentences: 866859
@@ -1133,15 +989,15 @@ monolingual:
   sl:
     downloads:
       plain text:
-        size: 63983098
+        size: 66092604
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/sl.txt.gz
       tokenized xml: {}
       xml:
-        size: 98793542
+        size: 97827342
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/sl.zip
     files: 50000
     sentences: 866859
-    tokens: 24603771
+    tokens: 25497038
   sq:
     downloads:
       plain text:
@@ -1149,7 +1005,7 @@ monolingual:
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/sq.txt.gz
       tokenized xml: {}
       xml:
-        size: 103973815
+        size: 103973816
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/sq.zip
     files: 50000
     sentences: 866859
@@ -1157,15 +1013,15 @@ monolingual:
   sr_Cyrl:
     downloads:
       plain text:
-        size: 71801367
+        size: 80383176
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/sr_Cyrl.txt.gz
       tokenized xml: {}
       xml:
-        size: 109538637
+        size: 116241442
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/sr_Cyrl.zip
     files: 50000
     sentences: 866859
-    tokens: 22898018
+    tokens: 25713301
   sv:
     downloads:
       plain text:
@@ -1173,7 +1029,7 @@ monolingual:
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/sv.txt.gz
       tokenized xml: {}
       xml:
-        size: 97511947
+        size: 97511948
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/sv.zip
     files: 50000
     sentences: 866859
@@ -1185,7 +1041,7 @@ monolingual:
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/tr.txt.gz
       tokenized xml: {}
       xml:
-        size: 100679391
+        size: 100679393
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/tr.zip
     files: 50000
     sentences: 866859
@@ -1197,262 +1053,117 @@ monolingual:
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/mono/uk.txt.gz
       tokenized xml: {}
       xml:
-        size: 122695862
+        size: 122695863
         url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/raw/uk.zip
     files: 50000
     sentences: 866859
     tokens: 24824412
 moses:
   en-bg:
-    alignments: 1879312
     download size: 147650047
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-bg.txt.zip
-    source language tokens: 28357056
-    target language tokens: 27712591
   en-bs:
-    alignments: 1879312
     download size: 132850322
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-bs.txt.zip
-    source language tokens: 28357056
-    target language tokens: 26279718
   en-ca:
-    alignments: 1879236
     download size: 130609592
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-ca.txt.zip
-    source language tokens: 28355732
-    target language tokens: 29625985
   en-cs:
-    alignments: 1879312
     download size: 134633442
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-cs.txt.zip
-    source language tokens: 28357056
-    target language tokens: 24655799
   en-da:
-    alignments: 1879312
     download size: 129859905
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-da.txt.zip
-    source language tokens: 28357056
-    target language tokens: 27232239
   en-de:
-    alignments: 1879312
     download size: 136495730
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-de.txt.zip
-    source language tokens: 28357056
-    target language tokens: 27429255
   en-el:
-    alignments: 1879311
     download size: 157659025
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-el.txt.zip
-    source language tokens: 28357043
-    target language tokens: 29822567
   en-es:
-    alignments: 1879312
     download size: 132456626
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-es.txt.zip
-    source language tokens: 28357056
-    target language tokens: 30867385
   en-et:
-    alignments: 1875260
     download size: 103129616
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-et.txt.zip
-    source language tokens: 28290299
-    target language tokens: 13277675
   en-eu:
-    alignments: 1879309
     download size: 124514980
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-eu.txt.zip
-    source language tokens: 28356771
-    target language tokens: 21081629
   en-fi:
-    alignments: 1879312
     download size: 133292275
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-fi.txt.zip
-    source language tokens: 28357056
-    target language tokens: 20750547
   en-fr:
-    alignments: 1879311
     download size: 135080261
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-fr.txt.zip
-    source language tokens: 28356999
-    target language tokens: 31469108
   en-ga:
-    alignments: 1879312
     download size: 134857211
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-ga.txt.zip
-    source language tokens: 28357056
-    target language tokens: 31967288
   en-gl:
-    alignments: 1531254
     download size: 94123639
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-gl.txt.zip
-    source language tokens: 22433270
-    target language tokens: 18731812
   en-hr:
-    alignments: 1876799
     download size: 114465529
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-hr.txt.zip
-    source language tokens: 28315380
-    target language tokens: 18904585
   en-hu:
-    alignments: 1879312
     download size: 134814696
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-hu.txt.zip
-    source language tokens: 28357056
-    target language tokens: 24121325
   en-is:
-    alignments: 1879311
     download size: 132118802
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-is.txt.zip
-    source language tokens: 28356923
-    target language tokens: 26541201
   en-it:
-    alignments: 1879122
     download size: 129765458
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-it.txt.zip
-    source language tokens: 28354020
-    target language tokens: 28262626
   en-ka:
-    alignments: 1874722
     download size: 134792927
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-ka.txt.zip
-    source language tokens: 28279607
-    target language tokens: 17321248
   en-lt:
-    alignments: 1879168
     download size: 130803264
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-lt.txt.zip
-    source language tokens: 28354784
-    target language tokens: 22508909
   en-lv:
-    alignments: 1879312
     download size: 132484635
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-lv.txt.zip
-    source language tokens: 28357056
-    target language tokens: 24001608
   en-mk:
-    alignments: 1877561
     download size: 136984747
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-mk.txt.zip
-    source language tokens: 28327724
-    target language tokens: 25143319
   en-mt:
-    alignments: 1879312
     download size: 135302425
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-mt.txt.zip
-    source language tokens: 28357056
-    target language tokens: 24708407
   en-nb:
-    alignments: 1879102
     download size: 126669254
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-nb.txt.zip
-    source language tokens: 28353570
-    target language tokens: 25934713
   en-nl:
-    alignments: 1879218
     download size: 130489275
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-nl.txt.zip
-    source language tokens: 28355382
-    target language tokens: 27817525
   en-nn:
-    alignments: 1879189
     download size: 128298334
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-nn.txt.zip
-    source language tokens: 28355069
-    target language tokens: 26231096
   en-pl:
-    alignments: 1878899
     download size: 132302251
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-pl.txt.zip
-    source language tokens: 28349808
-    target language tokens: 23536163
   en-pt:
-    alignments: 1879154
     download size: 129928657
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-pt.txt.zip
-    source language tokens: 28354590
-    target language tokens: 28679963
   en-ro:
-    alignments: 1878114
     download size: 127371672
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-ro.txt.zip
-    source language tokens: 28337074
-    target language tokens: 26383861
   en-sk:
-    alignments: 1879312
     download size: 135100081
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-sk.txt.zip
-    source language tokens: 28357056
-    target language tokens: 24867384
   en-sl:
-    alignments: 1879177
     download size: 128408861
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-sl.txt.zip
-    source language tokens: 28355094
-    target language tokens: 24603771
   en-sq:
-    alignments: 1879312
     download size: 135912255
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-sq.txt.zip
-    source language tokens: 28357056
-    target language tokens: 31411546
   en-sr_Cyrl:
-    alignments: 1877814
     download size: 136084775
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-sr_Cyrl.txt.zip
-    source language tokens: 28330905
-    target language tokens: 22898018
   en-sv:
-    alignments: 1879312
     download size: 130257516
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-sv.txt.zip
-    source language tokens: 28357056
-    target language tokens: 26598648
   en-tr:
-    alignments: 1879312
     download size: 130648950
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-tr.txt.zip
-    source language tokens: 28357056
-    target language tokens: 22423171
   en-uk:
-    alignments: 1879312
     download size: 148968617
     download url: https://object.pouta.csc.fi/synOPUS-nemotron-cc-10K-sample/v1syn/moses/en-uk.txt.zip
-    source language tokens: 28357056
-    target language tokens: 24824412
-tmx:
-  en-bg: {}
-  en-bs: {}
-  en-ca: {}
-  en-cs: {}
-  en-da: {}
-  en-de: {}
-  en-el: {}
-  en-es: {}
-  en-et: {}
-  en-eu: {}
-  en-fi: {}
-  en-fr: {}
-  en-ga: {}
-  en-gl: {}
-  en-hr: {}
-  en-hu: {}
-  en-is: {}
-  en-it: {}
-  en-ka: {}
-  en-lt: {}
-  en-lv: {}
-  en-mk: {}
-  en-mt: {}
-  en-nb: {}
-  en-nl: {}
-  en-nn: {}
-  en-pl: {}
-  en-pt: {}
-  en-ro: {}
-  en-sk: {}
-  en-sl: {}
-  en-sq: {}
-  en-sr_Cyrl: {}
-  en-sv: {}
-  en-tr: {}
-  en-uk: {}
