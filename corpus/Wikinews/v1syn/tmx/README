@@ -1,0 +1,14 @@
+ Corpus Name: Wikinews
+     Package: Wikinews in TMX format
+     Website: http://opus.nlpl.eu/legacy/Wikinews-v1syn.php
+     Release: v1syn
+Release date: Fri Apr  4 03:05:43 EEST 2025
+     License: <a href=https://creativecommons.org/licenses/by-sa/4.0/>CC-BY-SA 4.0</a>
+
+This package is part of synOPUS - the open collection of synthetic parallel corpora
+OPUS Website: http://opus.nlpl.eu/synthetic
+
+Please, acknowledge the Wikimedia Foundation for the data and cite the following paper if you use data from this distribution: <pre> @inproceedings{tiedemann-2020-ttc,<br/> title = "The {T}atoeba {T}ranslation {C}hallenge -- {R}ealistic Data Sets for Low Resource and Multilingual {MT}",<br/> author = {Tiedemann, J{\"o}rg},<br/> booktitle = "Proceedings of the Fifth Conference on Machine Translation (Volume 1: Research Papers)", year = "2020",<br/> publisher = "Association for Computational Linguistics",<br/> url = {https://arxiv.org/abs/2010.06354}<br/> } </pre>
+
+Automatically translated data sets that can be used for data augmentation Translations have been done with models trained on the Tatoeba MT challenge data. We include translations of Wikipedia, WikiSource, WikiBooks, WikiNews and WikiQuote (if available for the source language we translate from). Translations are done on shuffled, de-duplicated data sets and they come in blocks of at most one million sentences per file. The original datasets are taken from cirrussearch wiki dumps. The original back-translations have been checked with the heliport language identification tool and mismatched sentence pairs are excluded from this distribution.
+Source languages:  Target languages: 
