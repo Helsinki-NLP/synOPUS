@@ -1,0 +1,88 @@
+---
+alignments: 25955130780
+language pairs:
+  - en-is
+  - en-mt
+  - en-pt
+  - en-hr
+  - en-nn
+  - en-mk
+  - en-pl
+  - en-de
+  - en-sv
+  - en-gl
+  - en-tr
+  - en-fi
+  - en-ga
+  - en-lt
+  - en-nl
+  - en-eu
+  - en-it
+  - en-ro
+  - en-sq
+  - en-bg
+  - en-hu
+  - en-da
+  - en-sr_Cyrl
+  - en-et
+  - en-uk
+  - en-ka
+  - en-lv
+  - en-el
+  - en-es
+  - en-sk
+  - en-fr
+  - en-ca
+  - en-cs
+  - en-nb
+  - en-bs
+  - en-sl
+languages:
+  - nl
+  - hu
+  - eu
+  - uk
+  - nb
+  - nn
+  - bg
+  - sl
+  - cs
+  - ro
+  - sq
+  - pl
+  - ca
+  - es
+  - pt
+  - lt
+  - gl
+  - sk
+  - is
+  - mt
+  - it
+  - en
+  - ka
+  - da
+  - sv
+  - et
+  - el
+  - fi
+  - bs
+  - mk
+  - lv
+  - sr_Cyrl
+  - fr
+  - tr
+  - hr
+  - ga
+  - de
+license: '<a href=https://creativecommons.org/licenses/by/4.0/>CC-BY 4.0</a>'
+moses alignments: 0
+name: transweb-edu
+number of language pairs: 36
+number of languages: 37
+release: v1syn
+release date: Sun Sep 21 15:05:26 EEST 2025
+sentences: 19893382589
+tokens: 962502347657
+translation units: 0
+website: http://opus.nlpl.eu/legacy/transweb-edu-v1syn.php

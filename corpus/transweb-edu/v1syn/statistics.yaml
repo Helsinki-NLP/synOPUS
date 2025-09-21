@@ -1,0 +1,1227 @@
+---
+bitexts:
+  en-bg:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-bg.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 4463
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/bg.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 27357537367
+  en-bs:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-bs.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/bs.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 23466224494
+  en-ca:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-ca.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 3720
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/ca.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 30549832063
+  en-cs:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-cs.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 3905
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/cs.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 24099300426
+  en-da:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-da.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 3534
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/da.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 26481199077
+  en-de:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-de.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 3906
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/de.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 26975042193
+  en-el:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-el.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 4650
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/el.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 28972795274
+  en-es:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-es.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 3720
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/es.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 30891884239
+  en-et:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-et.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/et.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 21223130118
+  en-eu:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-eu.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 3330
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/eu.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 19920710468
+  en-fi:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-fi.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 3720
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/fi.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 20331356918
+  en-fr:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-fr.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 3905
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/fr.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 31037194420
+  en-ga:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-ga.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 3720
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/ga.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 30573258359
+  en-gl:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-gl.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 3534
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/gl.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 28885183650
+  en-hr:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-hr.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 3719
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/hr.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 24877623416
+  en-hu:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-hu.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 3906
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/hu.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 23898990007
+  en-is:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-is.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 3719
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/is.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 25081177512
+  en-it:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-it.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 3720
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/it.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 29185501258
+  en-ka:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-ka.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 4464
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/ka.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 21212746088
+  en-lt:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-lt.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 3720
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/lt.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 22795697867
+  en-lv:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-lv.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 3720
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/lv.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 23227600279
+  en-mk:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-mk.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 4278
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/mk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 28232502116
+  en-mt:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-mt.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 3720
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/mt.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 23780207761
+  en-nb:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-nb.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/nb.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 26358589174
+  en-nl:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-nl.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 3720
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/nl.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 28449344571
+  en-nn:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-nn.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/nn.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 26389105140
+  en-pl:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-pl.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 3906
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/pl.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 24429379541
+  en-pt:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-pt.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 3720
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/pt.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 29502781673
+  en-ro:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-ro.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 3905
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/ro.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 29195707038
+  en-sk:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-sk.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 3906
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/sk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 24318731655
+  en-sl:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-sl.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 3534
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/sl.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 25046239868
+  en-sq:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-sq.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 3720
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/sq.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 30211342577
+  en-sr_Cyrl:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 390
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-sr_Cyrl.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 4393
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/sr_Cyrl.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 25209922180
+  en-sv:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-sv.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 3534
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/sv.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 25875435985
+  en-tr:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-tr.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 3720
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/tr.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 22159621512
+  en-uk:
+    alignments: 720975855
+    downloads:
+      alignments:
+        size: 380
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/xml/en-uk.xml.gz
+      source language:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+      target language:
+        size: 4464
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/uk.zip
+      tokenized source language:
+        size: ~
+        url: ~
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 36704000
+    source language tokens: 28099319246
+    target language tokens: 24200132127
+files: 1247424518
+monolingual:
+  bg:
+    downloads:
+      plain text:
+        size: 3024
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/mono/bg.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 4463
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/bg.zip
+    files: 36704000
+    sentences: 720975855
+    tokens: 27357537367
+  bs:
+    downloads:
+      plain text:
+        size: 2268
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/mono/bs.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/bs.zip
+    files: 24412513
+    sentences: 36704000
+    tokens: 23466224494
+  ca:
+    downloads:
+      plain text:
+        size: 2457
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/mono/ca.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 3720
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/ca.zip
+    files: 36704000
+    sentences: 720975855
+    tokens: 30549832063
+  cs:
+    downloads:
+      plain text:
+        size: 2645
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/mono/cs.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 3905
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/cs.zip
+    files: 36704000
+    sentences: 720975855
+    tokens: 24099300426
+  da:
+    downloads:
+      plain text:
+        size: 2457
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/mono/da.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 3534
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/da.zip
+    files: 36704000
+    sentences: 720975855
+    tokens: 26481199077
+  de:
+    downloads:
+      plain text:
+        size: 2646
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/mono/de.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 3906
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/de.zip
+    files: 24412513
+    sentences: 36704000
+    tokens: 26975042193
+  el:
+    downloads:
+      plain text:
+        size: 3401
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/mono/el.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 4650
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/el.zip
+    files: 36704000
+    sentences: 720975855
+    tokens: 28972795274
+  en:
+    downloads:
+      plain text:
+        size: 2456
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/mono/en.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
+    files: 36704000
+    sentences: 720975855
+    tokens: 28099319246
+  es:
+    downloads:
+      plain text:
+        size: 2457
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/mono/es.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 3720
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/es.zip
+    files: 36704000
+    sentences: 720975855
+    tokens: 30891884239
+  et:
+    downloads:
+      plain text:
+        size: 2456
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/mono/et.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/et.zip
+    files: 36704000
+    sentences: 720975855
+    tokens: 21223130118
+  eu:
+    downloads:
+      plain text:
+        size: 2079
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/mono/eu.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 3330
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/eu.zip
+    files: 36704000
+    sentences: 720975855
+    tokens: 19920710468
+  fi:
+    downloads:
+      plain text:
+        size: 2457
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/mono/fi.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 3720
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/fi.zip
+    files: 36704000
+    sentences: 720975855
+    tokens: 20331356918
+  fr:
+    downloads:
+      plain text:
+        size: 2646
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/mono/fr.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 3905
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/fr.zip
+    files: 36704000
+    sentences: 720975855
+    tokens: 31037194420
+  ga:
+    downloads:
+      plain text:
+        size: 2457
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/mono/ga.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 3720
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/ga.zip
+    files: 36704000
+    sentences: 720975855
+    tokens: 30573258359
+  gl:
+    downloads:
+      plain text:
+        size: 2457
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/mono/gl.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 3534
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/gl.zip
+    files: 36704000
+    sentences: 720975855
+    tokens: 28885183650
+  hr:
+    downloads:
+      plain text:
+        size: 2457
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/mono/hr.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 3719
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/hr.zip
+    files: 24412513
+    sentences: 36704000
+    tokens: 24877623416
+  hu:
+    downloads:
+      plain text:
+        size: 2646
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/mono/hu.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 3906
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/hu.zip
+    files: 36704000
+    sentences: 720975855
+    tokens: 23898990007
+  is:
+    downloads:
+      plain text:
+        size: 2457
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/mono/is.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 3719
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/is.zip
+    files: 36704000
+    sentences: 720975855
+    tokens: 25081177512
+  it:
+    downloads:
+      plain text:
+        size: 2457
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/mono/it.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 3720
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/it.zip
+    files: 36704000
+    sentences: 720975855
+    tokens: 29185501258
+  ka:
+    downloads:
+      plain text:
+        size: 3213
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/mono/ka.txt.gz
+      tokenized xml: {}
+      xml:
+        size: 4464
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/ka.zip
+    files: 24412486
+    sentences: 36704000
+    tokens: 21212746088
+  lt:
+    downloads:
+      tokenized xml: {}
+      xml:
+        size: 3720
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/lt.zip
+    files: 36704000
+    sentences: 720975855
+    tokens: 22795697867
+  lv:
+    downloads:
+      tokenized xml: {}
+      xml:
+        size: 3720
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/lv.zip
+    files: 24412513
+    sentences: 36704000
+    tokens: 23227600279
+  mk:
+    downloads:
+      tokenized xml: {}
+      xml:
+        size: 4278
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/mk.zip
+    files: 24412443
+    sentences: 36704000
+    tokens: 28232502116
+  mt:
+    downloads:
+      tokenized xml: {}
+      xml:
+        size: 3720
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/mt.zip
+    files: 36704000
+    sentences: 720975855
+    tokens: 23780207761
+  nb:
+    downloads:
+      tokenized xml: {}
+      xml:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/nb.zip
+    files: 36704000
+    sentences: 720975855
+    tokens: 26358589174
+  nl:
+    downloads:
+      tokenized xml: {}
+      xml:
+        size: 3720
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/nl.zip
+    files: 36704000
+    sentences: 720975855
+    tokens: 28449344571
+  nn:
+    downloads:
+      tokenized xml: {}
+      xml:
+        size: 3515
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/nn.zip
+    files: 36704000
+    sentences: 720975855
+    tokens: 26389105140
+  pl:
+    downloads:
+      tokenized xml: {}
+      xml:
+        size: 3906
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/pl.zip
+    files: 24412513
+    sentences: 36704000
+    tokens: 24429379541
+  pt:
+    downloads:
+      tokenized xml: {}
+      xml:
+        size: 3720
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/pt.zip
+    files: 36704000
+    sentences: 720975855
+    tokens: 29502781673
+  ro:
+    downloads:
+      tokenized xml: {}
+      xml:
+        size: 3905
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/ro.zip
+    files: 36704000
+    sentences: 720975855
+    tokens: 29195707038
+  sk:
+    downloads:
+      tokenized xml: {}
+      xml:
+        size: 3906
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/sk.zip
+    files: 36704000
+    sentences: 720975855
+    tokens: 24318731655
+  sl:
+    downloads:
+      tokenized xml: {}
+      xml:
+        size: 3534
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/sl.zip
+    files: 24412513
+    sentences: 36704000
+    tokens: 25046239868
+  sq:
+    downloads:
+      tokenized xml: {}
+      xml:
+        size: 3720
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/sq.zip
+    files: 36704000
+    sentences: 720975855
+    tokens: 30211342577
+  sr_Cyrl:
+    downloads:
+      tokenized xml: {}
+      xml:
+        size: 4393
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/sr_Cyrl.zip
+    files: 36704000
+    sentences: 96698504
+    tokens: 25209922180
+  sv:
+    downloads:
+      tokenized xml: {}
+      xml:
+        size: 3534
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/sv.zip
+    files: 36704000
+    sentences: 720975855
+    tokens: 25875435985
+  tr:
+    downloads:
+      tokenized xml: {}
+      xml:
+        size: 3720
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/tr.zip
+    files: 36704000
+    sentences: 720975855
+    tokens: 22159621512
+  uk:
+    downloads:
+      tokenized xml: {}
+      xml:
+        size: 4464
+        url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/uk.zip
+    files: 24412511
+    sentences: 36704000
+    tokens: 24200132127
+moses:
+  en-bg: {}
+  en-bs: {}
+  en-ca: {}
+  en-cs: {}
+  en-da: {}
+  en-de: {}
+  en-el: {}
+  en-es: {}
+  en-et: {}
+  en-eu: {}
+  en-fi: {}
+  en-fr: {}
+  en-ga: {}
+  en-gl: {}
+  en-hr: {}
+  en-hu: {}
+  en-is: {}
+  en-it: {}
+  en-ka: {}
+  en-lt: {}
+  en-lv: {}
+  en-mk: {}
+  en-mt: {}
+  en-nb: {}
+  en-nl: {}
+  en-nn: {}
+  en-pl: {}
+  en-pt: {}
+  en-ro: {}
+  en-sk: {}
+  en-sl: {}
+  en-sq: {}
+  en-sr_Cyrl: {}
+  en-sv: {}
+  en-tr: {}
+  en-uk: {}
+tmx:
+  en-bg: {}
+  en-bs: {}
+  en-ca: {}
+  en-cs: {}
+  en-da: {}
+  en-de: {}
+  en-el: {}
+  en-es: {}
+  en-et: {}
+  en-eu: {}
+  en-fi: {}
+  en-fr: {}
+  en-ga: {}
+  en-gl: {}
+  en-hr: {}
+  en-hu: {}
+  en-is: {}
+  en-it: {}
+  en-ka: {}
+  en-lt: {}
+  en-lv: {}
+  en-mk: {}
+  en-mt: {}
+  en-nb: {}
+  en-nl: {}
+  en-nn: {}
+  en-pl: {}
+  en-pt: {}
+  en-ro: {}
+  en-sk: {}
+  en-sl: {}
+  en-sq: {}
+  en-sr_Cyrl: {}
+  en-sv: {}
+  en-tr: {}
+  en-uk: {}

@@ -1,0 +1,78 @@
+ Corpus Name: transweb-edu
+     Website: http://opus.nlpl.eu/legacy/transweb-edu-v1syn.php
+     Release: v1syn
+Release date: Sun Sep 21 15:05:26 EEST 2025
+     License: <a href=https://creativecommons.org/licenses/by/4.0/>CC-BY 4.0</a>
+
+This package is part of synOPUS - the open collection of synthetic parallel corpora
+OPUS Website: http://opus.nlpl.eu/synthetic
+
+Please <a href="http://opus.lingfil.uu.se/LREC2012.txt">cite the following article</a> if you use the OPUS packages and downloads in your own work:<br/> J. Tiedemann, 2012, <a href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/463_Paper.pdf"><i>Parallel Data, Tools and Interfaces in OPUS.</i></a> In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)<br/>
+
+Automatically translated data from a subset of fineweb-edu. Translations are done by OPUS-MT models selected from the OPUS-MT Dashboard.
+
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+mono ...... monolingual text files
+freq ...... token frequencies
+-----------------------------
+Files in this release
+-----------------------------
+transweb-edu/v1syn/mono/bg.txt.gz
+transweb-edu/v1syn/mono/bs.txt.gz
+transweb-edu/v1syn/mono/ca.txt.gz
+transweb-edu/v1syn/mono/cs.txt.gz
+transweb-edu/v1syn/mono/da.txt.gz
+transweb-edu/v1syn/mono/de.txt.gz
+transweb-edu/v1syn/mono/el.txt.gz
+transweb-edu/v1syn/mono/en.txt.gz
+transweb-edu/v1syn/mono/es.txt.gz
+transweb-edu/v1syn/mono/et.txt.gz
+transweb-edu/v1syn/mono/eu.txt.gz
+transweb-edu/v1syn/mono/fi.txt.gz
+transweb-edu/v1syn/mono/fr.txt.gz
+transweb-edu/v1syn/mono/ga.txt.gz
+transweb-edu/v1syn/mono/gl.txt.gz
+transweb-edu/v1syn/mono/hr.txt.gz
+transweb-edu/v1syn/mono/hu.txt.gz
+transweb-edu/v1syn/mono/is.txt.gz
+transweb-edu/v1syn/mono/it.txt.gz
+transweb-edu/v1syn/mono/ka.txt.gz
+transweb-edu/v1syn/raw/bg.zip
+transweb-edu/v1syn/raw/bs.zip
+transweb-edu/v1syn/raw/ca.zip
+transweb-edu/v1syn/raw/cs.zip
+transweb-edu/v1syn/raw/da.zip
+transweb-edu/v1syn/raw/de.zip
+transweb-edu/v1syn/raw/el.zip
+transweb-edu/v1syn/raw/en.zip
+transweb-edu/v1syn/raw/es.zip
+transweb-edu/v1syn/raw/et.zip
+transweb-edu/v1syn/raw/eu.zip
+transweb-edu/v1syn/raw/fi.zip
+transweb-edu/v1syn/raw/fr.zip
+transweb-edu/v1syn/raw/ga.zip
+transweb-edu/v1syn/raw/gl.zip
+transweb-edu/v1syn/raw/hr.zip
+transweb-edu/v1syn/raw/hu.zip
+transweb-edu/v1syn/raw/is.zip
+transweb-edu/v1syn/raw/it.zip
+transweb-edu/v1syn/raw/ka.zip
+transweb-edu/v1syn/raw/lt.zip
+transweb-edu/v1syn/raw/lv.zip
+transweb-edu/v1syn/raw/mk.zip
+transweb-edu/v1syn/raw/mt.zip
+transweb-edu/v1syn/raw/nb.zip
+transweb-edu/v1syn/raw/nl.zip
+transweb-edu/v1syn/raw/nn.zip
+transweb-edu/v1syn/raw/pl.zip
+transweb-edu/v1syn/raw/pt.zip
+transweb-edu/v1syn/raw/ro.zip
+transweb-edu/v1syn/raw/sk.zip
+transweb-edu/v1syn/raw/sl.zip
+transweb-edu/v1syn/raw/sq.zip
+transweb-edu/v1syn/raw/sr_Cyrl.zip
+transweb-edu/v1syn/raw/sv.zip
+transweb-edu/v1syn/raw/tr.zip
+transweb-edu/v1syn/raw/uk.zip
