@@ -1,7 +1,7 @@
 ---
 bitexts:
   en-bg:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -20,9 +20,9 @@ bitexts:
         url: ~
     files: 36704000
     source language tokens: 28099319246
-    target language tokens: 27357537367
+    target language tokens: 27357537342
   en-bs:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -41,9 +41,9 @@ bitexts:
         url: ~
     files: 36704000
     source language tokens: 28099319246
-    target language tokens: 23466224494
+    target language tokens: 23466224505
   en-ca:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -64,7 +64,7 @@ bitexts:
     source language tokens: 28099319246
     target language tokens: 30549832063
   en-cs:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -85,7 +85,7 @@ bitexts:
     source language tokens: 28099319246
     target language tokens: 24099300426
   en-da:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -104,9 +104,9 @@ bitexts:
         url: ~
     files: 36704000
     source language tokens: 28099319246
-    target language tokens: 26481199077
+    target language tokens: 26481199065
   en-de:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -125,9 +125,9 @@ bitexts:
         url: ~
     files: 36704000
     source language tokens: 28099319246
-    target language tokens: 26975042193
+    target language tokens: 26975042188
   en-el:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -148,7 +148,7 @@ bitexts:
     source language tokens: 28099319246
     target language tokens: 28972795274
   en-es:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -169,7 +169,7 @@ bitexts:
     source language tokens: 28099319246
     target language tokens: 30891884239
   en-et:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -188,9 +188,9 @@ bitexts:
         url: ~
     files: 36704000
     source language tokens: 28099319246
-    target language tokens: 21223130118
+    target language tokens: 21223130115
   en-eu:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -211,7 +211,7 @@ bitexts:
     source language tokens: 28099319246
     target language tokens: 19920710468
   en-fi:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -230,9 +230,9 @@ bitexts:
         url: ~
     files: 36704000
     source language tokens: 28099319246
-    target language tokens: 20331356918
+    target language tokens: 20331356931
   en-fr:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -251,9 +251,9 @@ bitexts:
         url: ~
     files: 36704000
     source language tokens: 28099319246
-    target language tokens: 31037194420
+    target language tokens: 31037194456
   en-ga:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -272,9 +272,9 @@ bitexts:
         url: ~
     files: 36704000
     source language tokens: 28099319246
-    target language tokens: 30573258359
+    target language tokens: 30573258363
   en-gl:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -293,9 +293,9 @@ bitexts:
         url: ~
     files: 36704000
     source language tokens: 28099319246
-    target language tokens: 28885183650
+    target language tokens: 28885183652
   en-hr:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -314,9 +314,9 @@ bitexts:
         url: ~
     files: 36704000
     source language tokens: 28099319246
-    target language tokens: 24877623416
+    target language tokens: 24877623396
   en-hu:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -335,9 +335,9 @@ bitexts:
         url: ~
     files: 36704000
     source language tokens: 28099319246
-    target language tokens: 23898990007
+    target language tokens: 23898990023
   en-is:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -356,9 +356,9 @@ bitexts:
         url: ~
     files: 36704000
     source language tokens: 28099319246
-    target language tokens: 25081177512
+    target language tokens: 25081177479
   en-it:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -377,9 +377,9 @@ bitexts:
         url: ~
     files: 36704000
     source language tokens: 28099319246
-    target language tokens: 29185501258
+    target language tokens: 29185501261
   en-ka:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -398,9 +398,9 @@ bitexts:
         url: ~
     files: 36704000
     source language tokens: 28099319246
-    target language tokens: 21212746088
+    target language tokens: 21212746083
   en-lt:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -421,7 +421,7 @@ bitexts:
     source language tokens: 28099319246
     target language tokens: 22795697867
   en-lv:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -442,7 +442,7 @@ bitexts:
     source language tokens: 28099319246
     target language tokens: 23227600279
   en-mk:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -461,9 +461,9 @@ bitexts:
         url: ~
     files: 36704000
     source language tokens: 28099319246
-    target language tokens: 28232502116
+    target language tokens: 28232502118
   en-mt:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -472,7 +472,7 @@ bitexts:
         size: 3515
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
       target language:
-        size: 3720
+        size: 3904
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/mt.zip
       tokenized source language:
         size: ~
@@ -482,9 +482,9 @@ bitexts:
         url: ~
     files: 36704000
     source language tokens: 28099319246
-    target language tokens: 23780207761
+    target language tokens: 23780207763
   en-nb:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -505,7 +505,7 @@ bitexts:
     source language tokens: 28099319246
     target language tokens: 26358589174
   en-nl:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -524,9 +524,9 @@ bitexts:
         url: ~
     files: 36704000
     source language tokens: 28099319246
-    target language tokens: 28449344571
+    target language tokens: 28449344596
   en-nn:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -545,9 +545,9 @@ bitexts:
         url: ~
     files: 36704000
     source language tokens: 28099319246
-    target language tokens: 26389105140
+    target language tokens: 26389105130
   en-pl:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -568,7 +568,7 @@ bitexts:
     source language tokens: 28099319246
     target language tokens: 24429379541
   en-pt:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -587,9 +587,9 @@ bitexts:
         url: ~
     files: 36704000
     source language tokens: 28099319246
-    target language tokens: 29502781673
+    target language tokens: 29502781696
   en-ro:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -608,9 +608,9 @@ bitexts:
         url: ~
     files: 36704000
     source language tokens: 28099319246
-    target language tokens: 29195707038
+    target language tokens: 29195707068
   en-sk:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -629,9 +629,9 @@ bitexts:
         url: ~
     files: 36704000
     source language tokens: 28099319246
-    target language tokens: 24318731655
+    target language tokens: 24318731680
   en-sl:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -650,9 +650,9 @@ bitexts:
         url: ~
     files: 36704000
     source language tokens: 28099319246
-    target language tokens: 25046239868
+    target language tokens: 25046239885
   en-sq:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -673,7 +673,7 @@ bitexts:
     source language tokens: 28099319246
     target language tokens: 30211342577
   en-sr_Cyrl:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 390
@@ -694,7 +694,7 @@ bitexts:
     source language tokens: 28099319246
     target language tokens: 25209922180
   en-sv:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -713,9 +713,9 @@ bitexts:
         url: ~
     files: 36704000
     source language tokens: 28099319246
-    target language tokens: 25875435985
+    target language tokens: 25875435984
   en-tr:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -734,9 +734,9 @@ bitexts:
         url: ~
     files: 36704000
     source language tokens: 28099319246
-    target language tokens: 22159621512
+    target language tokens: 22159621525
   en-uk:
-    alignments: 720975855
+    alignments: 1631801020
     downloads:
       alignments:
         size: 380
@@ -756,7 +756,7 @@ bitexts:
     files: 36704000
     source language tokens: 28099319246
     target language tokens: 24200132127
-files: 1247424518
+files: 1358048000
 monolingual:
   bg:
     downloads:
@@ -768,8 +768,8 @@ monolingual:
         size: 4463
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/bg.zip
     files: 36704000
-    sentences: 720975855
-    tokens: 27357537367
+    sentences: 1592720808
+    tokens: 27357537342
   bs:
     downloads:
       plain text:
@@ -779,9 +779,9 @@ monolingual:
       xml:
         size: 3515
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/bs.zip
-    files: 24412513
-    sentences: 36704000
-    tokens: 23466224494
+    files: 36704000
+    sentences: 45179779
+    tokens: 23466224505
   ca:
     downloads:
       plain text:
@@ -792,7 +792,7 @@ monolingual:
         size: 3720
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/ca.zip
     files: 36704000
-    sentences: 720975855
+    sentences: 1617520854
     tokens: 30549832063
   cs:
     downloads:
@@ -804,7 +804,7 @@ monolingual:
         size: 3905
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/cs.zip
     files: 36704000
-    sentences: 720975855
+    sentences: 1584856461
     tokens: 24099300426
   da:
     downloads:
@@ -816,8 +816,8 @@ monolingual:
         size: 3534
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/da.zip
     files: 36704000
-    sentences: 720975855
-    tokens: 26481199077
+    sentences: 1612301126
+    tokens: 26481199065
   de:
     downloads:
       plain text:
@@ -827,9 +827,9 @@ monolingual:
       xml:
         size: 3906
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/de.zip
-    files: 24412513
-    sentences: 36704000
-    tokens: 26975042193
+    files: 36704000
+    sentences: 55960115
+    tokens: 26975042188
   el:
     downloads:
       plain text:
@@ -840,7 +840,7 @@ monolingual:
         size: 4650
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/el.zip
     files: 36704000
-    sentences: 720975855
+    sentences: 1512946064
     tokens: 28972795274
   en:
     downloads:
@@ -852,7 +852,7 @@ monolingual:
         size: 3515
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/en.zip
     files: 36704000
-    sentences: 720975855
+    sentences: 1631801020
     tokens: 28099319246
   es:
     downloads:
@@ -864,7 +864,7 @@ monolingual:
         size: 3720
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/es.zip
     files: 36704000
-    sentences: 720975855
+    sentences: 1541783912
     tokens: 30891884239
   et:
     downloads:
@@ -876,8 +876,8 @@ monolingual:
         size: 3515
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/et.zip
     files: 36704000
-    sentences: 720975855
-    tokens: 21223130118
+    sentences: 1595963921
+    tokens: 21223130115
   eu:
     downloads:
       plain text:
@@ -888,7 +888,7 @@ monolingual:
         size: 3330
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/eu.zip
     files: 36704000
-    sentences: 720975855
+    sentences: 1386974960
     tokens: 19920710468
   fi:
     downloads:
@@ -900,8 +900,8 @@ monolingual:
         size: 3720
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/fi.zip
     files: 36704000
-    sentences: 720975855
-    tokens: 20331356918
+    sentences: 1569718033
+    tokens: 20331356931
   fr:
     downloads:
       plain text:
@@ -912,8 +912,8 @@ monolingual:
         size: 3905
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/fr.zip
     files: 36704000
-    sentences: 720975855
-    tokens: 31037194420
+    sentences: 1553821229
+    tokens: 31037194456
   ga:
     downloads:
       plain text:
@@ -924,8 +924,8 @@ monolingual:
         size: 3720
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/ga.zip
     files: 36704000
-    sentences: 720975855
-    tokens: 30573258359
+    sentences: 1356369330
+    tokens: 30573258363
   gl:
     downloads:
       plain text:
@@ -936,8 +936,8 @@ monolingual:
         size: 3534
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/gl.zip
     files: 36704000
-    sentences: 720975855
-    tokens: 28885183650
+    sentences: 1577800677
+    tokens: 28885183652
   hr:
     downloads:
       plain text:
@@ -947,9 +947,9 @@ monolingual:
       xml:
         size: 3719
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/hr.zip
-    files: 24412513
-    sentences: 36704000
-    tokens: 24877623416
+    files: 36704000
+    sentences: 54682369
+    tokens: 24877623396
   hu:
     downloads:
       plain text:
@@ -960,8 +960,8 @@ monolingual:
         size: 3906
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/hu.zip
     files: 36704000
-    sentences: 720975855
-    tokens: 23898990007
+    sentences: 1603365067
+    tokens: 23898990023
   is:
     downloads:
       plain text:
@@ -972,8 +972,8 @@ monolingual:
         size: 3719
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/is.zip
     files: 36704000
-    sentences: 720975855
-    tokens: 25081177512
+    sentences: 1417129996
+    tokens: 25081177479
   it:
     downloads:
       plain text:
@@ -984,8 +984,8 @@ monolingual:
         size: 3720
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/it.zip
     files: 36704000
-    sentences: 720975855
-    tokens: 29185501258
+    sentences: 1585125720
+    tokens: 29185501261
   ka:
     downloads:
       plain text:
@@ -995,9 +995,9 @@ monolingual:
       xml:
         size: 4464
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/ka.zip
-    files: 24412486
-    sentences: 36704000
-    tokens: 21212746088
+    files: 36704000
+    sentences: 41469325
+    tokens: 21212746083
   lt:
     downloads:
       tokenized xml: {}
@@ -1005,7 +1005,7 @@ monolingual:
         size: 3720
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/lt.zip
     files: 36704000
-    sentences: 720975855
+    sentences: 1669421183
     tokens: 22795697867
   lv:
     downloads:
@@ -1013,8 +1013,8 @@ monolingual:
       xml:
         size: 3720
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/lv.zip
-    files: 24412513
-    sentences: 36704000
+    files: 36704000
+    sentences: 54048174
     tokens: 23227600279
   mk:
     downloads:
@@ -1022,18 +1022,18 @@ monolingual:
       xml:
         size: 4278
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/mk.zip
-    files: 24412443
-    sentences: 36704000
-    tokens: 28232502116
+    files: 36704000
+    sentences: 54328075
+    tokens: 28232502118
   mt:
     downloads:
       tokenized xml: {}
       xml:
-        size: 3720
+        size: 3904
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/mt.zip
     files: 36704000
-    sentences: 720975855
-    tokens: 23780207761
+    sentences: 1440416465
+    tokens: 23780207763
   nb:
     downloads:
       tokenized xml: {}
@@ -1041,7 +1041,7 @@ monolingual:
         size: 3515
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/nb.zip
     files: 36704000
-    sentences: 720975855
+    sentences: 1609946098
     tokens: 26358589174
   nl:
     downloads:
@@ -1050,8 +1050,8 @@ monolingual:
         size: 3720
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/nl.zip
     files: 36704000
-    sentences: 720975855
-    tokens: 28449344571
+    sentences: 1605144638
+    tokens: 28449344596
   nn:
     downloads:
       tokenized xml: {}
@@ -1059,16 +1059,16 @@ monolingual:
         size: 3515
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/nn.zip
     files: 36704000
-    sentences: 720975855
-    tokens: 26389105140
+    sentences: 1548684991
+    tokens: 26389105130
   pl:
     downloads:
       tokenized xml: {}
       xml:
         size: 3906
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/pl.zip
-    files: 24412513
-    sentences: 36704000
+    files: 36704000
+    sentences: 54626511
     tokens: 24429379541
   pt:
     downloads:
@@ -1077,8 +1077,8 @@ monolingual:
         size: 3720
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/pt.zip
     files: 36704000
-    sentences: 720975855
-    tokens: 29502781673
+    sentences: 1608247635
+    tokens: 29502781696
   ro:
     downloads:
       tokenized xml: {}
@@ -1086,8 +1086,8 @@ monolingual:
         size: 3905
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/ro.zip
     files: 36704000
-    sentences: 720975855
-    tokens: 29195707038
+    sentences: 1607306639
+    tokens: 29195707068
   sk:
     downloads:
       tokenized xml: {}
@@ -1095,17 +1095,17 @@ monolingual:
         size: 3906
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/sk.zip
     files: 36704000
-    sentences: 720975855
-    tokens: 24318731655
+    sentences: 1606234669
+    tokens: 24318731680
   sl:
     downloads:
       tokenized xml: {}
       xml:
         size: 3534
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/sl.zip
-    files: 24412513
-    sentences: 36704000
-    tokens: 25046239868
+    files: 36704000
+    sentences: 54171618
+    tokens: 25046239885
   sq:
     downloads:
       tokenized xml: {}
@@ -1113,7 +1113,7 @@ monolingual:
         size: 3720
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/sq.zip
     files: 36704000
-    sentences: 720975855
+    sentences: 1334347272
     tokens: 30211342577
   sr_Cyrl:
     downloads:
@@ -1122,7 +1122,7 @@ monolingual:
         size: 4393
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/sr_Cyrl.zip
     files: 36704000
-    sentences: 96698504
+    sentences: 215759752
     tokens: 25209922180
   sv:
     downloads:
@@ -1131,8 +1131,8 @@ monolingual:
         size: 3534
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/sv.zip
     files: 36704000
-    sentences: 720975855
-    tokens: 25875435985
+    sentences: 1601187235
+    tokens: 25875435984
   tr:
     downloads:
       tokenized xml: {}
@@ -1140,16 +1140,16 @@ monolingual:
         size: 3720
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/tr.zip
     files: 36704000
-    sentences: 720975855
-    tokens: 22159621512
+    sentences: 1613395487
+    tokens: 22159621525
   uk:
     downloads:
       tokenized xml: {}
       xml:
         size: 4464
         url: https://object.pouta.csc.fi/synOPUS-transweb-edu/v1syn/raw/uk.zip
-    files: 24412511
-    sentences: 36704000
+    files: 36704000
+    sentences: 54666084
     tokens: 24200132127
 moses:
   en-bg: {}

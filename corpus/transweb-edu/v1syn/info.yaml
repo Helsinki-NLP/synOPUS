@@ -1,88 +1,88 @@
 ---
-alignments: 25955130780
+alignments: 58744836720
 language pairs:
-  - en-is
-  - en-mt
-  - en-pt
-  - en-hr
   - en-nn
-  - en-mk
-  - en-pl
-  - en-de
-  - en-sv
-  - en-gl
-  - en-tr
+  - en-cs
+  - en-hu
   - en-fi
+  - en-el
+  - en-sq
+  - en-fr
+  - en-pt
+  - en-bs
+  - en-da
+  - en-ro
+  - en-sk
+  - en-mk
+  - en-de
+  - en-nb
   - en-ga
+  - en-bg
+  - en-mt
   - en-lt
+  - en-ca
+  - en-hr
+  - en-pl
+  - en-uk
+  - en-sv
   - en-nl
   - en-eu
-  - en-it
-  - en-ro
-  - en-sq
-  - en-bg
-  - en-hu
-  - en-da
-  - en-sr_Cyrl
   - en-et
-  - en-uk
   - en-ka
-  - en-lv
-  - en-el
-  - en-es
-  - en-sk
-  - en-fr
-  - en-ca
-  - en-cs
-  - en-nb
-  - en-bs
+  - en-it
   - en-sl
+  - en-lv
+  - en-gl
+  - en-is
+  - en-tr
+  - en-es
+  - en-sr_Cyrl
 languages:
-  - nl
-  - hu
-  - eu
-  - uk
-  - nb
-  - nn
-  - bg
-  - sl
-  - cs
-  - ro
-  - sq
-  - pl
   - ca
-  - es
-  - pt
-  - lt
-  - gl
-  - sk
-  - is
-  - mt
-  - it
+  - cs
+  - bg
   - en
+  - fr
+  - bs
   - ka
-  - da
-  - sv
+  - de
+  - hr
+  - mk
+  - sk
   - et
   - el
-  - fi
-  - bs
-  - mk
-  - lv
-  - sr_Cyrl
-  - fr
-  - tr
-  - hr
+  - ro
+  - nb
+  - it
   - ga
-  - de
+  - nn
+  - sr_Cyrl
+  - lt
+  - pl
+  - uk
+  - tr
+  - hu
+  - fi
+  - pt
+  - lv
+  - sq
+  - sl
+  - sv
+  - is
+  - eu
+  - gl
+  - mt
+  - es
+  - da
+  - nl
 license: '<a href=https://creativecommons.org/licenses/by/4.0/>CC-BY 4.0</a>'
 moses alignments: 0
 name: transweb-edu
 number of language pairs: 36
 number of languages: 37
 release: v1syn
-release date: Sun Sep 21 15:05:26 EEST 2025
-sentences: 19893382589
-tokens: 962502347657
+release date: Thu Sep 25 22:14:18 EEST 2025
+sentences: 42669423292
+tokens: 962502347765
 translation units: 0
 website: http://opus.nlpl.eu/legacy/transweb-edu-v1syn.php

@@ -1,4 +1,9 @@
-     3967 v1syn/info-files.tar.gz
+     2907 index-filesize.txt
+     5968 index-long.txt
+     1988 index.txt
+    11312 info.txt
+       36 releases.txt
+     4077 v1syn/info-files.tar.gz
       974 v1syn/xml/README
       380 v1syn/xml/en-bg.xml.gz
       380 v1syn/xml/en-bs.xml.gz
@@ -36,26 +41,6 @@
       380 v1syn/xml/en-sv.xml.gz
       380 v1syn/xml/en-tr.xml.gz
       380 v1syn/xml/en-uk.xml.gz
-     3024 v1syn/mono/bg.txt.gz
-     2268 v1syn/mono/bs.txt.gz
-     2457 v1syn/mono/ca.txt.gz
-     2645 v1syn/mono/cs.txt.gz
-     2457 v1syn/mono/da.txt.gz
-     2646 v1syn/mono/de.txt.gz
-     3401 v1syn/mono/el.txt.gz
-     2456 v1syn/mono/en.txt.gz
-     2457 v1syn/mono/es.txt.gz
-     2456 v1syn/mono/et.txt.gz
-     2079 v1syn/mono/eu.txt.gz
-     2457 v1syn/mono/fi.txt.gz
-     2646 v1syn/mono/fr.txt.gz
-     2457 v1syn/mono/ga.txt.gz
-     2457 v1syn/mono/gl.txt.gz
-     2457 v1syn/mono/hr.txt.gz
-     2646 v1syn/mono/hu.txt.gz
-     2457 v1syn/mono/is.txt.gz
-     2457 v1syn/mono/it.txt.gz
-     3213 v1syn/mono/ka.txt.gz
      4463 v1syn/raw/bg.zip
      3515 v1syn/raw/bs.zip
      3720 v1syn/raw/ca.zip
@@ -79,7 +64,7 @@
      3720 v1syn/raw/lt.zip
      3720 v1syn/raw/lv.zip
      4278 v1syn/raw/mk.zip
-     3720 v1syn/raw/mt.zip
+     3904 v1syn/raw/mt.zip
      3515 v1syn/raw/nb.zip
      3720 v1syn/raw/nl.zip
      3515 v1syn/raw/nn.zip
@@ -93,4 +78,97 @@
      3534 v1syn/raw/sv.zip
      3720 v1syn/raw/tr.zip
      4464 v1syn/raw/uk.zip
+     3024 v1syn/mono/bg.txt.gz
+     2268 v1syn/mono/bs.txt.gz
+     2457 v1syn/mono/ca.txt.gz
+     2645 v1syn/mono/cs.txt.gz
+     2457 v1syn/mono/da.txt.gz
+     2646 v1syn/mono/de.txt.gz
+     3401 v1syn/mono/el.txt.gz
+     2456 v1syn/mono/en.txt.gz
+     2457 v1syn/mono/es.txt.gz
+     2456 v1syn/mono/et.txt.gz
+     2079 v1syn/mono/eu.txt.gz
+     2457 v1syn/mono/fi.txt.gz
+     2646 v1syn/mono/fr.txt.gz
+     2457 v1syn/mono/ga.txt.gz
+     2457 v1syn/mono/gl.txt.gz
+     2457 v1syn/mono/hr.txt.gz
+     2646 v1syn/mono/hu.txt.gz
+     2457 v1syn/mono/is.txt.gz
+     2457 v1syn/mono/it.txt.gz
+     3213 v1syn/mono/ka.txt.gz
+       31 v1syn/info-old/bg.info
+       30 v1syn/info-old/bs.info
+       31 v1syn/info-old/ca.info
+       31 v1syn/info-old/cs.info
+       31 v1syn/info-old/da.info
+       30 v1syn/info-old/de.info
+       31 v1syn/info-old/el.info
+       43 v1syn/info-old/en-bg.info
+       43 v1syn/info-old/en-bs.info
+       43 v1syn/info-old/en-ca.info
+       43 v1syn/info-old/en-cs.info
+       43 v1syn/info-old/en-da.info
+       43 v1syn/info-old/en-de.info
+       43 v1syn/info-old/en-el.info
+       43 v1syn/info-old/en-es.info
+       43 v1syn/info-old/en-et.info
+       43 v1syn/info-old/en-eu.info
+       43 v1syn/info-old/en-fi.info
+       43 v1syn/info-old/en-fr.info
+       43 v1syn/info-old/en-ga.info
+       43 v1syn/info-old/en-gl.info
+       43 v1syn/info-old/en-hr.info
+       43 v1syn/info-old/en-hu.info
+       43 v1syn/info-old/en-is.info
+       43 v1syn/info-old/en-it.info
+       43 v1syn/info-old/en-ka.info
+       43 v1syn/info-old/en-lt.info
+       43 v1syn/info-old/en-lv.info
+       43 v1syn/info-old/en-mk.info
+       43 v1syn/info-old/en-mt.info
+       43 v1syn/info-old/en-nb.info
+       43 v1syn/info-old/en-nl.info
+       43 v1syn/info-old/en-nn.info
+       43 v1syn/info-old/en-pl.info
+       43 v1syn/info-old/en-pt.info
+       43 v1syn/info-old/en-ro.info
+       43 v1syn/info-old/en-sk.info
+       43 v1syn/info-old/en-sl.info
+       43 v1syn/info-old/en-sq.info
+       43 v1syn/info-old/en-sr_Cyrl.info
+       43 v1syn/info-old/en-sv.info
+       43 v1syn/info-old/en-tr.info
+       43 v1syn/info-old/en-uk.info
+       31 v1syn/info-old/en.info
+       31 v1syn/info-old/es.info
+       31 v1syn/info-old/et.info
+       31 v1syn/info-old/eu.info
+       31 v1syn/info-old/fi.info
+       31 v1syn/info-old/fr.info
+       31 v1syn/info-old/ga.info
+       31 v1syn/info-old/gl.info
+       30 v1syn/info-old/hr.info
+       31 v1syn/info-old/hu.info
+       31 v1syn/info-old/is.info
+       31 v1syn/info-old/it.info
+       30 v1syn/info-old/ka.info
+       31 v1syn/info-old/lt.info
+       30 v1syn/info-old/lv.info
+       30 v1syn/info-old/mk.info
+       31 v1syn/info-old/mt.info
+       31 v1syn/info-old/nb.info
+       31 v1syn/info-old/nl.info
+       31 v1syn/info-old/nn.info
+       30 v1syn/info-old/pl.info
+       31 v1syn/info-old/pt.info
+       31 v1syn/info-old/ro.info
+       31 v1syn/info-old/sk.info
+       30 v1syn/info-old/sl.info
+       31 v1syn/info-old/sq.info
+       30 v1syn/info-old/sr_Cyrl.info
+       31 v1syn/info-old/sv.info
+       31 v1syn/info-old/tr.info
+       30 v1syn/info-old/uk.info
       976 v1syn/moses/README
