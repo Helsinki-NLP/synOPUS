@@ -1,4 +1,5 @@
 name	release	release date	alignments	sentences	tokens	languages	language pairs	license
+nemotron-cc-translated	v1syn	2025-11-15	162298879308	157976208605	2419131293370	37	36	'CC-BY 4.0'
 Europarl	v8syn	2025-03-26	203026062	46231828	1018538887	28	154	unknown
 Wikinews	v1syn	2025-04-04	26011766	31139080	563603941	68	111	'CC-BY-SA 4.0'
 Wikipedia	v1syn	2025-04-08	339636822	447681040	7526827163	62	80	'CC-BY-SA 4.0'
